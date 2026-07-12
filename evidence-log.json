@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-11",
+    "generated": "2026-07-12",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 105,
-    "page_appearances": 119,
-    "page_count": 10,
+    "unique_sources": 116,
+    "page_appearances": 131,
+    "page_count": 11,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -50,7 +50,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -197,7 +197,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-detect-01",
@@ -322,6 +322,178 @@
       ]
     },
     {
+      "page": "/gptzero-ai-detector",
+      "url": "https://metegpt.com/gptzero-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 12,
+      "collection_sweep": {
+        "run_date": "2026-07-12",
+        "candidates_identified": 131,
+        "screened": 131,
+        "excluded": 119,
+        "excluded_by_reason": {
+          "duplicate": 41,
+          "off-topic": 36,
+          "no-methodology-affiliate": 22,
+          "unverifiable-this-run": 20
+        },
+        "included_this_run": 12,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": true,
+        "agreement": "98.2%",
+        "fields_agreed": 54,
+        "fields_compared": 55
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-12"
+        },
+        {
+          "id": "EV-gptzero-ai-detector-01",
+          "claim": "GPTZero's own benchmarking blog post (Feb 2026, authored by co-founder/ML lead Alex Adam and co-founder Alex Cui) self-reports near-perfect accuracy for its current model (4.3b) across essays, academic papers, creative writing and product-review domains, plus a lower 91.80% recall on a 'bypasser' (adversarial/paraphrased) category -- using a test set GPTZero itself selected, generated, and scored, with no disclosed external or peer audit.",
+          "quote": "GPTZero (4.3b): 0.08% false positive rate, 99.60% recall, 99.76% accuracy overall; Essays domain: 0.00% FPR / 100.00% recall; Bypasser (adversarial/paraphrased) domain: 0.21% FPR / 91.80% recall.",
+          "source_url": "https://gptzero.me/news/gptzero-ai-detection-benchmarking-the-industry-standard-in-accuracy-transparency-and-fairness/",
+          "source_date": "2026-02-05",
+          "platform": "Vendor primary source (gptzero.me/news) -- self-interested, GPTZero's own self-conducted benchmark",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-02",
+          "claim": "The one identified peer-reviewed study that directly tested GPTZero itself (rather than a detector class) found sensitivity 65%, specificity 90%, overall accuracy 80%, a 10% false-positive rate and a 35% false-negative rate on a 50-text medical-writing sample -- published Sept 2023 and now roughly three GPTZero model generations old.",
+          "quote": "GPTZero had a sensitivity of 0.65 (95% confidence interval, 0.41-0.85); specificity, 0.90 (0.73-0.98); accuracy, 0.80 (0.66-0.90)... a low (10%) false-positive... and a high (35%) false-negative rate.",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10519776/",
+          "source_date": "2023-09-14",
+          "platform": "Peer-reviewed journal (Journal of Korean Medical Science, DOI 10.3346/jkms.2023.38.e319; author Farrokh Habibzadeh, past president, World Association of Medical Editors)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-03",
+          "claim": "The Stanford-led detector-bias study (Liang et al. 2023, Patterns/Cell Press) found AI detectors as a CLASS flagged 61.3% of authentic non-native-English (TOEFL) essays as AI-generated versus near-perfect accuracy on native-English essays -- detector-class evidence only, since the paper anonymizes the seven commercial detectors it tested and does not name GPTZero (or any other tool) individually.",
+          "quote": "While the detectors accurately classified the US student essays, they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%).",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "Academic (Patterns / Cell Press; Liang, Yuksekgonul, Mao, Wu, Zou; DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-04",
+          "claim": "A second, independently identified peer-reviewed study (NYU Abu Dhabi; Ibrahim, Rahwan, Zaki et al., Scientific Reports, Aug 2023) tested GPTZero directly on 280 real exam questions across 32 university courses and found an 18% false-positive rate and 32% false-negative rate; after the same AI-generated answers were run through a paraphrasing tool, GPTZero's false-negative rate rose to 95%.",
+          "quote": "GPTZero has a higher false positive rate (18%), but a lower false-negative rate (32%).",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10449897/",
+          "source_date": "2023-08-24",
+          "platform": "Peer-reviewed journal (Scientific Reports / Nature; DOI 10.1038/s41598-023-38964-3; Ibrahim, Rahwan, Zaki, New York University Abu Dhabi)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-05",
+          "claim": "AI Busted -- itself a competing AI-detection product, a conflict of interest the article does not clearly disclose upfront -- ran a 200-sample mixed test (2026) and reported GPTZero correctly identified AI text 83% of the time, correctly labeled human text 89% of the time (an 11% false-positive rate), and correctly resolved only 68% of mixed human+AI samples.",
+          "quote": "correctly identified AI text 83% of the time... correctly labeled human text 89% of the time... the 11% false positive rate means roughly one in nine human-written pieces gets flagged.",
+          "source_url": "https://blog.aibusted.com/is-gptzero-accurate/",
+          "source_date": "2026-06-14",
+          "platform": "Competitor-authored content (blog.aibusted.com; AI Busted markets its own competing AI detector and 'a free humanizer' -- undisclosed conflict of interest, self-interested)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-06",
+          "claim": "A third-party review site (TwainGPT, Jan 2026, no byline) ran a 300-sample test (100 AI-generated, 100 mixed, 100 human) and found a 29% false-positive rate on human-written text -- 17 of 100 human samples incorrectly flagged -- against GPTZero's own stated sub-1% claim.",
+          "quote": "GPTZero's false positive rate is under 1%, which is among the lowest in the industry... our testing showed a 29% false positive rate on human-written text.",
+          "source_url": "https://www.twaingpt.com/blog/is-gptzero-accurate",
+          "source_date": "2026-01-02",
+          "platform": "Third-party published test (twaingpt.com; no author byline; disclosed sample size and category breakdown, no disclosed conflict of interest identified)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-07",
+          "claim": "GPTZero's own site states its free education-focused plan allows scanning up to 10,000 words per month, and separately that plan overages are billed at $0.00015/word with roughly 1 million words of headroom before a forced upgrade prompt.",
+          "quote": "GPTZero offers a free plan built for education, allowing you to scan up to 10,000 words a month and use our Chrome Extension.",
+          "source_url": "https://gptzero.me/students",
+          "source_date": "undated (evergreen marketing/product page)",
+          "platform": "Vendor primary source (gptzero.me/students + support.gptzero.me help center) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-08",
+          "claim": "OpenAI discontinued its own AI-text classifier in July 2023, citing a 'low rate of accuracy,' roughly six months after launch -- industry context for why a detector vendor's self-reported accuracy claims (including GPTZero's) draw independent scrutiny by default.",
+          "quote": "We are working to incorporate feedback and are currently researching more effective provenance techniques for text.",
+          "source_url": "https://techcrunch.com/2023/07/25/openai-scuttles-ai-written-text-detector-over-low-rate-of-accuracy/",
+          "source_date": "2023-07-25",
+          "platform": "Journalism (TechCrunch)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-09",
+          "claim": "GPTZero was acquired by Superhuman (announced June 23, 2026); deal terms were not disclosed, but GPTZero's founder stated the company had reached more than 19 million registered users and $30 million in annual recurring revenue prior to the acquisition, and GPTZero continues operating as a standalone product.",
+          "quote": "Terms of the deal were not disclosed, though Tian told Business Insider that GPTZero amassed more than 19 million registered users and $30 million in annual recurring revenue.",
+          "source_url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+          "source_date": "2026-06-23",
+          "platform": "Journalism (TechCrunch)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-10",
+          "claim": "A federal lawsuit (filed Feb 2025, Connecticut U.S. District Court) alleges Yale School of Management flagged an EMBA student's final exam using GPTZero and suspended him for a year; the student's complaint states that running decades-old, human-published academic writing (including work by a former Yale president) through GPTZero returned a '100% probability' AI-generated score, and separately alleges the tool's high false-positive rate disproportionately affects non-native English speakers.",
+          "quote": "Those scans indicated that there was a '100% probability' that selections from these works -- some published over 30 years ago -- were written by AI, a palpably false result.",
+          "source_url": "https://poetsandquantsforundergrads.com/news/denying-alleged-ai-use-student-sues-yale-som-over-year-long-suspension/",
+          "source_date": "2025-02-25",
+          "platform": "Journalism (Poets&Quants for Undergrads), reporting on a filed federal court complaint",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-gptzero-ai-detector-11",
+          "claim": "A third-party SaaS-pricing aggregator (not gptzero.me itself) lists GPTZero's paid tiers as Essential $15/mo (150,000 words/mo), Premium $24/mo (300,000 words/mo), and Professional $46/mo (500,000 words/mo), with roughly 46% off for annual billing -- these figures are NOT vendor-verified this run and should be flagged as subject to change.",
+          "quote": "Essential ... $15/month ... 150000 words per month. Premium ... $24/month ... 300000 words per month. Professional ... $46/month ... 500000 words per month.",
+          "source_url": "https://www.spotsaas.com/product/gptzero/pricing",
+          "source_date": "2026-07-12 (capture date; aggregator page itself undated)",
+          "platform": "Third-party pricing aggregator/directory (spotsaas.com) -- not GPTZero's own pricing page, unverified against vendor primary this run",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/quetext-ai-detector",
       "url": "https://metegpt.com/quetext-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -357,7 +529,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -539,7 +711,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-scribbr-01",
@@ -722,7 +894,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1062,7 +1234,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-gpthuman-01",
@@ -1372,7 +1544,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-10"
+          "re_verified_date": "2026-07-12"
         },
         {
           "id": "EV-best-ai-humanizer-03",
