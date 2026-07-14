@@ -9,9 +9,9 @@
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 123,
-    "page_appearances": 142,
-    "page_count": 14,
+    "unique_sources": 136,
+    "page_appearances": 161,
+    "page_count": 15,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -75,7 +75,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -222,7 +222,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-detect-01",
@@ -258,7 +258,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-detect-04",
@@ -270,7 +270,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-detect-05",
@@ -282,7 +282,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-detect-06",
@@ -294,7 +294,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-detect-07",
@@ -516,7 +516,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -678,6 +678,260 @@
       ]
     },
     {
+      "page": "/pangram-ai-detector",
+      "url": "https://metegpt.com/pangram-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 19,
+      "collection_sweep": {
+        "run_date": "2026-07-14",
+        "candidates_identified": 93,
+        "screened": 93,
+        "excluded": 74,
+        "excluded_by_reason": {
+          "unverifiable-this-run": 27,
+          "duplicate": 27,
+          "off-topic": 11,
+          "no-methodology-affiliate": 9
+        },
+        "included_this_run": 19,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": true,
+        "agreement": "96.9% (63/65 labels: 13 entries x 5 fields, 2 independent coders; 2 splits, both on claim_type, resolved on a third pass)"
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-14"
+        },
+        {
+          "id": "EV-turnitin-01",
+          "claim": "Vanderbilt University disabled Turnitin's AI detector in August 2023, citing Turnitin's own claimed 1% false-positive rate against its 2022 submission volume (roughly 75,000 papers) as grounds that hundreds of student papers could be wrongly flagged, plus non-native-speaker bias and lack of transparency into how the tool works.",
+          "quote": "we do not believe that AI detection software is an effective tool that should be used",
+          "source_url": "https://www.vanderbilt.edu/brightspace/2023/08/16/guidance-on-ai-detection-and-why-were-disabling-turnitins-ai-detector/",
+          "source_date": "2023-08-16",
+          "platform": "university teaching-center announcement (Vanderbilt Brightspace/CIRTL, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-14"
+        },
+        {
+          "id": "EV-detect-03",
+          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario \u2014 concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
+          "quote": "false positive rates of approximately 30-78% across scenarios [for RoBERTa]... All three commercial tools maintained false positive rates below 1 percent [on medium/long passages]",
+          "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
+          "source_date": "2025-10-06",
+          "platform": "university research institute publication (Becker Friedman Institute, University of Chicago; underlying NBER Working Paper No. 34223, authors Brian Jabarian and Alex Imas)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-14"
+        },
+        {
+          "id": "EV-detect-04",
+          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested \u2014 direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
+          "quote": "Accuracy varied significantly by text length, with short passages (under 50 words) proving most challenging",
+          "source_url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
+          "source_date": "2025-12-02",
+          "platform": "university business-school research review (Chicago Booth Review, summarizing Jabarian & Imas / NBER Working Paper No. 34223)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-14"
+        },
+        {
+          "id": "EV-detect-05",
+          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai \u2014 concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
+          "quote": "OriginalityAI and GPTZero constitute a secondary tier among commercial detectors with partial strengths, making the choice between the two dependent on the user's priority: minimizing false positive rate favors GPTZero, while maximizing ability to distinguish AI from human text favors OriginalityAI.",
+          "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
+          "source_date": "2025-10-06",
+          "platform": "university research institute publication (Becker Friedman Institute, University of Chicago; NBER Working Paper No. 34223)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-14"
+        },
+        {
+          "id": "EV-detect-06",
+          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 \u2014 registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
+          "quote": "Pangram Labs: 9/9 AI texts (100%), 3/3 human texts (100%)... GPTZero: 7/9 AI texts (78%), 3/3 human texts (100%)... Originality.ai: 7/9 AI texts (77%), 3/3 human texts (100%)",
+          "source_url": "https://www.pangram.com/blog/best-ai-detector-tools",
+          "source_date": "2026-01-07",
+          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder \u2014 disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-14"
+        },
+        {
+          "id": "EV-pangram-ai-detector-01",
+          "claim": "Pangram's own documentation describes its EditLens output as a continuous 4-tier classification (Fully Human/Human-Written, Lightly AI-Assisted, Moderately AI-Assisted, Fully AI-Generated) rather than a binary pass/fail verdict -- 'light' assistance is limited to surface-level edits like grammar fixes or phrasing changes, while 'moderate' assistance means AI rewrote significant portions or added its own content.",
+          "quote": "Light AI assistance typically indicates surface-level changes that do not affect the underlying ideas, structure, or content of the text... Moderate AI assistance typically indicates changes where AI may have rewritten significant portions of the text or added content of its own.",
+          "source_url": "https://www.pangram.com/blog/introducing-ai-assistance-detection",
+          "source_date": "2025-12-11",
+          "platform": "vendor company blog (Pangram Labs) -- self-interested, describes its own product's scoring mechanism",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-02",
+          "claim": "The primary academic source behind the widely-cited 'near-zero Pangram false positives' claim (Jabarian & Imas, published directly at chicagobooth.edu) tested roughly 2,000 human-written passages across four length bands (very short under 50 words, short 80-130, medium 200-500, long about 1,000 words) and found Pangram's accuracy never dropped below 99.8%, with false positives 'essentially 0 across most decision thresholds' -- a materially different sample description than The Atlantic's own paraphrase of the same study ('some 3,000 sample texts of roughly 500 to 1,000 words'). This page verified the primary source directly rather than repeating the secondary paraphrase.",
+          "quote": "Pangram's accuracy was 100 percent for most models and types of writing, and never lower than 99.8 percent... Pangram did best, making almost no mistakes [on false positives]... essentially 0 across most decision thresholds.",
+          "source_url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
+          "source_date": "2025-12-02",
+          "platform": "university business-school research review (Chicago Booth Review; researchers Brian Jabarian and Alex Imas; summarizing NBER Working Paper No. 34223)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-03",
+          "claim": "Pangram's own published ESL-accuracy audit reports a combined false-positive rate of 0.078% across 25,021 pooled non-native-English writing samples from four datasets (ELLIPSE 3,907 samples, ICNALE 5,600, PELIC 15,423, the Liang/Stanford TOEFL set 91), each individually scoring 0%-0.019% false positive -- a vendor-reported figure that runs counter to the general ESL-detector-bias pattern found in the independently peer-reviewed Stanford 2023 study (61.3% average false-positive rate across seven detectors, none named Pangram), but is not itself an independently reproduced study.",
+          "quote": "PELIC: 0.019% (15,423 samples)... Overall [ESL] false positive rate... 0.078%... not significantly higher than our general false positive rate of 0.01%",
+          "source_url": "https://www.pangram.com/blog/how-accurate-is-pangram-ai-detection-on-esl",
+          "source_date": "2025-04-23",
+          "platform": "vendor company blog (Pangram Labs) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-04",
+          "claim": "An independent test published by CompleteAITraining found that when the author ran a human-written published article that had been AI-'refined' through Pangram, the tool returned a 99.3% AI score and flagged phrases and lines that originated in the author's own human draft -- a single documented case of Pangram's handling of hybrid/lightly-AI-touched text producing a near-total AI classification rather than a partial one.",
+          "quote": "99.3% AI... The tool flagged common phrases and lines that originated in my human draft.",
+          "source_url": "https://completeaitraining.com/news/i-tested-pangrams-ai-detector-on-my-writing-and-it-kept/",
+          "source_date": "2026-01-05",
+          "platform": "independent AI-industry news/test publication (CompleteAITraining)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-05",
+          "claim": "Pangram's own live pricing page lists its Individual paid plan at $20/month for 600 credits (annual billing saves $60), a Professional tier at $65/month for 3,000 credits, and a free tier of 4 credits/day with no payment method required. This directly resolves the cross-source pricing discrepancy flagged in our discovery pass (Tom's Guide reports $15/month; Phrasly and TwainGPT report $20/month for the same nominal 600-credit tier): the live-verified current figure is $20/month, not $15.",
+          "quote": "600 Credits / month... $20 per month... 4 Credits / day... no payment method needed",
+          "source_url": "https://www.pangram.com/pricing",
+          "source_date": "2026-07-14",
+          "platform": "vendor primary source (live pricing page)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-06",
+          "claim": "Pangram's own comparison blog post claims a false-positive rate of 1-in-10,000 overall (1-in-25,000 on an academic-essay dataset) and 99.9% recall on AI-generated/GPT-4 text, against figures it attributes to Turnitin's own technical report (0.51%, roughly 1-in-200 false positives; 76.8% recall on GPT-4 text). Registered as a detector vendor's own head-to-head claim about a named competitor, not an independently verified comparison.",
+          "quote": "Pangram, on the other hand, has a well-documented overall false positive rate of 0.01%, 1 in 10,000... Turnitin's technical report measures a false positive rate of 0.51%, or roughly 1 in 200.",
+          "source_url": "https://www.pangram.com/blog/pangram-vs-turnitin",
+          "source_date": "2025-05-13",
+          "platform": "vendor company blog (Pangram Labs) -- self-interested, direct competitor comparison",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-07",
+          "claim": "Pangram's own blog post (updated August 2025) claims its detector scored 97% accurate against humanized text per a cited external study ('Russell et al.'), and reports it 'performs above 90% on all the notable humanizers' across a self-run benchmark of 19 named humanizer tools (including QuillBot, Grammarly, Undetectable AI, StealthGPT, GPTinf) -- the vendor's own counter-claim to the possibility that humanized text evades its detector, registered as self-interested and not independently reproduced.",
+          "quote": "97% accurate on humanized text... perform above 90% on all the notable humanizers",
+          "source_url": "https://www.pangram.com/blog/humanizers-aug-25",
+          "source_date": "2025-08-27",
+          "platform": "vendor company blog (Pangram Labs) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-08",
+          "claim": "Techmeme's aggregation of The Atlantic's May 30, 2026 investigation ('America Has a Pangram Problem' by Matteo Wong) attributes to Pangram a claimed false-positive rate of 'one in 10,000' and frames the piece around 'the dangers of its claimed one in 10,000 false-positive rate when used at scale.' Registered via Techmeme's live-verified aggregation because theatlantic.com itself could not be independently re-fetched this run (domain-level tool block on every attempted route). This figure is CEO-sourced-to-one-journalist, not an independently reproduced rate.",
+          "quote": "A look at Pangram, considered the gold standard for detecting AI writing, and the dangers of its claimed one in 10,000 false-positive rate when used at scale (Matteo Wong/The Atlantic)",
+          "source_url": "https://www.techmeme.com/260601/p13",
+          "source_date": "2026-06-01",
+          "platform": "tech-news aggregator (Techmeme headline/pull-quote aggregation of The Atlantic)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-09",
+          "claim": "A 2026 preprint co-authored by researchers at Imperial College London, Internet Archive, and Stanford University (Dolezal, Alam, Graham, Bohacek), studying AI-generated text's prevalence across the internet, independently evaluated four AI-text detectors (Binoculars, Desklib, DivEye, and Pangram v3) and selected Pangram v3 as its primary detector, citing it as 'the most consistent option' across robustness dimensions including text-length sensitivity and multilingual support.",
+          "quote": "Based on this evaluation, we selected Pangram v3 as the primary detector for our analyses, since it came out as the most consistent option.",
+          "source_url": "https://arxiv.org/html/2604.26965",
+          "source_date": "2026-04-14",
+          "platform": "preprint academic paper (arXiv 2604.26965; authors affiliated with Imperial College London, Internet Archive, Stanford University)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-10",
+          "claim": "A named Pangram customer testimonial on Pangram's own homepage, attributed to Susan Ray, Associate Professor of English at Delaware County Community College, states she has 'yet to experience a single false positive or false negative' using Pangram in her Canvas-integrated courses. Registered as a vendor-hosted but individually named and attributed testimonial, not an independent study.",
+          "quote": "For me, Pangram Labs has become the most student-centered option I've found for my courses... Pangram's documented false-positive rate (1 in 10,000) allows me to comfortably treat a flag as an invitation to talk, never as a presumption of guilt.",
+          "source_url": "https://www.pangram.com/",
+          "source_date": "2026-07-14",
+          "platform": "vendor-hosted testimonial (pangram.com homepage) -- named individual, real institutional affiliation, self-interested placement",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-11",
+          "claim": "Wiki Education's own blog (independent of Pangram) reports that of 3,078 Wikipedia articles created through its programs since 2022, running them through Pangram flagged 178 (a defined count with denominator, not a percentage-of-population claim) as AI in a January 2026 audit. The same post credits LiAnna Davis, the organization's Chief Programs Officer, with 'high confidence in Pangram as a detector,' while separately disclosing that Pangram 'struggled with false positives' in specific sandbox scenarios involving bibliography/citation formatting and outline-style bullet lists.",
+          "quote": "A total of 178 out of the 3,078 articles came back as flagged for AI... Based on our experiences in the fall term, we have high confidence in Pangram as a detector of AI content, at least in Wikipedia articles.",
+          "source_url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+          "source_date": "2026-01-29",
+          "platform": "independent nonprofit organization's own blog (Wiki Education) -- a documented Pangram user, not a Pangram-authored page",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-12",
+          "claim": "Pangram's own press page states Wellesley College is piloting Pangram (not a full institutional switch), citing The Wellesley News (Dec 9, 2025). Search-surfaced excerpts of that student-newspaper article describe a Provost's-office-approved pilot run in consultation with an Advisory Committee and Wellesley's AI Working Committee, with at least one philosophy faculty member reporting initial skepticism that shifted after hands-on testing. Registered as a PILOT, explicitly not equivalent to a full adoption or a 'switch from Turnitin.'",
+          "quote": "Wellesley College piloted Pangram [pangram.com/press, citing/linking The Wellesley News, Dec 9, 2025]",
+          "source_url": "https://www.pangram.com/press",
+          "source_date": "2026-07-14",
+          "platform": "vendor primary source (Pangram Labs press page), citing an independent student newspaper",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-pangram-ai-detector-13",
+          "claim": "No source found in this sweep -- not GradPilot's own pro-Pangram advocacy article, not Pangram's own /use-cases/universities or /press pages, not any of the 5 competitor pages audited in our discovery pass -- names a specific university that switched FROM Turnitin TO Pangram, or states any aggregate university-count figure (e.g. '12+ universities'). GradPilot's own article recommending Pangram over Turnitin documents only that Vanderbilt disabled Turnitin's AI detector (citing Vanderbilt's own 2023 statement), without naming any replacement tool Vanderbilt adopted. The only two documented Pangram-specific institutional facts located in this sweep are Wellesley's pilot (EV-pangram-ai-detector-12) and Delaware County Community College / Wiki Education's active, named use (EV-pangram-ai-detector-10, EV-pangram-ai-detector-11).",
+          "quote": "Vanderbilt disabled it entirely... No wonder Vanderbilt disabled Turnitin's AI detector entirely [no claim anywhere in the piece that Vanderbilt or any other named school adopted Pangram]",
+          "source_url": "https://gradpilot.com/news/turnitin-failed-admissions-pangram-replacement",
+          "source_date": "2025-09-14",
+          "platform": "admissions-consulting blog (GradPilot) that itself advocates for Pangram over Turnitin -- its failure to find switch evidence despite that bias is the meaningful signal here; cross-checked live against pangram.com/use-cases/universities and pangram.com/press (vendor's own site), neither of which states an aggregate adoption count",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-14",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/quetext-ai-detector",
       "url": "https://metegpt.com/quetext-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -713,7 +967,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -895,7 +1149,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-scribbr-01",
@@ -1078,7 +1332,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1102,7 +1356,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-turnitin-02",
@@ -1418,7 +1672,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-gpthuman-01",
@@ -1728,7 +1982,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-12"
+          "re_verified_date": "2026-07-14"
         },
         {
           "id": "EV-best-ai-humanizer-03",
