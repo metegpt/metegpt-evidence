@@ -5,16 +5,41 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-12",
+    "generated": "2026-07-14",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 116,
-    "page_appearances": 131,
-    "page_count": 11,
+    "unique_sources": 123,
+    "page_appearances": 142,
+    "page_count": 14,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
+    {
+      "page": "/",
+      "url": "https://metegpt.com/",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 1,
+      "collection_sweep": null,
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-13"
+        }
+      ]
+    },
     {
       "page": "/best-ai-humanizer",
       "url": "https://metegpt.com/best-ai-humanizer",
@@ -74,7 +99,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-07-13"
         },
         {
           "id": "EV-best-ai-humanizer-04",
@@ -122,7 +147,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-13"
         },
         {
           "id": "EV-best-ai-humanizer-08",
@@ -322,6 +347,140 @@
       ]
     },
     {
+      "page": "/free-ai-humanizer",
+      "url": "https://metegpt.com/free-ai-humanizer",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 9,
+      "collection_sweep": {
+        "run_date": "2026-07-13",
+        "candidates_identified": 117,
+        "screened": 117,
+        "excluded": 107,
+        "excluded_by_reason": {
+          "off-topic": 79,
+          "no-methodology-affiliate": 21,
+          "duplicate": 4,
+          "unverifiable-this-run": 3
+        },
+        "included_this_run": 10,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": true,
+        "agreement": "100% (45/45 labels: 9 entries x 5 fields, 2 independent coders, zero splits)"
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-03",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
+          "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
+          "source_date": "2025-08-27",
+          "platform": "industry news site quoting Turnitin CPO Annie Chechitelli",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-13"
+        },
+        {
+          "id": "EV-best-ai-humanizer-07",
+          "claim": "Undetectable.ai's own pricing page states its free trial is capped at 250 words, which readers should weigh against any 'free' marketing claims for the tool.",
+          "quote": "Free Trial is limited to 250 words. Additional usage requires paid plan activation.",
+          "source_url": "https://undetectable.ai/pricing",
+          "source_date": "2026-07-04",
+          "platform": "vendor pricing page (undetectable.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-13"
+        },
+        {
+          "id": "EV-free-ai-humanizer-01",
+          "claim": "Ahrefs' own Terms of Service state it may use content submitted to its AI Tools (which include its free AI Text Humanizer) to train its own machine learning models -- a documented example of what a free no-signup-adjacent tool's fine print permits, worth checking before pasting sensitive text.",
+          "quote": "You agree that we may use User Content, including any content you provide to us in connection with your use of AI Tools, to train our machine learning models and support and develop AI Tools.",
+          "source_url": "https://ahrefs.com/legal/terms",
+          "source_date": "2026-06-18 (page states \"Last modified June 18, 2026\")",
+          "platform": "vendor primary source (ahrefs.com/legal/terms, Section 13.3) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-free-ai-humanizer-02",
+          "claim": "RewriteAI's own free-ai-humanizer page states four different numbers for its free-tier word allowance in four different places on the same page, none reconciled with each other.",
+          "quote": "Input-box counter: \"0 / 300 words\". Intro paragraph: \"Free usage includes humanizing texts up to 500 words per session\". FAQ: \"Free usage is limited to 500 words per session\". Pricing table (Free tier): \"500 words per month\".",
+          "source_url": "https://rewriteai.com/free-ai-humanizer",
+          "source_date": "undated (evergreen marketing page; capture date 2026-07-13)",
+          "platform": "vendor primary source (rewriteai.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-free-ai-humanizer-03",
+          "claim": "RewriteAI's own page claims a '99%+ Human score on all detectors' and a '99%' AI Detection Resistance rating, with no linked methodology, dataset, date, or third-party test behind either number.",
+          "quote": "99%+ Human score on all detectors",
+          "source_url": "https://rewriteai.com/free-ai-humanizer",
+          "source_date": "undated (evergreen marketing page; capture date 2026-07-13)",
+          "platform": "vendor primary source (rewriteai.com) -- self-interested, unsourced",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-free-ai-humanizer-04",
+          "claim": "RewriteAI's page carries a one-line marketing privacy promise ('we use your text only for rewriting purposes'), but the site's own formal Privacy Policy does not state a retention period for submitted text and does not confirm or rule out sharing it with third-party service providers.",
+          "quote": "We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law.",
+          "source_url": "https://rewriteai.com/legal/privacy-policy",
+          "source_date": "2025-07-25 (page states \"Last updated 2025-07-25\")",
+          "platform": "vendor primary source (rewriteai.com/legal/privacy-policy) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-free-ai-humanizer-05",
+          "claim": "Humanize.ai's homepage states, unqualified, that it 'bypasses all AI detectors' and displays a '98.3% Natural Language Score' trust badge, with no linked methodology, dataset, or dated third-party test behind either figure.",
+          "quote": "Bypasses all AI detectors",
+          "source_url": "https://humanize.ai",
+          "source_date": "undated (evergreen marketing page; capture date 2026-07-13)",
+          "platform": "vendor primary source (humanize.ai) -- self-interested, unsourced",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-free-ai-humanizer-06",
+          "claim": "Humanize.ai markets itself on its homepage as '100% Free... unlimited words... No sign up or credit card required,' but its own pricing page shows no free tier at all -- both listed plans are paid, and the Turnitin/Originality.ai/Copyleaks-facing 'Advanced Humanizer' tier is capped at 10,000 words/month with paid refills, not unlimited.",
+          "quote": "Advanced Humanizer -- 10k words/month, bypasses: Turnitin, Originality.ai, Copyleaks. Refill anytime ($9 for 10k words).",
+          "source_url": "https://humanize.ai/pricing",
+          "source_date": "undated (evergreen pricing page; capture date 2026-07-13)",
+          "platform": "vendor primary source (humanize.ai/pricing) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-free-ai-humanizer-07",
+          "claim": "Humanize.ai's own Privacy Policy (dated) states it uses AI technologies to modify submitted text 'to reduce the likelihood of detection by AI content classifiers,' logs interactions with the tool for service/accuracy improvement, and retains IP-address/technical logs for a limited, unspecified period before deletion or anonymization.",
+          "quote": "IP addresses and related technical data may be stored in our logs and databases for a limited period, after which old guest-usage records are periodically deleted or anonymized in accordance with our data retention practices.",
+          "source_url": "https://humanize.ai/privacy",
+          "source_date": "2025-08-07 (page states \"Last Modified: August 7, 2025\")",
+          "platform": "vendor primary source (humanize.ai/privacy) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-13",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/gptzero-ai-detector",
       "url": "https://metegpt.com/gptzero-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -490,6 +649,31 @@
           "collected_at": "2026-07-12",
           "re_verified": false,
           "re_verified_date": null
+        }
+      ]
+    },
+    {
+      "page": "/methodology",
+      "url": "https://metegpt.com/methodology",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 1,
+      "collection_sweep": null,
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-13"
         }
       ]
     },
@@ -906,7 +1090,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-07-13"
         },
         {
           "id": "EV-turnitin-01",
@@ -1014,7 +1198,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-07-13"
         },
         {
           "id": "EV-turnitin-11",
@@ -1556,7 +1740,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-07-13"
         },
         {
           "id": "EV-best-ai-humanizer-09",
@@ -1592,7 +1776,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-07-13"
         },
         {
           "id": "EV-scribbr-06",
