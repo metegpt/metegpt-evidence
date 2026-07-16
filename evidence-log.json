@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-14",
+    "generated": "2026-07-16",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 136,
-    "page_appearances": 161,
-    "page_count": 15,
+    "unique_sources": 144,
+    "page_appearances": 174,
+    "page_count": 16,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -75,7 +75,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -222,7 +222,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-01",
@@ -258,7 +258,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-04",
@@ -270,7 +270,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-05",
@@ -282,7 +282,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-06",
@@ -294,7 +294,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-07",
@@ -516,7 +516,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -678,6 +678,189 @@
       ]
     },
     {
+      "page": "/originality-ai-detector",
+      "url": "https://metegpt.com/originality-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 13,
+      "collection_sweep": {
+        "run_date": "2026-07-16",
+        "candidates_identified": 55,
+        "screened": 55,
+        "excluded": 41,
+        "excluded_by_reason": {
+          "off-topic": 12,
+          "no-methodology-affiliate": 12,
+          "duplicate": 9,
+          "unverifiable-this-run": 7,
+          "unlinkable": 1
+        },
+        "included_this_run": 14,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-16"
+        },
+        {
+          "id": "EV-detect-03",
+          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario \u2014 concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
+          "quote": "false positive rates of approximately 30-78% across scenarios [for RoBERTa]... All three commercial tools maintained false positive rates below 1 percent [on medium/long passages]",
+          "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
+          "source_date": "2025-10-06",
+          "platform": "university research institute publication (Becker Friedman Institute, University of Chicago; underlying NBER Working Paper No. 34223, authors Brian Jabarian and Alex Imas)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-16"
+        },
+        {
+          "id": "EV-detect-04",
+          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested \u2014 direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
+          "quote": "Accuracy varied significantly by text length, with short passages (under 50 words) proving most challenging",
+          "source_url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
+          "source_date": "2025-12-02",
+          "platform": "university business-school research review (Chicago Booth Review, summarizing Jabarian & Imas / NBER Working Paper No. 34223)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-16"
+        },
+        {
+          "id": "EV-detect-05",
+          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai \u2014 concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
+          "quote": "OriginalityAI and GPTZero constitute a secondary tier among commercial detectors with partial strengths, making the choice between the two dependent on the user's priority: minimizing false positive rate favors GPTZero, while maximizing ability to distinguish AI from human text favors OriginalityAI.",
+          "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
+          "source_date": "2025-10-06",
+          "platform": "university research institute publication (Becker Friedman Institute, University of Chicago; NBER Working Paper No. 34223)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-16"
+        },
+        {
+          "id": "EV-detect-06",
+          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 \u2014 registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
+          "quote": "Pangram Labs: 9/9 AI texts (100%), 3/3 human texts (100%)... GPTZero: 7/9 AI texts (78%), 3/3 human texts (100%)... Originality.ai: 7/9 AI texts (77%), 3/3 human texts (100%)",
+          "source_url": "https://www.pangram.com/blog/best-ai-detector-tools",
+          "source_date": "2026-01-07",
+          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder \u2014 disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-07-16"
+        },
+        {
+          "id": "EV-originality-ai-detector-01",
+          "claim": "Originality.ai's own marketing FAQ claims 99% accuracy 'on the latest AI models,' with a separate on-page comparison table citing a 97.09% figure attributed to an unspecified independent benchmark (AH&AITD dataset) -- the vendor's own headline accuracy claim, registered as a self-interested source, not adopted as a measured fact.",
+          "quote": "On the latest AI models, Originality.ai has 99% accuracy.",
+          "source_url": "https://originality.ai/ai-checker",
+          "source_date": "undated (evergreen vendor page; capture date 2026-07-16)",
+          "platform": "vendor primary source (originality.ai/ai-checker; self-interested marketing FAQ)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-02",
+          "claim": "Originality.ai's own pricing page states its Pro plan costs $14.95/month billed monthly or $12.95/month billed annually, includes 2,000 credits per month, spends 1 credit per 100 words for AI-detection-only scans versus 2 credits per 100 words when plagiarism checking is bundled in, and that monthly subscription credits expire and do not roll over while separately purchased top-up credits expire after 2 years.",
+          "quote": "2,000 credits per month... 1 month expiry - renews monthly [subscription credits]... [top-up credits] expire 2 years after purchase if unused",
+          "source_url": "https://originality.ai/pricing",
+          "source_date": "undated (evergreen vendor pricing page; capture date 2026-07-16)",
+          "platform": "vendor primary source (originality.ai/pricing; self-interested pricing claims)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-03",
+          "claim": "Originality.ai's own dated blog post about the academic RAID benchmark study states its Model 2.0 Standard was the version tested, and explicitly says its Model 3.0 Turbo -- which it claims outperforms 2.0 -- shipped about a month after the RAID researchers ran their tests, with a further 'Turbo 3.0.1' update following in October 2024; the study's widely re-cited results were never re-run against the model version Originality.ai has shipped since, per the vendor's own account. The underlying academic paper is RAID (arxiv.org/abs/2405.07940, submitted 13 May 2024, revised 10 Jun 2024, ACL 2024; evaluates 8 open- and 4 closed-source detectors).",
+          "quote": "Originality.ai's model 2.0 Standard was used for these results, however we would expect model 3.0 Turbo (which was released 1 month after the authors used Originality.ai) to outperform 2.0... In October 2024, we released an updated Turbo 3.0.1 model",
+          "source_url": "https://originality.ai/blog/robust-ai-detection-study-raid",
+          "source_date": "2025-10-28",
+          "platform": "vendor primary source (originality.ai company blog; self-interested, but this specific admission runs against the vendor's own headline RAID-accuracy claim, so treated as a strong self-admission of the model-version gap)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-04",
+          "claim": "Originality.ai's own dated blog post on choosing a detection model confirms Turbo remains the current top-tier, zero-tolerance model (99%+ claimed accuracy, 1.5% claimed false-positive rate), alongside Lite (99% accuracy, 0.5% FP) and Academic (99%+ accuracy, <1% FP) -- corroborating that 'Turbo' is still the shipping model line that superseded the RAID study's Model 2.0 Standard, not a retired version.",
+          "quote": "Turbo... 99%+ accuracy rate... 1.5% false positive rate (Lite: 99% accuracy... 0.5% false positive rate; Academic: 99%+ accuracy... <1% false positive rate)",
+          "source_url": "https://originality.ai/blog/which-ai-detection-model-to-use",
+          "source_date": "2025-10-28 (byline Jonathan Gillham)",
+          "platform": "vendor primary source (originality.ai company blog; self-interested)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-05",
+          "claim": "PCWorld's own disclosed same-sample test (one 100%-Gemini-generated short story, run twice through each tool) found Originality.ai scored 100% AI probability on both runs while GPTZero scored 62% on both runs and QuillBot's own detector scored 78% on both runs -- an independent journalistic test verified directly from the original article, not a vendor claim and not relayed through a secondary summary site.",
+          "quote": "100 percent (first run), 100 percent (second run) [Originality.ai]... 62 percent (first run), 62 percent (second run) [GPTZero]",
+          "source_url": "https://www.pcworld.com/article/2510217/i-tried-4-ai-detection-tools-and-they-were-mostly-disappointing.html",
+          "source_date": "2024-11-25",
+          "platform": "independent journalism (PCWorld; author Ashley Biancuzzo, Associate Editor; disclosed same-sample test, no stated vendor affiliation)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-06",
+          "claim": "GPTZero's own dated comparison page reports a self-run 3,000-sample benchmark (50% human, 50% AI-generated) finding GPTZero scored 99.3% overall accuracy with a 0.24% false-positive rate versus 83.0% accuracy and a 4.79% false-positive rate for Originality.ai -- a rival detector vendor's own test of a competitor, registered as a self-interested vendor claim and not a neutral ranking. This is the documented primary source of the '4.79% false-positive' figure re-cited across the SERP without attribution.",
+          "quote": "GPTZero achieved 99.3% overall accuracy, compared to 83.0% for Originality... a false positive rate of just 0.24% [GPTZero, vs] 4.79% [Originality]",
+          "source_url": "https://gptzero.me/news/gptzero-vs-copyleaks-vs-originality/",
+          "source_date": "2025-09-25",
+          "platform": "competing vendor blog (gptzero.me; self-interested -- GPTZero sells a rival detector and ran its own benchmark showing itself outperforming Originality.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-07",
+          "claim": "An independent hands-on test (a single described example, no disclosed sample size or repeat trials) found that after running ChatGPT-generated text through QuillBot's paraphraser, GPTZero's basic scan scored the result 52% human-written/6% mixed/42% AI (deep scan: 72% human/5% mixed/22% AI), while Originality.ai still flagged the same paraphrased text as 100% AI -- registered as a single-test anecdote illustrating a detector-vs-detector gap on paraphrased content, not a general accuracy rate for either tool.",
+          "quote": "52% human-written, 6% mixed, and 42% AI [GPTZero basic scan on QuillBot-paraphrased text]... Originality AI: 100% AI",
+          "source_url": "https://tamzidahmed.com/gpt-zero-vs-originality-ai/",
+          "source_date": "2026-01-23 (updated; originally published 2024-06-04)",
+          "platform": "independent blog (tamzidahmed.com; author Tamzid Ahmed; single hands-on test, no disclosed methodology beyond the described trial, no stated vendor affiliation)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-originality-ai-detector-08",
+          "claim": "A dated Gizmodo investigation documents a named freelance writer (Kimberly Gasuras, a 24-year news-reporting veteran) whose work on the WritersAccess platform was flagged as AI-generated by a tool called 'Originality,' resulting in an account suspension for 'excessive use of AI'; she disputed the flag, her appeals went unanswered, and she was ultimately removed from the platform -- an independently reported, named, dated false-positive case with a real economic consequence, not an anonymous forum anecdote.",
+          "quote": "I only got one warning... I got this message saying they'd flagged my work as AI using a tool called 'Originality.'",
+          "source_url": "https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820",
+          "source_date": "2024-06-12",
+          "platform": "independent journalism (Gizmodo; author Thomas Germain; named source, disclosed case, no stated vendor affiliation)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-16",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/pangram-ai-detector",
       "url": "https://metegpt.com/pangram-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -711,7 +894,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-turnitin-01",
@@ -735,7 +918,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-04",
@@ -747,7 +930,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-05",
@@ -759,7 +942,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-detect-06",
@@ -771,7 +954,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-pangram-ai-detector-01",
@@ -967,7 +1150,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1149,7 +1332,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-scribbr-01",
@@ -1332,7 +1515,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1672,7 +1855,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-gpthuman-01",
@@ -1982,7 +2165,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-16"
         },
         {
           "id": "EV-best-ai-humanizer-03",
