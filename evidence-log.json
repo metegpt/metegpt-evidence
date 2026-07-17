@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-16",
+    "generated": "2026-07-17",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 144,
-    "page_appearances": 174,
-    "page_count": 16,
+    "unique_sources": 158,
+    "page_appearances": 191,
+    "page_count": 17,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -87,7 +87,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-17"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -147,7 +147,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-17"
         },
         {
           "id": "EV-best-ai-humanizer-08",
@@ -183,7 +183,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-17"
         }
       ]
     },
@@ -392,7 +392,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-17"
         },
         {
           "id": "EV-free-ai-humanizer-01",
@@ -2297,6 +2297,236 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-08",
           "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
+      "page": "/vs/undetectable-ai",
+      "url": "https://metegpt.com/vs/undetectable-ai",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 17,
+      "collection_sweep": {
+        "run_date": "2026-07-17",
+        "candidates_identified": 53,
+        "screened": 53,
+        "excluded": 35,
+        "excluded_by_reason": {
+          "unverifiable-this-run": 3,
+          "unlinkable": 4,
+          "no-methodology-affiliate": 11,
+          "off-topic": 17
+        },
+        "included_this_run": 18,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-02",
+          "claim": "Undetectable.ai's own blog publishes an unsourced '100% (Verified)' success-rate claim for its own tool in a self-authored ranking, with no methodology or link, alongside self-ranking itself #1 above QuillBot and Originality AI.",
+          "quote": "Undetectable AI | Professionals & Students | 100% (Verified) | Combines detection and humanization in one click.",
+          "source_url": "https://undetectable.ai/blog/best-ai-humanizer",
+          "source_date": "2026-04-16",
+          "platform": "vendor blog (undetectable.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-17"
+        },
+        {
+          "id": "EV-best-ai-humanizer-07",
+          "claim": "Undetectable.ai's own pricing page states its free trial is capped at 250 words, which readers should weigh against any 'free' marketing claims for the tool.",
+          "quote": "Free Trial is limited to 250 words. Additional usage requires paid plan activation.",
+          "source_url": "https://undetectable.ai/pricing",
+          "source_date": "2026-07-04",
+          "platform": "vendor pricing page (undetectable.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-17"
+        },
+        {
+          "id": "EV-best-ai-humanizer-17",
+          "claim": "A first-person, methodology-disclosed test of Undetectable.ai found the tool's output scored WORSE on a detector after processing than the untouched original (GPTZero 55% AI baseline rose to 69% AI after 'humanization'), and Undetectable.ai's own advertised money-back guarantee ('if anything we produce is flagged as not human, we will refund the cost') was only partially honored on request, with the company citing a canceled account when the author pressed for the full refund.",
+          "quote": "If anything we produce is flagged as not human, we will refund the cost of humanization.",
+          "source_url": "https://www.companionlink.com/blog/2026/05/is-undetectable-ai-a-scam-i-paid-money-so-you-wont-have-to/",
+          "source_date": "2026-05-07",
+          "platform": "independent blog, first-person disclosed-methodology test (companionlink.com; author JW Bruns)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-07",
+          "re_verified": true,
+          "re_verified_date": "2026-07-17"
+        },
+        {
+          "id": "EV-undetectable-ai-01",
+          "claim": "Undetectable.ai's own homepage states, in absolute terms with no cited evidence, that content it produces is guaranteed to defeat any AI detector.",
+          "quote": "The content produced by Undetectable AI is unique, ranking high on search engines, and is guaranteed to bypass any AI detectors.",
+          "source_url": "https://undetectable.ai/",
+          "source_date": "2026-07-17 (live page capture)",
+          "platform": "vendor homepage (undetectable.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-02",
+          "claim": "Undetectable.ai's own homepage makes two different, internally inconsistent Forbes claims on the same page -- a rotating banner and checkbox copy asserting it is 'Rated #1 Best AI Detector by Forbes!' / 'The #1 AI Detector according to Forbes', alongside separate homepage copy describing the same recognition more modestly as being 'Nominated by Forbes as the best AI detector on the market.' The underlying Forbes mention referenced on the page (previewDate July 22, 2024) is titled as a 'Top 10' roundup, not a #1 ranking.",
+          "quote": "Rated #1 Best AI Detector by Forbes! ... The #1 AI Detector according to Forbes ... Nominated by Forbes as the best AI detector on the market ... [Forbes preview] The Top 10 AI Content Detector Tools In 2024 (previewDate July 22, 2024)",
+          "source_url": "https://undetectable.ai/",
+          "source_date": "2026-07-17 (live page capture)",
+          "platform": "vendor homepage (undetectable.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-03",
+          "claim": "A competing detector vendor's dated review found that text processed by Undetectable AI's humanizer was still flagged as likely AI-generated by GPTZero in their own test, and separately found that Undetectable's homepage claim of being the '#1 best AI detector rated by Forbes' does not match Forbes' own November 2024 AI-detector ranking, which the reviewers say does not mention Undetectable at all; the review also notes other press-mention quotes on Undetectable's site could not be found or linked to their stated publications.",
+          "quote": "However, when we test the same paragraph in GPTZero, it still flags the passage as likely AI. ... Although its website claims it is the '#1 best AI detector rated by Forbes', based on Forbes' recent November 2024 ranking of AI detection tools, Undetectable was not even mentioned. ... None of these quotes could be found or are linked to their respective publications.",
+          "source_url": "https://gptzero.me/news/undetectable-ai-review/",
+          "source_date": "2025-01-10",
+          "platform": "competitor-authored review (gptzero.me; GPTZero sells a competing AI detector and is reviewing a rival tool -- self-interested, read with that in mind)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-04",
+          "claim": "An independent technology journalist's dated test of Undetectable AI's own bundled AI detector found its accuracy reversed on the sample texts used: it rated a human-written passage as 60% likely AI-generated, while rating three separate AI-written passages as 75%, 76%, and 77% likely human -- the opposite of correct classification in both directions. Three other detectors tested in the same article (Pangram, QuillBot, ZeroGPT) reportedly identified every sample correctly.",
+          "quote": "[Undetectable.ai] rated human writing (Test 1) as 60% likely AI, and all three AI writing samples as 75%, 76%, and 77% likely human.",
+          "source_url": "https://www.zdnet.com/article/i-tested-10-ai-content-detectors-and-these-3-correctly-identified-ai-text-every-time/",
+          "source_date": "2025-10-29",
+          "platform": "independent journalism (ZDNet; author David Gewirtz, Senior Contributing Editor; no stated vendor affiliation)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-05",
+          "claim": "Undetectable.ai's own blog cites what it presents as the same David Gewirtz/ZDNet detector test (matching structure: 11 tools, 5 text blocks, 2 human + 3 ChatGPT samples, 70% probability threshold) but reports the opposite outcome for its own detector -- '100% accuracy, correctly identifying every human and machine-generated sample' -- attributing it to an article titled '5 AI Content Detectors That Work,' a title this run could not independently locate on zdnet.com or via web search. This directly contradicts the verified primary source's reversed-accuracy finding (EV-undetectable-ai-04).",
+          "quote": "Undetectable AI recorded 100% accuracy, correctly identifying every human and machine-generated sample.",
+          "source_url": "https://undetectable.ai/blog/ai-detector-tests-and-studies/",
+          "source_date": "2026-04-20",
+          "platform": "vendor company blog (undetectable.ai) -- self-graded, and the specific cited source title could not be independently verified",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-06",
+          "claim": "A dated third-party test with disclosed methodology (Originality.ai, Nov 2025) ran ChatGPT-generated text through Undetectable AI's humanizer and scored the before/after output on three detectors: Originality.ai's own detector stayed at 100% 'Likely AI' with no improvement, GPTZero dropped from 100% to 91% AI-generated, and Writer's detector dropped from 6% to 3% AI. Originality.ai sells a competing AI detector and is grading a rival's humanizer output partly against its own product -- a disclosed self-interest.",
+          "quote": "Undetectable AI-humanized copy is still detectable as Likely AI by industry-leading platforms like Originality.ai. [Table: Originality.ai 100%->100% Likely AI; Writer 94%->97% human (6%->3% AI); GPTZero 100%->91% AI-generated]",
+          "source_url": "https://originality.ai/blog/undetectable-ai-review",
+          "source_date": "2025-11-12",
+          "platform": "vendor blog (originality.ai; self-interested -- Originality.ai sells a competing AI detector and is reviewing a rival humanizer partly against its own product)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-07",
+          "claim": "An independent humanizer-vendor review, which explicitly discloses its own competing-product conflict of interest, rates Undetectable.ai 4.2/5 as a 'solid category incumbent,' and explains it deliberately does not publish detector-percentage numbers because detector models update monthly and such numbers go stale within months.",
+          "quote": "4.2 / 5 -- solid category incumbent, not uniquely better than newer alternatives. ... We build a competing product at Leap, so this review is written with that conflict in mind. ... detector numbers rot quickly -- the underlying models update monthly -- and we want comparisons that still hold in six months.",
+          "source_url": "https://tryleap.ai/review/undetectable-ai",
+          "source_date": "2026-04 (updated April 2026)",
+          "platform": "independent review with disclosed COI (tryleap.ai; sells a competing humanizer, discloses this explicitly)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-08",
+          "claim": "A peer-reviewed academic study tested whether Undetectable.ai could reduce AI-detector scores on GPT-4-generated academic abstracts and found a large, statistically significant drop in AI-detection score after processing (from a roughly 91% baseline to roughly 28% per the study's reported figures).",
+          "quote": "After humanizing the abstracts, the AI-detection score lowered significantly (27.8 +/- 33.2% [95% CI, 13.2%-42.3%]; P < 0.0001).",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10810838",
+          "source_date": "2023-08-02",
+          "platform": "peer-reviewed academic journal (Eye [Lond]; authors Andrea Taloni, Vincenzo Scorcia, Giuseppe Giannaccare, Department of Ophthalmology, University Magna Graecia of Catanzaro, Italy)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-09",
+          "claim": "A peer-reviewed study on AI-generated survey responses found that automated AI-detection tools performed at only 43% accuracy (worse than chance) across the seven detectors tested, and separately reported that obfuscating AI-generated text with Undetectable.ai prevented any of the tested automated detectors from flagging it as AI-generated.",
+          "quote": "automatic AI detection systems are currently completely unusable. ... Obfuscating sentences with Undetectable.AI was an effective solution for bypassing AI detectors.",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10869497",
+          "source_date": "2024-02-02",
+          "platform": "peer-reviewed academic journal (Frontiers in Robotics and AI; authors Benjamin Lebrun, Sharon Temtsin, Andrew Vonasch, Christoph Bartneck)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-10",
+          "claim": "Undetectable.ai's own pricing page states its cheapest paid plan costs $9.99/month for 10,000 words/month (or $5.00/month billed annually at $60/year), a price point readers should weigh against the tool's marketing claims.",
+          "quote": "$9.99 ... 10K words/month ... $5.00/mo (billed as $60.00 annually)",
+          "source_url": "https://undetectable.ai/pricing",
+          "source_date": "2026-07-17 (live page capture)",
+          "platform": "vendor pricing page (undetectable.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-11",
+          "claim": "Undetectable.ai's own blog post, bylined to the company's founder and CEO, claims the tool 'bypasses Turnitin detection with roughly 85-95% consistency' and presents a comparison table putting Turnitin's real-world AI-catch rate at about 85%. The post attributes these figures to 'detailed testing from four major industry sources' (named as Word-Spinner, GoAIHelper, TechDictionary, and PlagiarismCheck) without linking to or directly quoting any of that underlying testing. This is the only Turnitin-specific bypass claim found anywhere in this run's census; no independent, methodology-disclosed test of Undetectable.ai against Turnitin specifically was found.",
+          "quote": "2026 testing shows Undetectable AI bypasses Turnitin detection with roughly 85-95% consistency. ... Bypasses detectors 85% to 95% of the time. ... To get the facts, we looked at detailed testing from four major industry sources: Word-Spinner, GoAIHelper, TechDictionary, and PlagiarismCheck.",
+          "source_url": "https://undetectable.ai/blog/undetectable-ai-vs-turnitin/",
+          "source_date": "2026-02-04",
+          "platform": "vendor company blog, bylined to Christian Perry (Undetectable.ai founder and CEO) -- maximally self-interested, and the secondary sources it names are unlinked and unquoted",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-12",
+          "claim": "The specific Terms-of-Service, Refund-Policy, and Privacy-Policy URL paths commonly guessed for Undetectable.ai (undetectable.ai/terms-of-service, /refund-policy, /privacy-policy) all return 404. The company's actual, live Terms of Service (at a different URL, undetectable.ai/terms) states refunds are conditional -- 'only available if a submission provably flags as less than 75% human on a reputable AI detector,' within '30 days of incident' -- narrower than the 'no questions asked' guarantee language displayed on the company's own help page. There is no standalone Refund Policy page; refund terms live inside the Terms of Service.",
+          "quote": "Refunds will not be provided unless required by law. Refund of credits is only available if a submission provably flags as less than 75% human on a reputable AI detector. ... Refund of credit or payment requests must be made within 30 days of incident. (undetectable.ai/terms) -- vs. -- If anything we generate is detected by any AI detector, reach out to us at contact@undetectable.ai. Send us the document along with where it was detected and we will refund the cost of the generation, no questions asked. (undetectable.ai/help)",
+          "source_url": "https://undetectable.ai/terms",
+          "source_date": "2026-07-17 (live page capture; Privacy Policy at undetectable.ai/privacy separately shows 'last updated March 18, 2023')",
+          "platform": "vendor legal pages (undetectable.ai/terms, /privacy, /help)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-13",
+          "claim": "Of 5 visible answers on a single dated Quora thread asking whether Undetectable.ai can beat AI detectors (answers spanning Nov 2024-Apr 2026, captured 2026-07-17), 2 report a specific, named GPTZero-detection failure after using the tool (one from a purchased-yearly-plan user who says GPTZero still flagged the text after a re-generation attempt and who received refund help from support; one citing a specific 47% AI-probability GPTZero score after processing), 2 give hedged/mixed answers ('can sometimes bypass weaker tools, but no system is unbeatable'), and 1 offers general commentary about detectors training on humanizer output rather than a specific test result.",
+          "quote": "it couldn't bypass [GPTZero, on first attempt] ... it could't bypass too (the quality of the text is bad actually) -- Suha Tobal Ali, Nov 14 2024. / Undetectable AI can't even bypass GPTZero with 47% probability of AI-generated content -- AImaster678.",
+          "source_url": "https://www.quora.com/Can-Undetectable-ai-beat-AI-detectors",
+          "source_date": "2024-11-14 (earliest dated answer; thread activity through at least 2026-04-22)",
+          "platform": "community Q&A (Quora; single thread, denominator-defined per MEP v1.0 reporting rules)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-undetectable-ai-14",
+          "claim": "Undetectable.ai's own homepage advertises support for 50+ languages and states it is 'Trusted by 23M+ users', across a bundle (humanizer + own AI detector + plagiarism checker + Chrome extension). Vendor reach-facts, not quality measurements.",
+          "quote": "support 50+ languages ... Trusted by 23M+ users",
+          "source_url": "https://undetectable.ai/",
+          "source_date": "2026-07-17 (live homepage capture)",
+          "platform": "vendor homepage (undetectable.ai) \u2014 reach-facts, self-reported",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-17",
+          "re_verified": true,
           "re_verified_date": null
         }
       ]
