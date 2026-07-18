@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-17",
+    "generated": "2026-07-18",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
     "unique_sources": 158,
-    "page_appearances": 191,
-    "page_count": 17,
+    "page_appearances": 196,
+    "page_count": 18,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -75,7 +75,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -99,7 +99,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-best-ai-humanizer-04",
@@ -222,7 +222,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-detect-01",
@@ -380,7 +380,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-best-ai-humanizer-07",
@@ -516,7 +516,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -653,6 +653,89 @@
       ]
     },
     {
+      "page": "/humanize-ai-text",
+      "url": "https://metegpt.com/humanize-ai-text",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 5,
+      "collection_sweep": {
+        "run_date": "2026-07-18",
+        "candidates_identified": 15,
+        "screened": 15,
+        "excluded": 10,
+        "excluded_by_reason": {
+          "no-methodology-affiliate": 10
+        },
+        "included_this_run": 5,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
+        },
+        {
+          "id": "EV-best-ai-humanizer-03",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
+          "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
+          "source_date": "2025-08-27",
+          "platform": "industry news site quoting Turnitin CPO Annie Chechitelli",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
+        },
+        {
+          "id": "EV-scribbr-09",
+          "claim": "Scribbr's own explainer on AI-detection methods (author Jack Caulfield, originally published 2023, last revised 2025-07-31 per the page's own schema metadata) describes perplexity and burstiness as the two signals detectors use, and states that no AI detector can achieve complete accuracy.",
+          "quote": "Specifically, the models look for two things in a text: perplexity and burstiness. The lower these two variables are, the more likely the text is to be AI-generated.",
+          "source_url": "https://web.archive.org/web/20260602134402/https://www.scribbr.com/ai-tools/how-do-ai-detectors-work/",
+          "source_date": "2025-07-31 (dateModified per page schema; datePublished 2023-05-01)",
+          "platform": "vendor primary source, self-authored explainer (scribbr.com; author Jack Caulfield)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-07",
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
+        },
+        {
+          "id": "EV-quillbot-04",
+          "claim": "QuillBot's own AI Humanizer marketing page does not claim to bypass or guarantee passing Turnitin, GPTZero, Originality.ai, or any named detector; it frames the tool as removing AI 'tells' for authentic-sounding writing, caps the free tier at 125 words per humanization, and cites its own detector's RAID-benchmark standing as evidence of accuracy.",
+          "quote": "Trained on tens of thousands of human texts, our AI Humanizer evolves with AI to remove AI 'tells' and deliver authentic writing.",
+          "source_url": "https://quillbot.com/ai-humanizer",
+          "source_date": "2026-07-08 (capture date; page itself is undated)",
+          "platform": "vendor primary source (quillbot.com/ai-humanizer; self-interested -- QuillBot's own marketing copy)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-08",
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
+        },
+        {
+          "id": "EV-grammarly-01",
+          "claim": "Grammarly's own AI Humanizer product page states in its FAQ that the tool is 'not intended to bypass AI detectors' and instead aims to improve clarity and readability -- a primary-source disclaimer, not a bypass promise, distinguishing Grammarly's stated position from vendors like GPTHuman that market unconditional detector-bypass guarantees (EV-gpthuman-01/02).",
+          "quote": "This tool is not intended to bypass AI detectors. Instead, it enhances clarity and coherence, helping AI-assisted writing feel more polished and readable.",
+          "source_url": "https://www.grammarly.com/ai-humanizer",
+          "source_date": "2026-07-10 (capture date; page itself is undated)",
+          "platform": "vendor primary source (grammarly.com/ai-humanizer; self-interested -- Grammarly's own product page)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-10",
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
+        }
+      ]
+    },
+    {
       "page": "/methodology",
       "url": "https://metegpt.com/methodology",
       "protocol_version": "MEP-1.0",
@@ -712,7 +795,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-detect-03",
@@ -894,7 +977,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-turnitin-01",
@@ -1150,7 +1233,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1332,7 +1415,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-scribbr-01",
@@ -1439,8 +1522,8 @@
           "platform": "vendor primary source, self-authored explainer (scribbr.com; author Jack Caulfield)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
-          "re_verified": false,
-          "re_verified_date": null
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-scribbr-10",
@@ -1515,7 +1598,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1527,7 +1610,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-turnitin-01",
@@ -1855,7 +1938,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2039,8 +2122,8 @@
           "platform": "vendor primary source (grammarly.com/ai-humanizer; self-interested -- Grammarly's own product page)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-grammarly-02",
@@ -2165,7 +2248,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-16"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2177,7 +2260,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-18"
         },
         {
           "id": "EV-best-ai-humanizer-09",
@@ -2296,8 +2379,8 @@
           "platform": "vendor primary source (quillbot.com/ai-humanizer; self-interested -- QuillBot's own marketing copy)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-08",
-          "re_verified": false,
-          "re_verified_date": null
+          "re_verified": true,
+          "re_verified_date": "2026-07-18"
         }
       ]
     },
