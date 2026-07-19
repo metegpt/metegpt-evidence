@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-18",
+    "generated": "2026-07-19",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 158,
-    "page_appearances": 196,
-    "page_count": 18,
+    "unique_sources": 165,
+    "page_appearances": 204,
+    "page_count": 19,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -75,7 +75,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -222,7 +222,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-detect-01",
@@ -516,7 +516,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -683,7 +683,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -795,7 +795,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-detect-03",
@@ -977,7 +977,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-turnitin-01",
@@ -1233,7 +1233,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1415,7 +1415,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-scribbr-01",
@@ -1598,7 +1598,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1938,7 +1938,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2248,7 +2248,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-19"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2817,6 +2817,128 @@
           "platform": "Academic (Patterns / Cell Press, Liang, Yuksekgonul, Mao, Wu, Zou, Stanford)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-11",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
+      "page": "/zerogpt-ai-detector",
+      "url": "https://metegpt.com/zerogpt-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 8,
+      "collection_sweep": {
+        "run_date": "2026-07-19",
+        "candidates_identified": 40,
+        "screened": 40,
+        "excluded": 32,
+        "excluded_by_reason": {
+          "no-methodology-affiliate": 17,
+          "duplicate": 5,
+          "astroturf": 3,
+          "unverifiable-this-run": 7
+        },
+        "included_this_run": 8,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-19"
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-01",
+          "claim": "AcademicHelp's own published review ran ZeroGPT on a single 100%-human-written personal essay (written by named staff writer Johannes Helmold) and reports the tool scored it 66.64% AI-generated -- registered as ONE documented sample, not a general false-positive rate for ZeroGPT.",
+          "quote": "Even though Johannes wrote every word himself, ZeroGPT still marked the piece as AI-generated by 66.64%.",
+          "source_url": "https://academichelp.net/ai-detectors/zerogpt-review.html",
+          "source_date": "2023-08-10 (originally published; article states last updated 2026-03-25)",
+          "platform": "third-party published review (academichelp.net) -- discloses its own test subject (named staff writer, one essay); not an independent academic study",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-02",
+          "claim": "Originality.ai's own company blog (authored by founder/CEO Jonathan Gillham) tested ZeroGPT against six Jasper.ai-generated article-section samples and reports ZeroGPT's AI-probability scores as 95.50%, 72.08%, 75.64%, 64.25%, 68.95% and 29.97% -- the review tests AI-generated content exclusively (no human-written or ESL/false-positive testing is included), and does not disclose upfront that Originality.ai sells a directly competing AI detector.",
+          "quote": "[ZeroGPT AI-probability scores across six Jasper.ai-generated samples]: 95.50% / 72.08% / 75.64% / 64.25% / 68.95% / 29.97%",
+          "source_url": "https://originality.ai/blog/zerogpt-ai-content-detector-review",
+          "source_date": "2025-11-10",
+          "platform": "competing vendor blog (originality.ai) -- self-interested; author is Originality.ai's Founder/CEO and the post compares ZeroGPT unfavorably to Originality.ai's own detector",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-03",
+          "claim": "ZeroGPT's own detector page (zerogpt.com) shows a live input-field character counter capped at 15,000 characters for a free scan, with a premium-plan upsell banner directly beneath the detector box.",
+          "quote": "0/15,000 Characters",
+          "source_url": "https://www.zerogpt.com/",
+          "source_date": "undated (evergreen product page; capture date 2026-07-19)",
+          "platform": "vendor primary source (zerogpt.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-04",
+          "claim": "ZeroGPT operates its own AI-text humanizer at zerogpt.com/ai-humanizer, marketed as working on output from ChatGPT, Gemini, Claude, Llama and Jasper, sold under the same brand and top navigation as its AI detector -- with no on-page disclosure addressing the conflict of interest in a company selling both the detection tool and a tool designed to help text pass that same detection.",
+          "quote": "Humanize AI Instantly with Our Advanced AI Humanizer... Does the AI Humanizer work with ChatGPT text? Yes. It works well as a ChatGPT humanizer, improving text generated not only by it, but also by Gemini, Claude, Llama, Jasper, and other AI tools.",
+          "source_url": "https://www.zerogpt.com/ai-humanizer",
+          "source_date": "undated (evergreen product page; capture date 2026-07-19)",
+          "platform": "vendor primary source (zerogpt.com/ai-humanizer) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-05",
+          "claim": "VENDOR CLAIM (GPTZero's own blog, a directly competing detector company): GPTZero states that ZeroGPT \"popped up on January 18th, 2023, capitalizing on brand confusion,\" roughly two and a half weeks after GPTZero's own January 2023 viral launch, and frames ZeroGPT as attempting to piggyback off GPTZero's launch success -- a self-interested competitor claim, not an independently confirmed fact.",
+          "quote": "a copycat site, ZeroGPT, popped up on January 18th, 2023, capitalizing on brand confusion.",
+          "source_url": "https://gptzero.me/news/gptzero-vs-zerogpt/",
+          "source_date": "2026-02-24",
+          "platform": "competing vendor blog (gptzero.me/news) -- self-interested; GPTZero directly competes with ZeroGPT for the same brand-confused search traffic",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-06",
+          "claim": "GPTZero (gptzero.me) is an independently documented, separately-founded company: Wikipedia's GPTZero entry states it was built by Princeton undergraduate Edward Tian and launched online in January 2023, drew 30,000 uses in its first week, reached roughly 4 million users by summer 2024, and raised over $3.5 million in seed funding by May 2023 plus a $10 million Series A in summer 2024 -- the entry does not mention ZeroGPT (zerogpt.com) anywhere, consistent with the two being unrelated companies rather than the same product.",
+          "quote": "GPTZero was developed by Edward Tian, a Princeton University undergraduate student, and launched online in January 2023... GPTZero experienced 30,000 uses in the first week of its release, which led to a crash.",
+          "source_url": "https://en.wikipedia.org/wiki/GPTZero",
+          "source_date": "undated (living Wikipedia article; capture date 2026-07-19)",
+          "platform": "encyclopedia (Wikipedia)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-zerogpt-ai-detector-07",
+          "claim": "A live search for the bare term \"zerogpt\" this run returned zerogpt.com first and gptzero.me (a different company's product) second, followed immediately by six lookalike zerogpt.* domains in the same result set: zerogpt.net, zerogpt.org, zerogptai.com, zerogpt.tools, zerogpt.cc, and zerogpt.plus -- a directly observed snapshot of the brand-confusion problem the page's disambiguation section addresses, not a claim relayed from a secondary source.",
+          "quote": "[search result order for query \"zerogpt\"]: 1. zerogpt.com  2. gptzero.me  3. zerogpt.net  4. zerogpt.org  5. zerogptai.com  6. zerogpt.tools  7. zerogpt.cc ... zerogpt.plus",
+          "source_url": "https://www.zerogpt.com/ ; https://gptzero.me/ ; https://zerogpt.net/ ; https://zerogpt.org/ ; https://zerogptai.com/ ; https://zerogpt.tools/ ; https://zerogpt.cc/ ; https://www.zerogpt.plus/",
+          "source_date": "2026-07-19 (search snapshot; rankings and the domain set can change)",
+          "platform": "directly observed live search results (this run)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-19",
           "re_verified": false,
           "re_verified_date": null
         }
