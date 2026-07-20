@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-19",
+    "generated": "2026-07-20",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 165,
-    "page_appearances": 204,
-    "page_count": 19,
+    "unique_sources": 180,
+    "page_appearances": 220,
+    "page_count": 20,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -75,7 +75,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -188,6 +188,224 @@
       ]
     },
     {
+      "page": "/copyleaks-ai-detector",
+      "url": "https://metegpt.com/copyleaks-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 16,
+      "collection_sweep": {
+        "run_date": "2026-07-20",
+        "candidates_identified": 33,
+        "screened": 33,
+        "excluded": 18,
+        "excluded_by_reason": {
+          "no-methodology-affiliate": 7,
+          "unverifiable-this-run": 8,
+          "off-topic": 1,
+          "duplicate": 2
+        },
+        "included_this_run": 15,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-20"
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-01",
+          "claim": "VENDOR CLAIM: Copyleaks' own AI-detector product page states an industry-low .03% false-positive rate alongside an over-99% accuracy claim -- one of (at least) two different self-reported false-positive figures found across Copyleaks-owned pages this run (see EV-copyleaks-ai-detector-02 for the second, different figure).",
+          "quote": "With over 99% accuracy and an industry-low .03% false positive rate, Copyleaks leads the field in trusted detection. The likelihood of human-written content being mistakenly labeled as AI-generated is .03%\u2014one of the lowest among AI detectors.",
+          "source_url": "https://copyleaks.com/ai-content-detector",
+          "source_date": "undated (evergreen product/marketing page; capture date 2026-07-20)",
+          "platform": "vendor primary source (copyleaks.com product page) -- self-interested, Copyleaks' own claim about itself",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-02",
+          "claim": "VENDOR CLAIM: A second Copyleaks-owned document (the official AI Detector FAQ PDF, hosted on copyleaks.com) states human content has 'less than 0.2%' chance of being falsely labeled AI-generated -- a DIFFERENT self-reported false-positive figure than the .03% stated on Copyleaks' main product page (EV-copyleaks-ai-detector-01). This is the core self-inconsistency finding: Copyleaks' own pages do not agree with each other on its false-positive rate.",
+          "quote": "How do you avoid false accusations? The chance for content written by a human to be falsely labeled as AI-generated content is less than 0.2%. ... AI-written text may sometimes appear human. While false positives are rare (0.2%), highly sophisticated AI content can occasionally be misclassified as human-written.",
+          "source_url": "https://copyleaks.com/wp-content/uploads/2023/05/ai-content-detector-faqs.pdf",
+          "source_date": "2025-06-24 (confirmed via the PDF's own embedded CreationDate/ModDate metadata, extracted directly with pdfinfo this run: 'CreationDate: Tue Jun 24 21:40:24 2025 +03', 'ModDate: Tue Jun 24 21:40:25 2025 +03'; HTTP Last-Modified header on direct curl fetch independently confirms 'Wed, 25 Jun 2025 13:01:12 GMT')",
+          "platform": "vendor primary source (copyleaks.com-hosted official FAQ PDF) -- self-interested, Copyleaks' own claim about itself",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-03",
+          "claim": "VENDOR CLAIM: Copyleaks' own blog cites a July 2023 study published via Cornell University's arXiv preprint platform as third-party validation of its accuracy, quoting the study's finding of 99.12% accuracy on human-written data and 95.00% accuracy on ChatGPT-generated data as its headline anchor example.",
+          "quote": "Independent third-party researchers continuously evaluate Copyleaks' AI Detector, and the results speak for themselves. ... CopyLeaks 99.12% | ChatGPT Data 95.00%",
+          "source_url": "https://copyleaks.com/blog/ai-detector-continues-top-accuracy-third-party",
+          "source_date": "2025-07-08 (article's published timestamp, 2025-07-08T14:58:55+00:00, per page metadata)",
+          "platform": "vendor primary source (copyleaks.com/blog) -- self-interested; the post is Copyleaks' own aggregation of studies that favor it, and does not mention studies or benchmarks where it scored lower (see EV-copyleaks-ai-detector-05 through -09 for the independent tests this vendor post omits)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-04",
+          "claim": "INDEPENDENT ACADEMIC SOURCE: The actual July 2023 study Copyleaks cites as its 'third-party validation' anchor (arXiv:2307.07411) is a real, verifiable peer-reviewed-track paper testing 8 AI-text detectors on 124 pre-ChatGPT computer-science student submissions plus 40 ChatGPT-generated submissions; it found Copyleaks the most accurate of the 8 detectors tested in that specific comparison, with 99.12% accuracy on human-written data and 95.00% on ChatGPT-generated data (Table 6, threshold-based scoring). The paper's authors are NOT Cornell-affiliated -- arXiv is Cornell University's preprint hosting platform, not the authors' institution.",
+          "quote": "Our results find that CopyLeaks is the most accurate LLM-generated text detector, GPTKit ... [Table 6, Overall accuracy of LLM-generated text detectors measured using thresholds] CopyLeaks 99.12% (Human Data) 95.00% (ChatGPT Data)",
+          "source_url": "https://arxiv.org/abs/2307.07411",
+          "source_date": "2023-07-10 (submission date, confirmed on the arXiv abstract page)",
+          "platform": "peer-reviewed-track academic preprint (arXiv, hosted by Cornell University; authors: Michael Sheinman Orenstrakh and Michael Liut, University of Toronto Mississauga; Oscar Karnalim, Maranatha Christian University, Indonesia; Carlos An\u00edbal Su\u00e1rez, Escuela Superior Polit\u00e9cnica del Litoral, Ecuador)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-05",
+          "claim": "COMPETITOR-RUN TEST (self-interested, disclosed methodology): GPTZero's own published comparison, testing 3,000 samples (half human-written, half AI-generated, across student essays/academic papers/textbooks/news/blogs/creative writing), reports Copyleaks at 90.7% overall accuracy versus GPTZero's own 99.3%, and states Copyleaks 'will misclassify 1 in 20 human-written documents as AI' (~5% false-positive rate) -- separately, GPTZero states its OWN false-positive rate as 0.24% in the same comparison (that 0.24% figure belongs to GPTZero, not Copyleaks; the two are frequently conflated in secondary sources and must not be attributed to Copyleaks).",
+          "quote": "Copyleaks came in at 90.7% [overall accuracy, vs GPTZero's 99.3%]. ... the false positive rate we computed for the Copyleaks detector means it will misclassify 1 in 20 human-written documents as AI. [Separately, elsewhere on the same page:] GPTZero's false positive rate was 0.24% (about one in every 400 documents).",
+          "source_url": "https://gptzero.me/news/gptzero-vs-copyleaks-vs-originality/",
+          "source_date": "2025-09-25",
+          "platform": "competing vendor blog (gptzero.me/news) -- self-interested; GPTZero directly competes with Copyleaks for the same detector-buyer traffic, and the comparison naturally favors GPTZero's own tool throughout",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-06",
+          "claim": "THIRD-PARTY RANKING (limited methodology transparency): Global 100 AI Content Integrity Index reports Copyleaks at 94.7% accuracy ('correctly identifies nearly 95 out of 100 AI-generated documents when no obfuscation is applied'), ranked 8th in its Academic Integrity category, describing its own approach as 'independent, data-driven, and based on standardized testing of 247 platforms' -- but the page does not disclose Copyleaks' specific per-tool sample size, and does not carry an explicit conflict-of-interest disclosure statement.",
+          "quote": "correctly identifies nearly 95 out of 100 AI-generated documents when no obfuscation is applied ... Independent, data-driven, and based on standardized testing",
+          "source_url": "https://global100.org/platforms/copyleaks/",
+          "source_date": "2026-01-15",
+          "platform": "third-party ranking/index site (global100.org) -- describes itself as independent; no financial/product conflict-of-interest disclosure found on the page, and per-tool sample size is not disclosed, so this is registered as a directional data point (with these limits stated), not a rigorously-methodology-verified benchmark",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-07",
+          "claim": "THIRD-PARTY TEST WITH DISCLOSED METHODOLOGY: aidetector.ac's March 2026 benchmark of 2,400 samples (1,200 human-written, 1,200 AI-generated from Claude 3.5, GPT-4o, Gemini 1.5 Pro, and Llama 3.1) found Copyleaks achieved 79% overall accuracy, a 12% false-positive rate, and a 22% false-negative rate -- placing it 4th of 6 tools tested in that benchmark. The site states it is independent and not sponsored, and discloses no competing detector or humanizer product.",
+          "quote": "In our March 2026 benchmark across 2,400 samples, Copyleaks achieved 79% overall accuracy with a 12% false positive rate and a 22% false negative rate. ... 2,400 samples: 1,200 human-written and 1,200 AI-generated from Claude 3.5, GPT-4o, Gemini 1.5 Pro, and Llama 3.1",
+          "source_url": "https://aidetector.ac/reviews/copyleaks/",
+          "source_date": "2026-03 (benchmark dated 'March 2026' in the article text; site copyright footer reads 2026)",
+          "platform": "third-party benchmark site (aidetector.ac) -- discloses its own methodology and sample composition; footer states 'AIDetector \u2014 Independent. Not sponsored,' and the site does not sell a competing detector or humanizer product",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-08",
+          "claim": "THIRD-PARTY TEST WITH DISCLOSED METHODOLOGY: Supwriter's 2026 review reports an overall average detection rate of 77.5% for Copyleaks, based on 200+ AI-generated text samples across 8 named AI models (GPT-4o, GPT-4 Turbo, Claude 3.5 Sonnet, Claude 3 Opus, DeepSeek R1, DeepSeek V3, Gemini 1.5 Pro, Llama 3.1 70B) spanning multiple content types (200-3,000 words), plus a 50-sample human-written control group used to measure false positives.",
+          "quote": "Overall average detection rate: 77.5%",
+          "source_url": "https://supwriter.com/blog/copyleaks-ai-detection-review",
+          "source_date": "2026-04-02",
+          "platform": "third-party review site (supwriter.com) -- discloses sample composition and model mix; Supwriter sells its own AI writing/rewriting product, a potential conflict of interest the writer should flag when citing this figure",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-09",
+          "claim": "DOCUMENTED FALSE-POSITIVE CASE + THIRD-PARTY TEST: webspero.com's named-author, dated review ran a 3-phase test of Copyleaks v7.1 -- Assessment 1 (AI-paraphrased content): 60% correctly caught; Assessment 2 (human-edited AI content): 33.3% correctly caught; Assessment 3 (100% human-written content, about LLMs/AI topics): the human-written text was scored 100% AI, a direct documented false-positive case -- with an overall accuracy of 53.4% across the three assessments combined.",
+          "quote": "CopyLeaks, what the heck? To all of our surprise, this 100% human-generated content was deemed AI.",
+          "source_url": "https://www.webspero.com/blog/copyleaks-ai-content-detector-review-fact-or-fiction/",
+          "source_date": "2025-03-16",
+          "platform": "third-party review, named author (Gursharan Singh, webspero.com)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-10",
+          "claim": "DOCUMENTED FALSE-POSITIVE CASE, NAMED TECH JOURNALIST: ZDNet's David Gewirtz ran his own writing (confirmed human-authored) through multiple AI detectors; Copyleaks scored it 100% AI-written, while Pangram, QuillBot, and ZeroGPT all correctly scored the same text as human across all five test blocks in his comparison.",
+          "quote": "Copyleaks identified Test 1, writing I did (and last time I checked, I'm mostly human) as 100% AI written. ... Pangram, QuillBot, and ZeroGPT each achieved perfect 100% accuracy scores across all five test blocks",
+          "source_url": "https://currently.att.yahoo.com/att/ive-testing-ai-content-detectors-175300659.html",
+          "source_date": "2025-10-29",
+          "platform": "syndicated republication (Yahoo/AT&T Currently) of a ZDNet article by named technology journalist David Gewirtz, published 2025-10-29",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-11",
+          "claim": "VENDOR PRIMARY SOURCE, MECHANISM CONFIRMATION: Copyleaks' own official FAQ document confirms its AI detector and its plagiarism/Similarity-Score checker are two independent classifiers producing two separate percentages -- the AI percentage does not factor into the Similarity Score and vice versa -- supporting the page's 'dual-pipeline, a flag alone doesn't say which system triggered it' framing.",
+          "quote": "The Similarity Score shows the percentage of text in a document that matches other online sources or sources stored in our Copyleaks Shared Hub. ... The AI detection percentage is different. It estimates the total content in a document that generative AI may have created. The AI percentage does not influence the Similarity Score calculation, nor does the Similarity Score change the AI percentage. They are independent metrics produced by separate analyses.",
+          "source_url": "https://copyleaks.com/wp-content/uploads/2023/05/ai-content-detector-faqs.pdf",
+          "source_date": "2025-06-24 (same PDF and same metadata verification as EV-copyleaks-ai-detector-02)",
+          "platform": "vendor primary source (copyleaks.com-hosted official FAQ PDF) -- mechanism/product-fact claim, not an accuracy claim, so self-interest risk is low here",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-12",
+          "claim": "VENDOR PRIMARY SOURCE, PRODUCT-FACT CLAIM: Copyleaks integrates with eight named LMS platforms (Brightspace, Canvas, Google Classroom, Moodle, Blackboard, Edsby, Sakai, Schoology), and Instructure (Canvas's parent company) publicly announced a partnership with Copyleaks for plagiarism/AI-integrity detection within Canvas -- supporting the page's differentiator that Copyleaks' footprint extends beyond a single academic-only LMS, unlike Turnitin's narrower academic focus.",
+          "quote": "Brightspace, Canvas, Google Classroom, Moodle, Blackboard, Edsby, Sakai, Schoology [listed as supported LMS integrations] ... Copyleaks, an artificial intelligence platform that detects plagiarism, today announced a partnership today with Canvas, the learning management platform from Instructure",
+          "source_url": "https://copyleaks.com/learning-management-systems",
+          "source_date": "undated (evergreen product page; capture date 2026-07-20); Canvas partnership specifically announced 2020-10-19 per the Instructure/Copyleaks press release",
+          "platform": "vendor primary source (copyleaks.com product page) for the current LMS list; press-release announcement (PRWeb, distributing a Copyleaks-issued release) for the 2020 Canvas-partnership origin date",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-13",
+          "claim": "VENDOR PRIMARY SOURCE, PRICING -- CORRECTS A STALE FIGURE WIDELY RECYCLED ACROSS THIRD-PARTY REVIEW SITES: Copyleaks' LIVE pricing page (captured this run) shows only bundled AI-detection + plagiarism + image-detection plans: a Personal plan at $16.99/month ($13.99/month billed annually, 100 credits = up to 25,000 words or 100 images) and a Pro plan at $99.99/month ($74.99/month billed annually, 1,000 credits). No separate lower-cost AI-detection-only tier (the '$7.99/month' figure recycled across many third-party review sites) is currently offered; Enterprise and Education pricing are custom/contact-sales only. No free tier is offered.",
+          "quote": "Personal Plan: $16.99/month (or $13.99/month billed annually, save up to 25%) ... 100 unified credits: Scan up to 25,000 words OR 100 images ... Pro Plan: $99.99/month (or $74.99/month billed annually) ... 1,000 unified credits: Scan up to 250,000 words OR 1,000 images ... Scan for AI and plagiarism in a single report with AI Logic",
+          "source_url": "https://copyleaks.com/pricing",
+          "source_date": "undated (live pricing page; capture date 2026-07-20)",
+          "platform": "vendor primary source (copyleaks.com/pricing, live)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-14",
+          "claim": "VENDOR PRIMARY SOURCE, VERSION/DATE CORRECTION: Copyleaks' own live release-notes page shows AI Logic launched 2025-05-23 and AI Detector V9 launched 2025-06-24 (web platform) / 2025-07-08 (LMS/API) -- there is NO February 2026 'AI Insights' entry on the page. The page brief's assumed 'V9 AI Insights (Feb 2026) vs AI Logic (Jul 2025)' framing does not match the live version history; both V9 and AI Logic actually launched within about a month of each other in mid-2025, and 'AI Insights' was folded into AI Logic as a renamed sub-feature ('AI Phrases, previously known as AI Insights') rather than remaining a separate Feb-2026 release.",
+          "quote": "AI Logic \u2014 May 23, 2025 ... AI Detector V9 \u2014 June 24, 2025 (Web Platform); July 8, 2025 (LMS/API)",
+          "source_url": "https://copyleaks.com/release-notes",
+          "source_date": "undated changelog page; individual entries dated as quoted (capture date 2026-07-20)",
+          "platform": "vendor primary source (copyleaks.com/release-notes, live)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-copyleaks-ai-detector-15",
+          "claim": "VENDOR PRIMARY SOURCE, POSITIONING CLAIM: Copyleaks publishes its own blog content arguing that attempting to evade AI detectors is an 'increasingly difficult and ineffective strategy' and positions itself around 'transparency, context, and ongoing innovation' rather than helping users evade detection -- supporting the page's claim that Copyleaks (unlike some competitors) does not sell or promote an AI-humanizer/evasion product.",
+          "quote": "As generative AI rapidly advances, the question of whether AI detectors can be bypassed is more relevant than ever. ... While there will be people who try new ways to evade AI detectors, fooling advanced AI detectors is an increasingly difficult and ineffective strategy. Responsible AI detection is defined by transparency, context, and ongoing innovation.",
+          "source_url": "https://copyleaks.com/blog/can-ai-detectors-be-fooled",
+          "source_date": "2025-12-01",
+          "platform": "vendor primary source (copyleaks.com/blog) -- self-interested positioning statement",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-20",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/detect",
       "url": "https://metegpt.com/detect",
       "protocol_version": "MEP-1.0",
@@ -222,7 +440,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-detect-01",
@@ -516,7 +734,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -683,7 +901,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -795,7 +1013,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-detect-03",
@@ -977,7 +1195,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-turnitin-01",
@@ -1233,7 +1451,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1415,7 +1633,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-scribbr-01",
@@ -1598,7 +1816,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1938,7 +2156,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2248,7 +2466,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2856,7 +3074,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-19"
+          "re_verified_date": "2026-07-20"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
