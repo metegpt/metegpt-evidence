@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-20",
+    "generated": "2026-07-21",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 180,
-    "page_appearances": 220,
-    "page_count": 20,
+    "unique_sources": 191,
+    "page_appearances": 232,
+    "page_count": 21,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -75,7 +75,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -221,7 +221,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -440,7 +440,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-detect-01",
@@ -734,7 +734,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -901,7 +901,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1013,7 +1013,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-detect-03",
@@ -1195,7 +1195,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-turnitin-01",
@@ -1451,7 +1451,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1600,6 +1600,175 @@
       ]
     },
     {
+      "page": "/sapling-ai-detector",
+      "url": "https://metegpt.com/sapling-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 12,
+      "collection_sweep": {
+        "run_date": "2026-07-21",
+        "candidates_identified": 14,
+        "screened": 14,
+        "excluded": 3,
+        "excluded_by_reason": {
+          "unverifiable-this-run": 1,
+          "off-topic": 1,
+          "astroturf": 1
+        },
+        "included_this_run": 11,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-21"
+        },
+        {
+          "id": "EV-sapling-ai-detector-01",
+          "claim": "A peer-reviewed study from Texas A&M University's Department of Entomology (published in Instars: A Journal of Student Research, an undergraduate-emphasis peer-reviewed venue) tested Sapling's AI detector on 20 human-written, 20 ChatGPT-generated, and 20 hybrid writing samples (10 repeated trials each). Sapling identified 100% of the AI-generated samples (zero variance across all 20 samples, all 10 trials). On the human-written samples, 18 of 20 (90%) received a nonzero AI-detection score -- the figure the paper's own abstract reports as its false-positive rate -- while the mean AI-detection score across all 20 human samples was 25.8% (SD 33.03%), and only 2 of 20 samples scored a literal 0%.",
+          "quote": "It was determined that, while Sapling could identify AI-generated samples with 100% accuracy, it struggled to accurately identify human-written text, with 90% resulting in a false positive.",
+          "source_url": "https://instars-ojs-tamu.tdl.org/instars/article/view/893/271",
+          "source_date": "2025-05-07",
+          "platform": "peer-reviewed student-research journal (Instars: A Journal of Student Research, Vol. 9 No. 1, Texas A&M University Dept. of Entomology; journal policy requires 2 subject-matter reviewers + 2 writing-craft reviewers per submission)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-02",
+          "claim": "Sapling's own AI-detector product page states, in its own words, that no AI content detector -- including its own -- should be treated as a standalone determination of AI authorship, and that false positives and false negatives will occur.",
+          "quote": "No current AI content detector (including Sapling's) should be used as a standalone check to determine whether text is AI-generated or written by a human. False positives and false negatives will occur.",
+          "source_url": "https://sapling.ai/ai-content-detector",
+          "source_date": "undated (evergreen product page; capture date 2026-07-21)",
+          "platform": "vendor primary source (sapling.ai) -- self-interested, but a credit-due admission against its own product's reliability",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-03",
+          "claim": "Sapling's own FAQ warns its users against AI-humanizer / bypass tools that claim to defeat its detector, stating it has seen such tools falsely claim a 'passed' result even when no check was performed by Sapling.ai.",
+          "quote": "We've seen such tools make false claims such as that a text \"passed\" Sapling.ai's detector even though no check was performed by Sapling.ai. Please be careful when using such tools.",
+          "source_url": "https://sapling.ai/ai-content-detector",
+          "source_date": "undated (evergreen FAQ section; capture date 2026-07-21)",
+          "platform": "vendor primary source (sapling.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-04",
+          "claim": "VENDOR CLAIM: Sapling's own AI-detector page states 97%+ detection on AI-generated content and under 3% false positives on human-written content, based on 'our benchmarks using longer texts' -- no sample size, dataset composition, or test date is published alongside the claim.",
+          "quote": "On our benchmarks using longer texts: 97%+ detection rate for AI-generated content. Less than 3% false positive rate for human-written content.",
+          "source_url": "https://sapling.ai/ai-content-detector",
+          "source_date": "undated (evergreen page; capture date 2026-07-21)",
+          "platform": "vendor primary source (sapling.ai) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-05",
+          "claim": "aidetector.ac's benchmark (dated March 2026; 2,400 samples: 1,200 human-written across 5 content categories + 1,200 AI-generated from Claude 3.5/GPT-4o/Gemini 1.5 Pro/Llama 3.1) reports Sapling AI at 76% overall accuracy, 17% false-positive rate, and 24% false-negative rate -- the lowest overall accuracy and highest false-positive rate of the 6 detectors it tested (vs. 91%/7% for its top-ranked tool, Originality.ai). The same benchmark's category breakdown separately states Sapling flagged 31% of human-written technical documentation as AI, its highest false-positive category.",
+          "quote": "Accuracy from testing on 2,400 samples: 1,200 human-written and 1,200 AI-generated from Claude 3.5, GPT-4o, Gemini 1.5 Pro, and Llama 3.1.",
+          "source_url": "https://aidetector.ac/reviews/sapling/ ; https://aidetector.ac/accuracy/",
+          "source_date": "2026-03 (page dated 'Benchmark Data \u00b7 March 2026'; capture date 2026-07-21)",
+          "platform": "self-described independent AI-detector benchmark site (aidetector.ac); publishes a detailed on-page methodology (corpus composition, per-category breakdown, measurement formulas) but discloses no named author, company, or institution anywhere on the site",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-06",
+          "claim": "DecEptioner's own blog (a company selling an AI-bypass/humanizer tool) tested Sapling against a 160-sample CSV (78 human-written, 82 AI-generated) and reports 63.1% overall accuracy, a 66.7% false-positive rate on the human-written samples (52 of 78 misclassified as AI), 62.4% balanced accuracy, and a 0.716 ROC AUC -- authored and published by Shadab Sayeed, who identifies himself in the same post as CEO & Founder of DecEptioner.",
+          "quote": "Across the full dataset, it reached an overall accuracy of 63.1%... False positive rate on human writing 66.7%... Balanced accuracy 62.4%... ROC AUC from the score alone 0.716.",
+          "source_url": "https://deceptioner.site/blog/is-sapling-ai-detector-accurate",
+          "source_date": "2026-07-01",
+          "platform": "AI-bypass-tool vendor blog (deceptioner.site, site tagline: 'Bypass AI Detectors Like A Pro') -- disclosed-on-page COI: author's own bio identifies him as DecEptioner's CEO & Founder",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-07",
+          "claim": "Originality.ai's own company blog, authored by its Founder/CEO Jonathan Gillham, tested Sapling against seven text samples generated entirely by Jasper.ai and reports Sapling failed to detect any AI content in three of the seven samples -- registered as 7 individual documented samples from a single test, never as a percentage or general failure rate.",
+          "quote": "It was not able to detect any instances of AI in three of the samples, whereas Originality.ai caught at least 2% in one.",
+          "source_url": "https://originality.ai/blog/sapling-ai-detector-review",
+          "source_date": "2025-11-01",
+          "platform": "competing vendor blog (originality.ai) -- self-interested; author is Originality.ai's Founder/CEO, reviewing a directly competing detector",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-08",
+          "claim": "goldpenguin.org's own Sapling review (byline John Angelo Yap, updated June 17, 2026) reports Sapling scored 87.04% accuracy in its true-positive (AI-text) tests and 93.84% in its false-positive (human-text) tests -- the highest of the detectors it names -- while the same review's prominent call-to-action links to Undetectable AI via the site's own affiliate-style redirect path.",
+          "quote": "Sapling has an 87.04% accuracy rate in true positive tests and 93.84% in false positive tests -- making it the most accurate detector out of all we tested along with Winston, Originality, and Copyleaks.",
+          "source_url": "https://goldpenguin.org/blog/should-sapling-ai-be-your-ai-detector-sapling-review/",
+          "source_date": "2026-06-17 (byline states 'Updated June 17, 2026')",
+          "platform": "review/affiliate site (goldpenguin.org) -- COI not disclosed on the review itself, but the site's own outbound link structure (goldpenguin.org/go/undetectable-ai, a tracked redirect path) confirms an affiliate/referral relationship with Undetectable AI, a competing bypass tool",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-09",
+          "claim": "Sapling Intelligence's Trustpilot business profile shows a 2.4/5 ('Poor') TrustScore from 7 total reviews as of this capture. Of the reviews visible, 3 describe the AI detector specifically flagging human-written text as AI (dated Jul 4 2025, Dec 12 2024, and Nov 14 2024); 2 unrelated reviews (2020) praise the separate grammar/writing-assistant product; 1 (Jul 6 2025) is a billing/UX complaint unrelated to detection accuracy. A Sapling team member replied directly to the Jul 4 2025 detector complaint, quoting the company's own standalone-use disclaimer.",
+          "quote": "I then plugged my work into six other AI Detector models, and the highest amount of AI I received back from them was 14%. Four of the six were 0%. The fifth was 2%.",
+          "source_url": "https://www.trustpilot.com/review/sapling.ai",
+          "source_date": "individual reviews dated 2020-06-03 through 2025-07-06; capture date 2026-07-21",
+          "platform": "customer review aggregator (Trustpilot) -- rates Sapling Intelligence's WHOLE product suite (grammar assistant + AI detector + autocomplete), not the AI detector in isolation",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-10",
+          "claim": "Sapling's AI detector free tier is capped at 2,000 characters per query (~400-450 tokens, per Sapling's own page); the Pro tier ($25/month, or ~$12/month billed annually) raises this to 100,000 characters per query, a limit Sapling's own release notes date to January 20, 2025; Enterprise pricing starts at 10 seats / $15 per seat per month (contact-sales); a separate metered, usage-based API tier exists for developers.",
+          "quote": "Free users can query up to 2000 characters per query (about 400-450 tokens)... Pro and Enterprise Sapling subscribers can paste texts of up to 100,000 characters (roughly 20,000 to 25,000 tokens).",
+          "source_url": "https://sapling.ai/ai-content-detector (character limits + release-notes date); https://sapling.ai/pricing (plan pricing)",
+          "source_date": "undated evergreen pages, except the 100,000-character release-notes entry, dated 2025-01-20; capture date 2026-07-21",
+          "platform": "vendor primary source (sapling.ai)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-sapling-ai-detector-11",
+          "claim": "Sapling.ai's own homepage and About page describe the company primarily as a 'language model toolkit for developers and businesses' that 'sits on top of enterprise workspaces and messaging platforms' -- its product nav lists AI Detection as one of six modules (Grammar, AI Detection, Autocomplete, Snippets, Rephrase, Chat Assist), and its case-study metrics and named integrations (ServiceNow, Salesforce, Zendesk, Amazon Connect, Twilio Flex) are about customer-support/sales response quality, not academic-integrity detection. Its LinkedIn profile independently confirms: founded 2019, San Francisco CA, 2-10 employees, self-described as a 'Language model toolkit for enterprise applications,' with its named flagship product being the 'Sapling Messaging Assistant.'",
+          "quote": "Language model toolkit for developers and businesses. Sapling sits on top of enterprise workspaces and messaging platforms to provide real-time suggestions that improve communication.",
+          "source_url": "https://sapling.ai/ ; https://sapling.ai/about ; https://www.linkedin.com/company/saplingai",
+          "source_date": "undated evergreen pages; capture date 2026-07-21",
+          "platform": "vendor primary source (sapling.ai) + independently-hosted company profile (LinkedIn)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-21",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/scribbr-ai-detector",
       "url": "https://metegpt.com/scribbr-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -1633,7 +1802,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-scribbr-01",
@@ -1816,7 +1985,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2156,7 +2325,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2466,7 +2635,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3074,7 +3243,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-20"
+          "re_verified_date": "2026-07-21"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
