@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-21",
+    "generated": "2026-07-22",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 191,
-    "page_appearances": 232,
-    "page_count": 21,
+    "unique_sources": 200,
+    "page_appearances": 244,
+    "page_count": 22,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,7 +36,172 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-22"
+        }
+      ]
+    },
+    {
+      "page": "/best-ai-detector",
+      "url": "https://metegpt.com/best-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 12,
+      "collection_sweep": {
+        "run_date": "2026-07-22",
+        "candidates_identified": 33,
+        "screened": 33,
+        "excluded": null,
+        "excluded_by_reason": null,
+        "included_this_run": 12,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-22"
+        },
+        {
+          "id": "EV-turnitin-02",
+          "claim": "Curtin University announced (Sep 2025) it will disable Turnitin's AI writing detection feature across all campuses effective 1 January 2026, framing the change around assessment fairness and modern academic practice rather than naming a specific false-positive figure; standard text-matching/originality checks remain active.",
+          "quote": "This change is about fostering trust and clarity within a modern academic culture and continuously improving our assessments to ensure they are secure, fair, relevant and future-ready.",
+          "source_url": "https://www.curtin.edu.au/news/oasis-news/update-on-turnitin-ai-detection-tool/",
+          "source_date": "2025-09-04",
+          "platform": "university news page (curtin.edu.au, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-22"
+        },
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-22"
+        },
+        {
+          "id": "EV-best-ai-detector-01",
+          "claim": "Scribbr's own 'best AI detector' listicle scores and ranks its own AI Detector products #1 (Premium, 84% self-reported accuracy) and #3 (Free, 78%) among 12 tools, with no conflict-of-interest or affiliate disclosure anywhere on the page.",
+          "quote": "Scribbr (premium) [ranked #1, 84% accuracy]... Scribbr (free) [ranked #3, 78% accuracy]",
+          "source_url": "https://www.scribbr.com/ai-tools/best-ai-detector/",
+          "source_date": "2026-04-22 (published); revised 2026-07-21",
+          "platform": "Vendor-authored listicle (scribbr.com), self-interested \u2014 Scribbr is grading its own products alongside competitors",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-02",
+          "claim": "NY Post's 'best AI detectors' listicle cites arXiv:2305.06983 to support both a 94% accuracy claim for Originality.AI and a separate FAQ claim that 'most top detectors hover around 90-95% accuracy... according to Cornell University' \u2014 but the linked paper is 'Active Retrieval Augmented Generation' (FLARE), a hallucination-reduction method with no connection to AI-text detectors, detection accuracy, or Cornell University.",
+          "quote": "In our tests, it consistently flagged GPT-3 and GPT-4 content with an impressive 94% accuracy rate [linked to arxiv.org/abs/2305.06983]... Most top detectors hover around 90-95% accuracy for GPT-3 and 4, according to Cornell University [same arXiv link]",
+          "source_url": "https://nypost.com/shopping/best-ai-detectors/",
+          "source_date": "2025-06-13 (published); updated 2025-06-14",
+          "platform": "Consumer shopping-vertical listicle (nypost.com), affiliate-disclosed but citation independently verified incorrect",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-02b",
+          "claim": "The paper at arXiv:2305.06983 \u2014 cited by NY Post as support for a 90-95% AI-detector accuracy claim attributed to 'Cornell University' \u2014 is titled 'Active Retrieval Augmented Generation' (FLARE) and does not discuss AI-text detectors or detection accuracy at all.",
+          "quote": "Active Retrieval Augmented Generation... iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve relevant documents to regenerate the sentence if it contains low-confidence tokens.",
+          "source_url": "https://arxiv.org/abs/2305.06983",
+          "source_date": "2023-05-11 (arXiv v1 submission)",
+          "platform": "Academic preprint (arXiv), independently fetched for fact-check purposes",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-03",
+          "claim": "Cybernews's 'best AI detector' listicle correctly cites and accurately summarizes the real 2023 Stanford HAI study on AI-detector bias against non-native English writers, while routing all 10 ranked tools' outbound links through a cloaked affiliate-tracking subdomain (bi.cybernews.com) with no visible affiliate-disclosure statement in the article body.",
+          "quote": "A 2023 study from Stanford University found that AI detectors often mislabeled essays written by non-native English speakers as AI-generated because they misinterpreted the linguistic patterns common among these writers. [linked to hai.stanford.edu/news/ai-detectors-biased-against-non-native-english-writers]",
+          "source_url": "https://cybernews.com/ai-tools/best-ai-detector/",
+          "source_date": "2024-12-20 (page metadata); in-text tool references and screenshots indicate rolling updates into 2026, a freshness metadata/content mismatch",
+          "platform": "Third-party listicle (cybernews.com) with cloaked affiliate infrastructure, no disclosure",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-04",
+          "claim": "GPTZero's own blog publishes a 'best AI detectors' listicle that ranks GPTZero itself #1 ('the most accurate AI detector on the market'), backed by a self-designed, self-run benchmark comparing GPTZero against a named competitor (Pangram v3.1/v3.2), with no conflict-of-interest disclosure that the publisher is also the top-ranked product.",
+          "quote": "GPTZero remains the best AI detector for most use cases... GPTZero remains widely recognized as the most accurate AI detector on the market... With our live benchmark framework, we compared Pangram v3.2, Pangram v3.1, and GPTZero across multiple domains. The results demonstrate that... GPTZero still comes out on top.",
+          "source_url": "https://gptzero.me/news/best-ai-detectors/",
+          "source_date": "2026-06-25",
+          "platform": "Vendor-authored listicle (gptzero.me/news), self-interested \u2014 GPTZero is ranking its own product #1 on a self-run benchmark against a named rival",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-05",
+          "claim": "Turnitin's own help center confirms it does not sell individual or self-serve licenses: AI-detection and similarity-checking access is sold exclusively to institutions, and Turnitin directs individuals asking for personal access to a separate sister product (iThenticate) instead.",
+          "quote": "Turnitin does not sell individual licenses or single-use subscriptions.",
+          "source_url": "https://helpcenter.turnitin.com/hc/en-us/articles/27974736791565-How-can-I-buy-a-Turnitin-subscription-license-for-myself",
+          "source_date": "live-fetched 2026-07-22 (help-center article, undated on page)",
+          "platform": "Vendor primary source (Turnitin help center)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-06",
+          "claim": "Of 4 answers on a screened Quora thread asking which AI detector is most accurate (fetched 2026-07-22), no two answerers named the same tool: separate answers recommend ZeroGPT, Winston AI, and a bundle of 'Undetectable AI, GPTZero, OpenAI AI Text Classifier and Copyleaks,' while a fourth (a vendor account) redirects to its own product \u2014 a documented case of community non-consensus on 'most accurate,' not a ranked verdict.",
+          "quote": "The best one I've personally used is ZeroGPT. It's easy to use and highlights the parts of the text that look AI-generated. (Clive Herrera, Mar 20) / Winston AI is one of the best AI detectors available... more structured and transparent probability analysis. (Hazel, Mar 25) / Undetectable AI and GPTZero and OpenAI AI Text Classifier and Copyleaks AI Detector stand out as reliable options. (unattributed answer) / Ha ha ha ha no [detectors cannot reliably distinguish AI text]. (Franklin Veaux)",
+          "source_url": "https://www.quora.com/What-is-the-most-accurate-AI-detection-tool",
+          "source_date": "answers dated 2026-01-12, 2026-03-20, 2026-03-25 and undated (Franklin Veaux, 'updated Sat' relative to 2026-07-22 capture); page live-fetched 2026-07-22",
+          "platform": "Quora (multiple independent answerers on one question thread)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-07",
+          "claim": "A Quora answerer (Lucas Goldfarb, self-identified college student) reports running the same paragraph through four named detectors and getting four different scores, sometimes a 50-percentage-point spread \u2014 a first-person, dated report of cross-detector score inconsistency on identical input.",
+          "quote": "the same paragraph fed into GPTZero, ZeroGPT, Originality.ai, and Copyleaks routinely produces four different scores. Sometimes by 50 percentage points.",
+          "source_url": "https://www.quora.com/Are-AI-detectors-reliable-Ive-used-multiple-and-they-give-differing-results-to-the-same-text",
+          "source_date": "2026-05-24 (answer date, per Quora's current-year relative-date display, captured 2026-07-22)",
+          "platform": "Quora (Lucas Goldfarb, college student)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-08",
+          "claim": "VENDOR CLAIM (self-interested): a Quora account operated by detector vendor ZeroGPT states its own comparative testing of 10 AI-detection tools found an average accuracy of only 60% across the group \u2014 a detector company publicly reporting a low category-wide accuracy figure rather than a single-tool percentage.",
+          "quote": "the average accuracy of the 10 tools we tested was 60%",
+          "source_url": "https://www.quora.com/How-reliable-are-AI-detectors",
+          "source_date": "2024 (answer shown as '2 years ago' relative to 2026-07-22 capture)",
+          "platform": "Quora, vendor account (ZeroGPT) \u2014 self-interested source, cited as a vendor claim only",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
         }
       ]
     },
@@ -75,7 +240,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -221,7 +386,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -440,7 +605,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-detect-01",
@@ -734,7 +899,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -901,7 +1066,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -974,7 +1139,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-22"
         }
       ]
     },
@@ -1013,7 +1178,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-detect-03",
@@ -1195,7 +1360,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-turnitin-01",
@@ -1451,7 +1616,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1632,7 +1797,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -1802,7 +1967,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-scribbr-01",
@@ -1985,7 +2150,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2021,7 +2186,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-turnitin-03",
@@ -2105,7 +2270,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-turnitin-11",
@@ -2325,7 +2490,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2635,7 +2800,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2683,7 +2848,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-13"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-scribbr-06",
@@ -3243,7 +3408,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-21"
+          "re_verified_date": "2026-07-22"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
