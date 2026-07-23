@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-22",
+    "generated": "2026-07-23",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 200,
-    "page_appearances": 244,
-    "page_count": 22,
+    "unique_sources": 211,
+    "page_appearances": 260,
+    "page_count": 23,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,7 +36,220 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "page": "/ai-essay-checker",
+      "url": "https://metegpt.com/ai-essay-checker",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 16,
+      "collection_sweep": {
+        "run_date": "2026-07-23",
+        "candidates_identified": 48,
+        "screened": 48,
+        "excluded": null,
+        "excluded_by_reason": null,
+        "included_this_run": 14,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-23"
+        },
+        {
+          "id": "EV-turnitin-01",
+          "claim": "Vanderbilt University disabled Turnitin's AI detector in August 2023, citing Turnitin's own claimed 1% false-positive rate against its 2022 submission volume (roughly 75,000 papers) as grounds that hundreds of student papers could be wrongly flagged, plus non-native-speaker bias and lack of transparency into how the tool works.",
+          "quote": "we do not believe that AI detection software is an effective tool that should be used",
+          "source_url": "https://www.vanderbilt.edu/brightspace/2023/08/16/guidance-on-ai-detection-and-why-were-disabling-turnitins-ai-detector/",
+          "source_date": "2023-08-16",
+          "platform": "university teaching-center announcement (Vanderbilt Brightspace/CIRTL, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-23"
+        },
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-23"
+        },
+        {
+          "id": "EV-best-ai-detector-05",
+          "claim": "Turnitin's own help center confirms it does not sell individual or self-serve licenses: AI-detection and similarity-checking access is sold exclusively to institutions, and Turnitin directs individuals asking for personal access to a separate sister product (iThenticate) instead.",
+          "quote": "Turnitin does not sell individual licenses or single-use subscriptions.",
+          "source_url": "https://helpcenter.turnitin.com/hc/en-us/articles/27974736791565-How-can-I-buy-a-Turnitin-subscription-license-for-myself",
+          "source_date": "live-fetched 2026-07-22 (help-center article, undated on page)",
+          "platform": "Vendor primary source (Turnitin help center)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-best-ai-detector-07",
+          "claim": "A Quora answerer (Lucas Goldfarb, self-identified college student) reports running the same paragraph through four named detectors and getting four different scores, sometimes a 50-percentage-point spread \u2014 a first-person, dated report of cross-detector score inconsistency on identical input.",
+          "quote": "the same paragraph fed into GPTZero, ZeroGPT, Originality.ai, and Copyleaks routinely produces four different scores. Sometimes by 50 percentage points.",
+          "source_url": "https://www.quora.com/Are-AI-detectors-reliable-Ive-used-multiple-and-they-give-differing-results-to-the-same-text",
+          "source_date": "2026-05-24 (answer date, per Quora's current-year relative-date display, captured 2026-07-22)",
+          "platform": "Quora (Lucas Goldfarb, college student)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-22",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-01",
+          "claim": "PerfectEssayWriter.ai's AI-essay-checker page cross-sells a paid human ghostwriting service ('Hire a Writer to Fix This') for flagged sections -- starting from $11/page, delivered in 3-6 hours -- guaranteeing the rewrite is '100% original' and 'passes every detector', on the same page that diagnoses a student's AI-flag risk. VENDOR CLAIM (self-interested), not independently verified -- 'passes every detector' is the exact cross-detector-disagreement equivalence problem this page corrects.",
+          "quote": "A professional writer rewrites the flagged sections: same argument, 100% original, passes every detector. [...] From $11/page. Ready in 3-6 hrs. Money-back guarantee.",
+          "source_url": "https://www.perfectessaywriter.ai/ai-detector",
+          "source_date": "2026 (page states 'Last updated: June 2026', exact day not disclosed; capture date 2026-07-23)",
+          "platform": "Vendor primary source (perfectessaywriter.ai), self-interested -- sells the paid rewrite it is pitching",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-02",
+          "claim": "PerfectEssayWriter.ai claims its checker is 'calibrated against the detection patterns of Turnitin AI, GPTZero, and Copyleaks specifically' with thresholds that 'match those used by' all three named tools -- an equivalence/prediction claim with no disclosed sample size, test date, or validation methodology anywhere on the page. VENDOR CLAIM (self-interested), not adopted as fact.",
+          "quote": "PerfectEssayWriter.ai's checker is calibrated against the detection patterns of Turnitin AI, GPTZero, and Copyleaks specifically. The thresholds match those used by Turnitin AI, GPTZero, and Copyleaks, the tools most commonly deployed by professors.",
+          "source_url": "https://www.perfectessaywriter.ai/ai-detector",
+          "source_date": "2026 (page states 'Last updated: June 2026', exact day not disclosed; capture date 2026-07-23)",
+          "platform": "Vendor primary source (perfectessaywriter.ai), self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-03",
+          "claim": "PerfectEssayWriter.ai's FAQ explicitly names formal-academic-writing style (law, medicine, economics) as a false-positive risk category ('Formulaic topic sentences, generic conclusion paragraphs, and standard literature review language are the three most common false-positive triggers') but does not mention ESL/non-native-writer risk anywhere on the page, despite naming another specific bias category.",
+          "quote": "No AI detector is 100% accurate. False positives occur, particularly in formal academic writing in law, medicine, and economics.",
+          "source_url": "https://www.perfectessaywriter.ai/ai-detector",
+          "source_date": "2026 (page states 'Last updated: June 2026', exact day not disclosed; capture date 2026-07-23)",
+          "platform": "Vendor primary source (perfectessaywriter.ai), self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-04",
+          "claim": "Dechecker.ai's essay checker markets itself directly to ESL/non-native writers as an audience benefit ('Non-native writers can refine sentence structure, tone, and clarity... while preserving natural language flow') without disclosing that ESL writing is the group disproportionately false-flagged by AI detectors in published research -- the opposite framing of the documented finding.",
+          "quote": "ESL Writers Improving Fluency \u2014 Non-native writers can refine sentence structure, tone, and clarity. Free essay checker provides guidance on AI-generated content while preserving natural language flow.",
+          "source_url": "https://dechecker.ai/essay-checker",
+          "source_date": "not disclosed on page (footer shows only copyright year 2026, no last-modified date; capture date 2026-07-23)",
+          "platform": "Vendor primary source (dechecker.ai), self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-05",
+          "claim": "Dechecker.ai's essay checker page makes confident-certainty accuracy language ('Accurate AI Detection... identifies AI-generated sentences precisely', 'Authoritative Conclusion') and an unsubstantiated 'Trusted By 1M+ Users Worldwide' claim, with no false-positive risk or limitation disclosed anywhere on the page.",
+          "quote": "Trusted By 1M+ Users Worldwide [...] Accurate AI Detection [...] identifies AI-generated sentences precisely.",
+          "source_url": "https://dechecker.ai/essay-checker",
+          "source_date": "not disclosed on page (footer shows only copyright year 2026, no last-modified date; capture date 2026-07-23)",
+          "platform": "Vendor primary source (dechecker.ai), self-interested -- user-count claim has no linked source or methodology",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-06",
+          "claim": "EssayCheck.ai's AI-detector pitch is immediately followed, in the same on-page section, by a cross-sell instructing users: 'To make your content completely undetectable, use Super Humanizer AI or try AI Humanizer to convert AI text into natural, human-like writing' -- pairing a self-check/academic-integrity tool with an evasion-tool upsell one paragraph later.",
+          "quote": "To make your content completely undetectable, use Super Humanizer AI or try AI Humanizer to convert AI text into natural, human-like writing.",
+          "source_url": "https://essaycheck.ai/",
+          "source_date": "not disclosed on page (footer shows only '\u00a9 2026, All rights reserved.', no last-modified date; capture date 2026-07-23)",
+          "platform": "Vendor primary source (essaycheck.ai), self-interested -- links to its own sibling humanizer-tool domains",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-07",
+          "claim": "GPTinf.com's essay-checker page makes the same unsubstantiated cross-detector-equivalence claim as a separate competitor (PerfectEssayWriter.ai, EV-ai-essay-checker-02): 'Results are cross-checked against Turnitin, Copyleaks, GPTZero, and other leading detectors' -- with no disclosed sample size, methodology, or test date, confirming this is a recurring pattern across the SERP rather than an isolated claim.",
+          "quote": "Results are cross-checked against Turnitin, Copyleaks, GPTZero, and other leading detectors.",
+          "source_url": "https://www.gptinf.com/detector/ai-essay-checker",
+          "source_date": "not disclosed on page (no visible last-modified date; capture date 2026-07-23)",
+          "platform": "Vendor primary source (gptinf.com), self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-08",
+          "claim": "CoGrader's teacher-facing AI essay checker states outright: 'No detector is perfectly accurate, so treat a flag as a reason to read closely, not as proof,' credited to a named reviewer (Andrew Gitner, Founding Educator/ELA teacher) -- genuinely honest hedge language, but the page discloses no methodology, test corpus, or validation source for its own AI-flagging accuracy.",
+          "quote": "No detector is perfectly accurate, so treat a flag as a reason to read closely, not as proof.",
+          "source_url": "https://cograder.com/ai-essay-checker/",
+          "source_date": "not disclosed on page (no visible last-modified date; capture date 2026-07-23)",
+          "platform": "Vendor primary source (cograder.com), self-interested but notably candid -- adjacent competitor, not a top-3 SERP occupant for the exact phrase",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-09",
+          "claim": "A College Confidential forum poster reported their college admissions essay scored a 29% AI score and 26% mixed score on GPTZero despite not using AI to write it; the thread's ~20+ replies largely reassured the poster that AI-detector scores in this range are unreliable and unlikely to trigger admissions action on their own.",
+          "quote": "29% ai score and 26% mixed score",
+          "source_url": "https://talk.collegeconfidential.com/t/ai-flagging-my-admissions-essay/3658702",
+          "source_date": "2024-02-19",
+          "platform": "College Confidential (Applying to College forum), first-person student post + community replies",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-10",
+          "claim": "A College Confidential forum poster in the International Baccalaureate section reported their IB Higher Level English (HLE) essay was flagged 100% AI-written by Copyleaks, despite having used Grammarly (not a generative AI tool) on roughly 30% of the essay for grammar correction, and asked how to prove authentic authorship if formally flagged.",
+          "quote": "I submitted my HLE essay and it flagged as 100% AI written on copyleaks. I used grammarly (not on the entire essay but maybe 30%).",
+          "source_url": "https://talk.collegeconfidential.com/t/ai-detection-on-essays/3657917",
+          "source_date": "2024-02-08",
+          "platform": "College Confidential (International Baccalaureate forum), first-person student post",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-ai-essay-checker-11",
+          "claim": "A College Confidential forum poster reported running self-written college admissions essays through Copyleaks, GPTZero, and Winston AI, with GPTZero scoring roughly 50% likely AI-generated and Copyleaks/Winston AI flagging most of the essays as near-complete AI generation, despite a hired college counselor's positive review of the same essays as original personal writing.",
+          "quote": "I ran it through those generators like copyleaks, gptzero, and Winston ai, and the results flagged like most of my essays and I would get like 50% is likely to be generated by Ai from gptzero",
+          "source_url": "https://talk.collegeconfidential.com/t/my-college-essays-are-being-marked-as-ai-any-admission-officers-here/3649676",
+          "source_date": "2023-11-03",
+          "platform": "College Confidential (Applying to College forum), first-person student post",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-23",
+          "re_verified": false,
+          "re_verified_date": null
         }
       ]
     },
@@ -69,7 +282,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-turnitin-02",
@@ -93,7 +306,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-best-ai-detector-01",
@@ -240,7 +453,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -386,7 +599,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -605,7 +818,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-detect-01",
@@ -899,7 +1112,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1066,7 +1279,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1139,7 +1352,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         }
       ]
     },
@@ -1178,7 +1391,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-detect-03",
@@ -1360,7 +1573,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-turnitin-01",
@@ -1372,7 +1585,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-detect-03",
@@ -1616,7 +1829,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -1797,7 +2010,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -1967,7 +2180,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-scribbr-01",
@@ -2150,7 +2363,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2174,7 +2387,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-14"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-turnitin-02",
@@ -2270,7 +2483,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-turnitin-11",
@@ -2490,7 +2703,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2800,7 +3013,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2848,7 +3061,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-scribbr-06",
@@ -3408,7 +3621,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-22"
+          "re_verified_date": "2026-07-23"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
