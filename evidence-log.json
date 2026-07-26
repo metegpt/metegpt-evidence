@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-23",
+    "generated": "2026-07-26",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 211,
-    "page_appearances": 260,
-    "page_count": 23,
+    "unique_sources": 216,
+    "page_appearances": 271,
+    "page_count": 24,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,7 +36,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         }
       ]
     },
@@ -44,7 +44,7 @@
       "page": "/ai-essay-checker",
       "url": "https://metegpt.com/ai-essay-checker",
       "protocol_version": "MEP-1.0",
-      "published_entries": 16,
+      "published_entries": 17,
       "collection_sweep": {
         "run_date": "2026-07-23",
         "candidates_identified": 48,
@@ -69,7 +69,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-turnitin-01",
@@ -93,7 +93,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-detector-05",
@@ -250,6 +250,18 @@
           "collected_at": "2026-07-23",
           "re_verified": false,
           "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-07",
+          "claim": "A peer-reviewed 14-tool study (Weber-Wulff et al., 2023, International Journal for Educational Integrity) tested the same set of human-written, machine-translated, and AI-generated documents across 14 detection tools and found the tools disagree sharply with each other on identical input: the false-positive risk on the same human-written/machine-translated documents ranged from 0% (Turnitin) to 50% (GPT Zero), and the false-negative risk on the same AI-generated documents ranged from 8% (GPT Zero) to 100% (Content at Scale) -- direct, quantified, peer-reviewed evidence of cross-detector inconsistency on the same text.",
+          "quote": "The probability of false positives ranged from 0% (Turnitin) to 50% (GPT Zero). The probability of false negatives ranged from 8% (GPT Zero) to 100% (Content at Scale).",
+          "source_url": "https://doi.org/10.1007/s40979-023-00146-z",
+          "source_date": "2023-12-04 (journal publication, International Journal for Educational Integrity, Vol. 19, Article 26); arXiv preprint v2 posted 2023-07-10 (arxiv.org/abs/2306.15666)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity / Springer; also on arXiv, Weber-Wulff et al., 8 authors including Debora Weber-Wulff, HTW Berlin) -- same underlying paper as EV-detect-01/EV-detect-02, this entry registers the section-5.1.2/5.2.1 cross-tool-disagreement finding on the SAME 14-tool, same-document-set test, which was not previously captured in the registry",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
         }
       ]
     },
@@ -257,7 +269,7 @@
       "page": "/best-ai-detector",
       "url": "https://metegpt.com/best-ai-detector",
       "protocol_version": "MEP-1.0",
-      "published_entries": 12,
+      "published_entries": 13,
       "collection_sweep": {
         "run_date": "2026-07-22",
         "candidates_identified": 33,
@@ -282,7 +294,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-turnitin-02",
@@ -306,7 +318,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-detector-01",
@@ -415,6 +427,18 @@
           "collected_at": "2026-07-22",
           "re_verified": false,
           "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-07",
+          "claim": "A peer-reviewed 14-tool study (Weber-Wulff et al., 2023, International Journal for Educational Integrity) tested the same set of human-written, machine-translated, and AI-generated documents across 14 detection tools and found the tools disagree sharply with each other on identical input: the false-positive risk on the same human-written/machine-translated documents ranged from 0% (Turnitin) to 50% (GPT Zero), and the false-negative risk on the same AI-generated documents ranged from 8% (GPT Zero) to 100% (Content at Scale) -- direct, quantified, peer-reviewed evidence of cross-detector inconsistency on the same text.",
+          "quote": "The probability of false positives ranged from 0% (Turnitin) to 50% (GPT Zero). The probability of false negatives ranged from 8% (GPT Zero) to 100% (Content at Scale).",
+          "source_url": "https://doi.org/10.1007/s40979-023-00146-z",
+          "source_date": "2023-12-04 (journal publication, International Journal for Educational Integrity, Vol. 19, Article 26); arXiv preprint v2 posted 2023-07-10 (arxiv.org/abs/2306.15666)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity / Springer; also on arXiv, Weber-Wulff et al., 8 authors including Debora Weber-Wulff, HTW Berlin) -- same underlying paper as EV-detect-01/EV-detect-02, this entry registers the section-5.1.2/5.2.1 cross-tool-disagreement finding on the SAME 14-tool, same-document-set test, which was not previously captured in the registry",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
         }
       ]
     },
@@ -453,7 +477,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -477,7 +501,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-04",
@@ -566,6 +590,123 @@
       ]
     },
     {
+      "page": "/bypass-ai-detector",
+      "url": "https://metegpt.com/bypass-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 8,
+      "collection_sweep": {
+        "run_date": "2026-07-26",
+        "candidates_identified": 58,
+        "screened": 58,
+        "excluded": null,
+        "excluded_by_reason": null,
+        "included_this_run": 13,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-26"
+        },
+        {
+          "id": "EV-best-ai-humanizer-03",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
+          "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
+          "source_date": "2025-08-27",
+          "platform": "industry news site quoting Turnitin CPO Annie Chechitelli",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-26"
+        },
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-26"
+        },
+        {
+          "id": "EV-bypass-ai-detector-01",
+          "claim": "A leading SERP competitor for 'bypass ai detector' promises \u201c100% human\u201d text in its own headline while its FAQ two sections later concedes no tool can guarantee full detection avoidance -- a direct self-contradiction between headline and fine print.",
+          "quote": "Want to Make AI Text Sound 100% Human? [...] While no tool can guarantee 100% detection avoidance, Bypass AI consistently improves your text's chances of passing various AI and plagiarism detectors.",
+          "source_url": "https://notegpt.io/bypass-ai",
+          "source_date": "2026-07-26 (capture date; the page itself carries no reliable publish/last-updated date -- its copyright year and an example-post date both read as unmaintained template placeholders)",
+          "platform": "vendor primary source (notegpt.io/bypass-ai, part of the NoteGPT multi-tool suite) -- self-interested; cited only to document this competitor's own internal inconsistency, never adopted as fact",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-02",
+          "claim": "A SERP competitor for 'bypass ai detector' markets outcome-only language ('reads as fully human', built-in detector, adjustable rewrite levels) on both its homepage and FAQ with zero disclosed sample size, success-rate figure, test methodology, or independent validation anywhere on the site -- illustrating the evidence gap a dated, sample-sized number fills.",
+          "quote": "Your text reads as fully human with a natural tone, rhythm, and flow.",
+          "source_url": "https://www.stealthwriter.ai",
+          "source_date": "2026-07-26 (capture date; homepage and FAQ are undated evergreen marketing pages)",
+          "platform": "vendor primary source (stealthwriter.ai homepage + FAQ, company 'AiVantage LLC') -- self-interested; no bylined author or credentials found anywhere on the site",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-03",
+          "claim": "A rank-4 SERP article in this keyword cluster makes unhedged, undisclosed-methodology claims of '100% Human on Winston AI' and '94% Human on Originality AI' via screenshots, and calls itself 'the only tool that passed every detector I tested' after 'two years of testing' -- with no stated sample size, test dates, or reproducible method anywhere in the piece.",
+          "quote": "100% Human on Winston AI [...] 94% Human on Originality AI [...] the only tool that passed every detector I tested",
+          "source_url": "https://gpthuman.ai/how-to-pass-ai-detectors/",
+          "source_date": "2026-01-11 (article's own stated publish date)",
+          "platform": "vendor primary source (gpthuman.ai blog) -- self-interested; the article reviews and ultimately recommends the humanizer it is published by",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-04",
+          "claim": "One competitor page for the adjacent 'bypass ai detection' query explicitly rejects guarantee-language, stating no universal bypass exists and framing every method as a tradeoff rather than a solution -- the single honest-ceiling voice found across this page's full SERP census, worth acknowledging fairly even though this page goes further with a measured, dated number.",
+          "quote": "There is no universal bypass. There are only tradeoffs.",
+          "source_url": "https://www.eyesift.com/blog/bypass-ai-detection/",
+          "source_date": "2026-03-20 (article's stated publish date; page shows updates through 2026-06-12)",
+          "platform": "competitor content page (eyesift.com/blog) -- commercial affiliation not established from this page alone; cited only for its own stated editorial position, attributed, not adopted beyond attribution",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-07",
+          "claim": "A peer-reviewed 14-tool study (Weber-Wulff et al., 2023, International Journal for Educational Integrity) tested the same set of human-written, machine-translated, and AI-generated documents across 14 detection tools and found the tools disagree sharply with each other on identical input: the false-positive risk on the same human-written/machine-translated documents ranged from 0% (Turnitin) to 50% (GPT Zero), and the false-negative risk on the same AI-generated documents ranged from 8% (GPT Zero) to 100% (Content at Scale) -- direct, quantified, peer-reviewed evidence of cross-detector inconsistency on the same text.",
+          "quote": "The probability of false positives ranged from 0% (Turnitin) to 50% (GPT Zero). The probability of false negatives ranged from 8% (GPT Zero) to 100% (Content at Scale).",
+          "source_url": "https://doi.org/10.1007/s40979-023-00146-z",
+          "source_date": "2023-12-04 (journal publication, International Journal for Educational Integrity, Vol. 19, Article 26); arXiv preprint v2 posted 2023-07-10 (arxiv.org/abs/2306.15666)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity / Springer; also on arXiv, Weber-Wulff et al., 8 authors including Debora Weber-Wulff, HTW Berlin) -- same underlying paper as EV-detect-01/EV-detect-02, this entry registers the section-5.1.2/5.2.1 cross-tool-disagreement finding on the SAME 14-tool, same-document-set test, which was not previously captured in the registry",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/copyleaks-ai-detector",
       "url": "https://metegpt.com/copyleaks-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -599,7 +740,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -787,7 +928,7 @@
       "page": "/detect",
       "url": "https://metegpt.com/detect",
       "protocol_version": "MEP-1.0",
-      "published_entries": 11,
+      "published_entries": 12,
       "collection_sweep": {
         "run_date": "2026-07-07",
         "candidates_identified": 89,
@@ -818,7 +959,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-detect-01",
@@ -939,6 +1080,18 @@
           "collected_at": "2026-07-07",
           "re_verified": false,
           "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-ai-detector-07",
+          "claim": "A peer-reviewed 14-tool study (Weber-Wulff et al., 2023, International Journal for Educational Integrity) tested the same set of human-written, machine-translated, and AI-generated documents across 14 detection tools and found the tools disagree sharply with each other on identical input: the false-positive risk on the same human-written/machine-translated documents ranged from 0% (Turnitin) to 50% (GPT Zero), and the false-negative risk on the same AI-generated documents ranged from 8% (GPT Zero) to 100% (Content at Scale) -- direct, quantified, peer-reviewed evidence of cross-detector inconsistency on the same text.",
+          "quote": "The probability of false positives ranged from 0% (Turnitin) to 50% (GPT Zero). The probability of false negatives ranged from 8% (GPT Zero) to 100% (Content at Scale).",
+          "source_url": "https://doi.org/10.1007/s40979-023-00146-z",
+          "source_date": "2023-12-04 (journal publication, International Journal for Educational Integrity, Vol. 19, Article 26); arXiv preprint v2 posted 2023-07-10 (arxiv.org/abs/2306.15666)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity / Springer; also on arXiv, Weber-Wulff et al., 8 authors including Debora Weber-Wulff, HTW Berlin) -- same underlying paper as EV-detect-01/EV-detect-02, this entry registers the section-5.1.2/5.2.1 cross-tool-disagreement finding on the SAME 14-tool, same-document-set test, which was not previously captured in the registry",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": false,
+          "re_verified_date": null
         }
       ]
     },
@@ -976,7 +1129,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-07",
@@ -1112,7 +1265,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1279,7 +1432,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1291,7 +1444,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-scribbr-09",
@@ -1352,7 +1505,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         }
       ]
     },
@@ -1391,7 +1544,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-detect-03",
@@ -1573,7 +1726,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-turnitin-01",
@@ -1829,7 +1982,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -2010,7 +2163,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -2180,7 +2333,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-scribbr-01",
@@ -2363,7 +2516,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2375,7 +2528,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-turnitin-01",
@@ -2483,7 +2636,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-turnitin-11",
@@ -2703,7 +2856,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-gpthuman-01",
@@ -3013,7 +3166,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3025,7 +3178,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-18"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-best-ai-humanizer-09",
@@ -3061,7 +3214,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-scribbr-06",
@@ -3621,7 +3774,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-07-26"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
