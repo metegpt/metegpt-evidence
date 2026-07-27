@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-26",
+    "generated": "2026-07-27",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 216,
-    "page_appearances": 271,
-    "page_count": 24,
+    "unique_sources": 229,
+    "page_appearances": 285,
+    "page_count": 25,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -28,7 +28,7 @@
       "entries": [
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -85,7 +85,7 @@
         },
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -109,7 +109,7 @@
         },
         {
           "id": "EV-best-ai-detector-07",
-          "claim": "A Quora answerer (Lucas Goldfarb, self-identified college student) reports running the same paragraph through four named detectors and getting four different scores, sometimes a 50-percentage-point spread \u2014 a first-person, dated report of cross-detector score inconsistency on identical input.",
+          "claim": "A Quora answerer (Lucas Goldfarb, self-identified college student) reports running the same paragraph through four named detectors and getting four different scores, sometimes a 50-percentage-point spread — a first-person, dated report of cross-detector score inconsistency on identical input.",
           "quote": "the same paragraph fed into GPTZero, ZeroGPT, Originality.ai, and Copyleaks routinely produces four different scores. Sometimes by 50 percentage points.",
           "source_url": "https://www.quora.com/Are-AI-detectors-reliable-Ive-used-multiple-and-they-give-differing-results-to-the-same-text",
           "source_date": "2026-05-24 (answer date, per Quora's current-year relative-date display, captured 2026-07-22)",
@@ -158,7 +158,7 @@
         {
           "id": "EV-ai-essay-checker-04",
           "claim": "Dechecker.ai's essay checker markets itself directly to ESL/non-native writers as an audience benefit ('Non-native writers can refine sentence structure, tone, and clarity... while preserving natural language flow') without disclosing that ESL writing is the group disproportionately false-flagged by AI detectors in published research -- the opposite framing of the documented finding.",
-          "quote": "ESL Writers Improving Fluency \u2014 Non-native writers can refine sentence structure, tone, and clarity. Free essay checker provides guidance on AI-generated content while preserving natural language flow.",
+          "quote": "ESL Writers Improving Fluency — Non-native writers can refine sentence structure, tone, and clarity. Free essay checker provides guidance on AI-generated content while preserving natural language flow.",
           "source_url": "https://dechecker.ai/essay-checker",
           "source_date": "not disclosed on page (footer shows only copyright year 2026, no last-modified date; capture date 2026-07-23)",
           "platform": "Vendor primary source (dechecker.ai), self-interested",
@@ -184,7 +184,7 @@
           "claim": "EssayCheck.ai's AI-detector pitch is immediately followed, in the same on-page section, by a cross-sell instructing users: 'To make your content completely undetectable, use Super Humanizer AI or try AI Humanizer to convert AI text into natural, human-like writing' -- pairing a self-check/academic-integrity tool with an evasion-tool upsell one paragraph later.",
           "quote": "To make your content completely undetectable, use Super Humanizer AI or try AI Humanizer to convert AI text into natural, human-like writing.",
           "source_url": "https://essaycheck.ai/",
-          "source_date": "not disclosed on page (footer shows only '\u00a9 2026, All rights reserved.', no last-modified date; capture date 2026-07-23)",
+          "source_date": "not disclosed on page (footer shows only '© 2026, All rights reserved.', no last-modified date; capture date 2026-07-23)",
           "platform": "Vendor primary source (essaycheck.ai), self-interested -- links to its own sibling humanizer-tool domains",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-23",
@@ -310,7 +310,7 @@
         },
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -326,7 +326,7 @@
           "quote": "Scribbr (premium) [ranked #1, 84% accuracy]... Scribbr (free) [ranked #3, 78% accuracy]",
           "source_url": "https://www.scribbr.com/ai-tools/best-ai-detector/",
           "source_date": "2026-04-22 (published); revised 2026-07-21",
-          "platform": "Vendor-authored listicle (scribbr.com), self-interested \u2014 Scribbr is grading its own products alongside competitors",
+          "platform": "Vendor-authored listicle (scribbr.com), self-interested — Scribbr is grading its own products alongside competitors",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-22",
           "re_verified": false,
@@ -334,7 +334,7 @@
         },
         {
           "id": "EV-best-ai-detector-02",
-          "claim": "NY Post's 'best AI detectors' listicle cites arXiv:2305.06983 to support both a 94% accuracy claim for Originality.AI and a separate FAQ claim that 'most top detectors hover around 90-95% accuracy... according to Cornell University' \u2014 but the linked paper is 'Active Retrieval Augmented Generation' (FLARE), a hallucination-reduction method with no connection to AI-text detectors, detection accuracy, or Cornell University.",
+          "claim": "NY Post's 'best AI detectors' listicle cites arXiv:2305.06983 to support both a 94% accuracy claim for Originality.AI and a separate FAQ claim that 'most top detectors hover around 90-95% accuracy... according to Cornell University' — but the linked paper is 'Active Retrieval Augmented Generation' (FLARE), a hallucination-reduction method with no connection to AI-text detectors, detection accuracy, or Cornell University.",
           "quote": "In our tests, it consistently flagged GPT-3 and GPT-4 content with an impressive 94% accuracy rate [linked to arxiv.org/abs/2305.06983]... Most top detectors hover around 90-95% accuracy for GPT-3 and 4, according to Cornell University [same arXiv link]",
           "source_url": "https://nypost.com/shopping/best-ai-detectors/",
           "source_date": "2025-06-13 (published); updated 2025-06-14",
@@ -346,7 +346,7 @@
         },
         {
           "id": "EV-best-ai-detector-02b",
-          "claim": "The paper at arXiv:2305.06983 \u2014 cited by NY Post as support for a 90-95% AI-detector accuracy claim attributed to 'Cornell University' \u2014 is titled 'Active Retrieval Augmented Generation' (FLARE) and does not discuss AI-text detectors or detection accuracy at all.",
+          "claim": "The paper at arXiv:2305.06983 — cited by NY Post as support for a 90-95% AI-detector accuracy claim attributed to 'Cornell University' — is titled 'Active Retrieval Augmented Generation' (FLARE) and does not discuss AI-text detectors or detection accuracy at all.",
           "quote": "Active Retrieval Augmented Generation... iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve relevant documents to regenerate the sentence if it contains low-confidence tokens.",
           "source_url": "https://arxiv.org/abs/2305.06983",
           "source_date": "2023-05-11 (arXiv v1 submission)",
@@ -374,7 +374,7 @@
           "quote": "GPTZero remains the best AI detector for most use cases... GPTZero remains widely recognized as the most accurate AI detector on the market... With our live benchmark framework, we compared Pangram v3.2, Pangram v3.1, and GPTZero across multiple domains. The results demonstrate that... GPTZero still comes out on top.",
           "source_url": "https://gptzero.me/news/best-ai-detectors/",
           "source_date": "2026-06-25",
-          "platform": "Vendor-authored listicle (gptzero.me/news), self-interested \u2014 GPTZero is ranking its own product #1 on a self-run benchmark against a named rival",
+          "platform": "Vendor-authored listicle (gptzero.me/news), self-interested — GPTZero is ranking its own product #1 on a self-run benchmark against a named rival",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-22",
           "re_verified": false,
@@ -394,7 +394,7 @@
         },
         {
           "id": "EV-best-ai-detector-06",
-          "claim": "Of 4 answers on a screened Quora thread asking which AI detector is most accurate (fetched 2026-07-22), no two answerers named the same tool: separate answers recommend ZeroGPT, Winston AI, and a bundle of 'Undetectable AI, GPTZero, OpenAI AI Text Classifier and Copyleaks,' while a fourth (a vendor account) redirects to its own product \u2014 a documented case of community non-consensus on 'most accurate,' not a ranked verdict.",
+          "claim": "Of 4 answers on a screened Quora thread asking which AI detector is most accurate (fetched 2026-07-22), no two answerers named the same tool: separate answers recommend ZeroGPT, Winston AI, and a bundle of 'Undetectable AI, GPTZero, OpenAI AI Text Classifier and Copyleaks,' while a fourth (a vendor account) redirects to its own product — a documented case of community non-consensus on 'most accurate,' not a ranked verdict.",
           "quote": "The best one I've personally used is ZeroGPT. It's easy to use and highlights the parts of the text that look AI-generated. (Clive Herrera, Mar 20) / Winston AI is one of the best AI detectors available... more structured and transparent probability analysis. (Hazel, Mar 25) / Undetectable AI and GPTZero and OpenAI AI Text Classifier and Copyleaks AI Detector stand out as reliable options. (unattributed answer) / Ha ha ha ha no [detectors cannot reliably distinguish AI text]. (Franklin Veaux)",
           "source_url": "https://www.quora.com/What-is-the-most-accurate-AI-detection-tool",
           "source_date": "answers dated 2026-01-12, 2026-03-20, 2026-03-25 and undated (Franklin Veaux, 'updated Sat' relative to 2026-07-22 capture); page live-fetched 2026-07-22",
@@ -406,7 +406,7 @@
         },
         {
           "id": "EV-best-ai-detector-07",
-          "claim": "A Quora answerer (Lucas Goldfarb, self-identified college student) reports running the same paragraph through four named detectors and getting four different scores, sometimes a 50-percentage-point spread \u2014 a first-person, dated report of cross-detector score inconsistency on identical input.",
+          "claim": "A Quora answerer (Lucas Goldfarb, self-identified college student) reports running the same paragraph through four named detectors and getting four different scores, sometimes a 50-percentage-point spread — a first-person, dated report of cross-detector score inconsistency on identical input.",
           "quote": "the same paragraph fed into GPTZero, ZeroGPT, Originality.ai, and Copyleaks routinely produces four different scores. Sometimes by 50 percentage points.",
           "source_url": "https://www.quora.com/Are-AI-detectors-reliable-Ive-used-multiple-and-they-give-differing-results-to-the-same-text",
           "source_date": "2026-05-24 (answer date, per Quora's current-year relative-date display, captured 2026-07-22)",
@@ -418,11 +418,11 @@
         },
         {
           "id": "EV-best-ai-detector-08",
-          "claim": "VENDOR CLAIM (self-interested): a Quora account operated by detector vendor ZeroGPT states its own comparative testing of 10 AI-detection tools found an average accuracy of only 60% across the group \u2014 a detector company publicly reporting a low category-wide accuracy figure rather than a single-tool percentage.",
+          "claim": "VENDOR CLAIM (self-interested): a Quora account operated by detector vendor ZeroGPT states its own comparative testing of 10 AI-detection tools found an average accuracy of only 60% across the group — a detector company publicly reporting a low category-wide accuracy figure rather than a single-tool percentage.",
           "quote": "the average accuracy of the 10 tools we tested was 60%",
           "source_url": "https://www.quora.com/How-reliable-are-AI-detectors",
           "source_date": "2024 (answer shown as '2 years ago' relative to 2026-07-22 capture)",
-          "platform": "Quora, vendor account (ZeroGPT) \u2014 self-interested source, cited as a vendor claim only",
+          "platform": "Quora, vendor account (ZeroGPT) — self-interested source, cited as a vendor claim only",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-22",
           "re_verified": false,
@@ -493,7 +493,7 @@
         },
         {
           "id": "EV-best-ai-humanizer-03",
-          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
           "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
           "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
           "source_date": "2025-08-27",
@@ -513,7 +513,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-07-28"
         },
         {
           "id": "EV-best-ai-humanizer-05",
@@ -529,7 +529,7 @@
         },
         {
           "id": "EV-best-ai-humanizer-06",
-          "claim": "Originality.ai's own dated test of Duey.ai (single 800-1000 word ChatGPT sample, four detectors) recorded a wide spread of results per detector and warned the rewritten output became incoherent even where detector scores dropped \u2014 an example of the detector-score-vs-readability tradeoff. This test predates the Turnitin Aug-2025 update by one week.",
+          "claim": "Originality.ai's own dated test of Duey.ai (single 800-1000 word ChatGPT sample, four detectors) recorded a wide spread of results per detector and warned the rewritten output became incoherent even where detector scores dropped — an example of the detector-score-vs-readability tradeoff. This test predates the Turnitin Aug-2025 update by one week.",
           "quote": "Duey.ai content may not always get picked up by AI detectors, but neither is it likely to get you anywhere near a passing grade.",
           "source_url": "https://originality.ai/blog/duey-ai-review",
           "source_date": "2025-08-20",
@@ -554,7 +554,7 @@
         {
           "id": "EV-best-ai-humanizer-08",
           "claim": "A dated, methodology-disclosed review found StealthWriter's output was still flagged by the reviewer's own detector on a measurable share of samples (4 of 12 humanized texts), describing results as inconsistent across topics.",
-          "quote": "I humanized 12 AI-generated texts, and 4/12 still got flagged... it only worked part of the time\u2014it's really hit or miss depending on your topic.",
+          "quote": "I humanized 12 AI-generated texts, and 4/12 still got flagged... it only worked part of the time—it's really hit or miss depending on your topic.",
           "source_url": "https://aidetectplus.com/blog/stealthwriter-ai-review",
           "source_date": "2026-05-06",
           "platform": "competing detector's company blog (aidetectplus.com; disclosed as reviewing a different vendor's tool)",
@@ -622,7 +622,7 @@
         },
         {
           "id": "EV-best-ai-humanizer-03",
-          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
           "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
           "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
           "source_date": "2025-08-27",
@@ -634,7 +634,7 @@
         },
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -646,7 +646,7 @@
         },
         {
           "id": "EV-bypass-ai-detector-01",
-          "claim": "A leading SERP competitor for 'bypass ai detector' promises \u201c100% human\u201d text in its own headline while its FAQ two sections later concedes no tool can guarantee full detection avoidance -- a direct self-contradiction between headline and fine print.",
+          "claim": "A leading SERP competitor for 'bypass ai detector' promises “100% human” text in its own headline while its FAQ two sections later concedes no tool can guarantee full detection avoidance -- a direct self-contradiction between headline and fine print.",
           "quote": "Want to Make AI Text Sound 100% Human? [...] While no tool can guarantee 100% detection avoidance, Bypass AI consistently improves your text's chances of passing various AI and plagiarism detectors.",
           "source_url": "https://notegpt.io/bypass-ai",
           "source_date": "2026-07-26 (capture date; the page itself carries no reliable publish/last-updated date -- its copyright year and an example-post date both read as unmaintained template placeholders)",
@@ -745,7 +745,7 @@
         {
           "id": "EV-copyleaks-ai-detector-01",
           "claim": "VENDOR CLAIM: Copyleaks' own AI-detector product page states an industry-low .03% false-positive rate alongside an over-99% accuracy claim -- one of (at least) two different self-reported false-positive figures found across Copyleaks-owned pages this run (see EV-copyleaks-ai-detector-02 for the second, different figure).",
-          "quote": "With over 99% accuracy and an industry-low .03% false positive rate, Copyleaks leads the field in trusted detection. The likelihood of human-written content being mistakenly labeled as AI-generated is .03%\u2014one of the lowest among AI detectors.",
+          "quote": "With over 99% accuracy and an industry-low .03% false positive rate, Copyleaks leads the field in trusted detection. The likelihood of human-written content being mistakenly labeled as AI-generated is .03%—one of the lowest among AI detectors.",
           "source_url": "https://copyleaks.com/ai-content-detector",
           "source_date": "undated (evergreen product/marketing page; capture date 2026-07-20)",
           "platform": "vendor primary source (copyleaks.com product page) -- self-interested, Copyleaks' own claim about itself",
@@ -784,7 +784,7 @@
           "quote": "Our results find that CopyLeaks is the most accurate LLM-generated text detector, GPTKit ... [Table 6, Overall accuracy of LLM-generated text detectors measured using thresholds] CopyLeaks 99.12% (Human Data) 95.00% (ChatGPT Data)",
           "source_url": "https://arxiv.org/abs/2307.07411",
           "source_date": "2023-07-10 (submission date, confirmed on the arXiv abstract page)",
-          "platform": "peer-reviewed-track academic preprint (arXiv, hosted by Cornell University; authors: Michael Sheinman Orenstrakh and Michael Liut, University of Toronto Mississauga; Oscar Karnalim, Maranatha Christian University, Indonesia; Carlos An\u00edbal Su\u00e1rez, Escuela Superior Polit\u00e9cnica del Litoral, Ecuador)",
+          "platform": "peer-reviewed-track academic preprint (arXiv, hosted by Cornell University; authors: Michael Sheinman Orenstrakh and Michael Liut, University of Toronto Mississauga; Oscar Karnalim, Maranatha Christian University, Indonesia; Carlos Aníbal Suárez, Escuela Superior Politécnica del Litoral, Ecuador)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-20",
           "re_verified": false,
@@ -820,7 +820,7 @@
           "quote": "In our March 2026 benchmark across 2,400 samples, Copyleaks achieved 79% overall accuracy with a 12% false positive rate and a 22% false negative rate. ... 2,400 samples: 1,200 human-written and 1,200 AI-generated from Claude 3.5, GPT-4o, Gemini 1.5 Pro, and Llama 3.1",
           "source_url": "https://aidetector.ac/reviews/copyleaks/",
           "source_date": "2026-03 (benchmark dated 'March 2026' in the article text; site copyright footer reads 2026)",
-          "platform": "third-party benchmark site (aidetector.ac) -- discloses its own methodology and sample composition; footer states 'AIDetector \u2014 Independent. Not sponsored,' and the site does not sell a competing detector or humanizer product",
+          "platform": "third-party benchmark site (aidetector.ac) -- discloses its own methodology and sample composition; footer states 'AIDetector — Independent. Not sponsored,' and the site does not sell a competing detector or humanizer product",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-20",
           "re_verified": false,
@@ -901,7 +901,7 @@
         {
           "id": "EV-copyleaks-ai-detector-14",
           "claim": "VENDOR PRIMARY SOURCE, VERSION/DATE CORRECTION: Copyleaks' own live release-notes page shows AI Logic launched 2025-05-23 and AI Detector V9 launched 2025-06-24 (web platform) / 2025-07-08 (LMS/API) -- there is NO February 2026 'AI Insights' entry on the page. The page brief's assumed 'V9 AI Insights (Feb 2026) vs AI Logic (Jul 2025)' framing does not match the live version history; both V9 and AI Logic actually launched within about a month of each other in mid-2025, and 'AI Insights' was folded into AI Logic as a renamed sub-feature ('AI Phrases, previously known as AI Insights') rather than remaining a separate Feb-2026 release.",
-          "quote": "AI Logic \u2014 May 23, 2025 ... AI Detector V9 \u2014 June 24, 2025 (Web Platform); July 8, 2025 (LMS/API)",
+          "quote": "AI Logic — May 23, 2025 ... AI Detector V9 — June 24, 2025 (Web Platform); July 8, 2025 (LMS/API)",
           "source_url": "https://copyleaks.com/release-notes",
           "source_date": "undated changelog page; individual entries dated as quoted (capture date 2026-07-20)",
           "platform": "vendor primary source (copyleaks.com/release-notes, live)",
@@ -975,7 +975,7 @@
         },
         {
           "id": "EV-detect-02",
-          "claim": "The same peer-reviewed 14-tool study found that content-obfuscation techniques (paraphrasing/editing AI text) significantly worsen detector performance across the tools tested \u2014 direct academic support for the 'paraphrased/humanized text lowers reliability' disclosure this page must make about detectors generally, including pattern-based ones.",
+          "claim": "The same peer-reviewed 14-tool study found that content-obfuscation techniques (paraphrasing/editing AI text) significantly worsen detector performance across the tools tested — direct academic support for the 'paraphrased/humanized text lowers reliability' disclosure this page must make about detectors generally, including pattern-based ones.",
           "quote": "Content obfuscation techniques significantly worsen the performance of tools",
           "source_url": "https://arxiv.org/abs/2306.15666",
           "source_date": "2023-07-10",
@@ -987,7 +987,7 @@
         },
         {
           "id": "EV-detect-03",
-          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario \u2014 concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
+          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario — concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
           "quote": "false positive rates of approximately 30-78% across scenarios [for RoBERTa]... All three commercial tools maintained false positive rates below 1 percent [on medium/long passages]",
           "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
           "source_date": "2025-10-06",
@@ -999,7 +999,7 @@
         },
         {
           "id": "EV-detect-04",
-          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested \u2014 direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
+          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested — direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
           "quote": "Accuracy varied significantly by text length, with short passages (under 50 words) proving most challenging",
           "source_url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
           "source_date": "2025-12-02",
@@ -1011,7 +1011,7 @@
         },
         {
           "id": "EV-detect-05",
-          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai \u2014 concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
+          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai — concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
           "quote": "OriginalityAI and GPTZero constitute a secondary tier among commercial detectors with partial strengths, making the choice between the two dependent on the user's priority: minimizing false positive rate favors GPTZero, while maximizing ability to distinguish AI from human text favors OriginalityAI.",
           "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
           "source_date": "2025-10-06",
@@ -1023,11 +1023,11 @@
         },
         {
           "id": "EV-detect-06",
-          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 \u2014 registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
+          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 — registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
           "quote": "Pangram Labs: 9/9 AI texts (100%), 3/3 human texts (100%)... GPTZero: 7/9 AI texts (78%), 3/3 human texts (100%)... Originality.ai: 7/9 AI texts (77%), 3/3 human texts (100%)",
           "source_url": "https://www.pangram.com/blog/best-ai-detector-tools",
           "source_date": "2026-01-07",
-          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder \u2014 disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
+          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder — disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
@@ -1035,7 +1035,7 @@
         },
         {
           "id": "EV-detect-07",
-          "claim": "NPR education reporting (Dec 2025) documents named students now routinely running their own homework through multiple AI-detection tools before submitting it, specifically because of fear of false accusation \u2014 direct journalism evidence for the 'cross-check with more than one detector' behavior this page recommends, independent of any single detector vendor's self-interest.",
+          "claim": "NPR education reporting (Dec 2025) documents named students now routinely running their own homework through multiple AI-detection tools before submitting it, specifically because of fear of false accusation — direct journalism evidence for the 'cross-check with more than one detector' behavior this page recommends, independent of any single detector vendor's self-interest.",
           "quote": "She now runs all her homework assignments through multiple AI detection tools before she turns them in.",
           "source_url": "https://www.npr.org/2025/12/16/nx-s1-5492397/ai-schools-teachers-students",
           "source_date": "2025-12-16",
@@ -1047,7 +1047,7 @@
         },
         {
           "id": "EV-detect-08",
-          "claim": "CalMatters journalism (2025) documents named community-college and CSU students describing the emotional and practical impact of AI/plagiarism-detector false flags, plus a named instructor noting Turnitin is not good at catching the strongest actual tipoff of AI use (fabricated quotes/hallucinations) \u2014 corroborates that detector verdicts are an imperfect proxy signal, not a certainty verdict, from the educator side as well as the student side.",
+          "claim": "CalMatters journalism (2025) documents named community-college and CSU students describing the emotional and practical impact of AI/plagiarism-detector false flags, plus a named instructor noting Turnitin is not good at catching the strongest actual tipoff of AI use (fabricated quotes/hallucinations) — corroborates that detector verdicts are an imperfect proxy signal, not a certainty verdict, from the educator side as well as the student side.",
           "quote": "The biggest tipoff [of AI use] are fake quotes or hallucinations, which Turnitin isn't good at catching.",
           "source_url": "https://calmatters.org/education/higher-education/2025/06/ai-detector/",
           "source_date": "2025-06-26 (updated 2025-07-15)",
@@ -1121,7 +1121,7 @@
       "entries": [
         {
           "id": "EV-best-ai-humanizer-03",
-          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
           "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
           "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
           "source_date": "2025-08-27",
@@ -1436,7 +1436,7 @@
         },
         {
           "id": "EV-best-ai-humanizer-03",
-          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
           "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
           "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
           "source_date": "2025-08-27",
@@ -1497,7 +1497,7 @@
       "entries": [
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -1548,7 +1548,7 @@
         },
         {
           "id": "EV-detect-03",
-          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario \u2014 concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
+          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario — concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
           "quote": "false positive rates of approximately 30-78% across scenarios [for RoBERTa]... All three commercial tools maintained false positive rates below 1 percent [on medium/long passages]",
           "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
           "source_date": "2025-10-06",
@@ -1560,7 +1560,7 @@
         },
         {
           "id": "EV-detect-04",
-          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested \u2014 direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
+          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested — direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
           "quote": "Accuracy varied significantly by text length, with short passages (under 50 words) proving most challenging",
           "source_url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
           "source_date": "2025-12-02",
@@ -1572,7 +1572,7 @@
         },
         {
           "id": "EV-detect-05",
-          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai \u2014 concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
+          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai — concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
           "quote": "OriginalityAI and GPTZero constitute a secondary tier among commercial detectors with partial strengths, making the choice between the two dependent on the user's priority: minimizing false positive rate favors GPTZero, while maximizing ability to distinguish AI from human text favors OriginalityAI.",
           "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
           "source_date": "2025-10-06",
@@ -1584,11 +1584,11 @@
         },
         {
           "id": "EV-detect-06",
-          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 \u2014 registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
+          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 — registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
           "quote": "Pangram Labs: 9/9 AI texts (100%), 3/3 human texts (100%)... GPTZero: 7/9 AI texts (78%), 3/3 human texts (100%)... Originality.ai: 7/9 AI texts (77%), 3/3 human texts (100%)",
           "source_url": "https://www.pangram.com/blog/best-ai-detector-tools",
           "source_date": "2026-01-07",
-          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder \u2014 disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
+          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder — disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
@@ -1742,7 +1742,7 @@
         },
         {
           "id": "EV-detect-03",
-          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario \u2014 concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
+          "claim": "A 2025 NBER/Becker Friedman Institute working paper (Jabarian & Imas) comparing four AI-text detectors on 1,992 human and 1,992 AI-generated passages across six genres found the three commercial tools (Pangram, GPTZero, Originality.ai) held false-positive rates under 1% on medium/long text, but the open-source RoBERTa baseline misclassified human text at a 30-78% false-positive rate depending on scenario — concrete cross-detector evidence that detector method/vendor materially changes real-world reliability, not just marketing claims.",
           "quote": "false positive rates of approximately 30-78% across scenarios [for RoBERTa]... All three commercial tools maintained false positive rates below 1 percent [on medium/long passages]",
           "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
           "source_date": "2025-10-06",
@@ -1754,7 +1754,7 @@
         },
         {
           "id": "EV-detect-04",
-          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested \u2014 direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
+          "claim": "The same NBER/BFI study found accuracy for all three commercial detectors (Pangram, GPTZero, Originality.ai) degrades on short passages, with texts under roughly 50 words the hardest case for every tool tested — direct academic corroboration of the 'short text is a structurally noisy signal for any detector' disclosure this page must make.",
           "quote": "Accuracy varied significantly by text length, with short passages (under 50 words) proving most challenging",
           "source_url": "https://www.chicagobooth.edu/review/do-ai-detectors-work-well-enough-trust",
           "source_date": "2025-12-02",
@@ -1766,7 +1766,7 @@
         },
         {
           "id": "EV-detect-05",
-          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai \u2014 concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
+          "claim": "The same study found GPTZero and Originality.ai occupy a 'secondary tier' relative to Pangram, with a real tradeoff between them: minimizing false positives favors GPTZero, while maximizing detection of AI-written text favors Originality.ai — concrete evidence that different named detectors optimize for different error types, which is the academic basis for recommending a cross-check with a second, differently-tuned detector rather than trusting one tool's verdict.",
           "quote": "OriginalityAI and GPTZero constitute a secondary tier among commercial detectors with partial strengths, making the choice between the two dependent on the user's priority: minimizing false positive rate favors GPTZero, while maximizing ability to distinguish AI from human text favors OriginalityAI.",
           "source_url": "https://bfi.uchicago.edu/insights/artificial-writing-and-automated-detection/",
           "source_date": "2025-10-06",
@@ -1778,11 +1778,11 @@
         },
         {
           "id": "EV-detect-06",
-          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 \u2014 registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
+          "claim": "Pangram Labs' own dated, methodology-disclosed test of 30 AI-detection tools (9 AI-generated texts from ChatGPT-4o/Gemini 2.0/Claude 3.7, 3 human-written control texts, pass thresholds of >=75% AI-score for AI text and <=25% for human text) found GPTZero correctly identified 7 of 9 AI texts (78%) and Originality.ai 7 of 9 (77%), versus the vendor's own tool (Pangram) and Copyleaks each scoring 9 of 9 — registered as a vendor's own competitive test, not adopted as a neutral ranking, since Pangram is also a detector vendor being compared favorably to its rivals.",
           "quote": "Pangram Labs: 9/9 AI texts (100%), 3/3 human texts (100%)... GPTZero: 7/9 AI texts (78%), 3/3 human texts (100%)... Originality.ai: 7/9 AI texts (77%), 3/3 human texts (100%)",
           "source_url": "https://www.pangram.com/blog/best-ai-detector-tools",
           "source_date": "2026-01-07",
-          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder \u2014 disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
+          "platform": "vendor company blog (Pangram Labs; author Max Spero, Pangram co-founder — disclosed as a competing detector vendor's own test of its rivals, methodology stated)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
@@ -1987,7 +1987,7 @@
         {
           "id": "EV-quetext-ai-detector-01",
           "claim": "Quetext's current 2026 pricing (captured 2026-07-09) gives both its plagiarism checker and its separately branded AI Content Detector the same free-tier cap of 1,000 words per scan; a detector-only paid tier starts at $7.99/month for 50,000 words/month, the bundled Essential plan (plagiarism + AI detector + other tools) starts from $19.99/month for 100,000 words/month, and Professional starts from $29.98/month for 200,000 words/month.",
-          "quote": "Free ... $0 /month ... DeepSearch\u2122 Plagiarism Checker (up to 1,000 words) AI Content Detector (up to 1,000 words) ... AI Detector Only ... $7.99 /month (Save 45%) 50k words/month ... Essential ... Starting from $19.99 /mo (Save 45%) 100k words/month",
+          "quote": "Free ... $0 /month ... DeepSearch™ Plagiarism Checker (up to 1,000 words) AI Content Detector (up to 1,000 words) ... AI Detector Only ... $7.99 /month (Save 45%) 50k words/month ... Essential ... Starting from $19.99 /mo (Save 45%) 100k words/month",
           "source_url": "https://www.quetext.com/pricing",
           "source_date": "2026-07-09 (capture date; live pricing page is undated)",
           "platform": "vendor primary source (quetext.com/pricing; self-interested)",
@@ -2011,7 +2011,7 @@
         {
           "id": "EV-quetext-ai-detector-03",
           "claim": "Quetext's own AI Detector product page (captured 2026-07-09) caps free scans at 1,000 words and self-reports \"10M+ Users,\" 14 supported languages, a scan time under 10 seconds, and a 4.8-star user rating; it names perplexity and burstiness as the analysis signals used.",
-          "quote": "Detect AI-written text from ChatGPT, GPT-5, Claude, Gemini & Llama with line-by-line accuracy. Free scans up to 1,000 words... Our AI detector analyzes writing patterns, perplexity, and burstiness to identify AI-generated content... 10M+ Users 14 Supported languages <10s Scan time 4.8\u2605 User rating",
+          "quote": "Detect AI-written text from ChatGPT, GPT-5, Claude, Gemini & Llama with line-by-line accuracy. Free scans up to 1,000 words... Our AI detector analyzes writing patterns, perplexity, and burstiness to identify AI-generated content... 10M+ Users 14 Supported languages <10s Scan time 4.8★ User rating",
           "source_url": "https://www.quetext.com/ai-detector",
           "source_date": "2026-07-09 (capture date; page is undated)",
           "platform": "vendor primary source (quetext.com/ai-detector; self-interested)",
@@ -2035,7 +2035,7 @@
         {
           "id": "EV-quetext-ai-detector-05",
           "claim": "Quetext's own blog post on AI-detector false positives cites industry-wide false-positive-rate RANGES by source type (vendor self-reports 0.2%-1%; independent third-party testing 1%-5%; TOEFL/non-native-English essays per the Stanford 2023 study 50%-76%; heavily edited human writing 5%-17%) rather than publishing any single false-positive figure for its OWN AI detector, and separately advises readers to run a flagged passage through a second detector \"before you take any flag at face value.\"",
-          "quote": "Vendor self-reports 0.2% \u2013 1% ... Independent testing 1% \u2013 5% ... TOEFL essays (Stanford 2023) 50% \u2013 76% ... Heavily edited human writing 5% \u2013 17% ... The takeaway: false positive rates aren't a single number. They're a range that depends on who's writing and what they're writing.",
+          "quote": "Vendor self-reports 0.2% – 1% ... Independent testing 1% – 5% ... TOEFL essays (Stanford 2023) 50% – 76% ... Heavily edited human writing 5% – 17% ... The takeaway: false positive rates aren't a single number. They're a range that depends on who's writing and what they're writing.",
           "source_url": "https://www.quetext.com/blog/ai-detector-false-positives",
           "source_date": "2026-06-19 (article's stated publish date; verified live 2026-07-09)",
           "platform": "vendor primary source (quetext.com blog; self-interested)",
@@ -2047,7 +2047,7 @@
         {
           "id": "EV-quetext-ai-detector-06",
           "claim": "Quetext's own blog publishes a self-authored comparison table crediting its AI Detector with \"98%+\" accuracy on raw/unedited AI text, 70-80% accuracy on edited or humanized AI text, and a \"Low\" false-positive rate -- alongside named competitor rows (GPTZero, Originality.ai, Turnitin, Copyleaks, Winston AI, Sapling AI) -- without citing a benchmark, dataset, sample size, or independent source for any figure in the table, including its own.",
-          "quote": "Accuracy Benchmarks by Tool ... Quetext AI Detector 98%+ 70\u201380% Low (contextual confidence scoring) Free \u2013 $19.98/mo",
+          "quote": "Accuracy Benchmarks by Tool ... Quetext AI Detector 98%+ 70–80% Low (contextual confidence scoring) Free – $19.98/mo",
           "source_url": "https://www.quetext.com/blog/complete-ai-detector-guide",
           "source_date": "2026-05-13 (article's stated update date; originally published 2026-04-27; verified live 2026-07-09)",
           "platform": "vendor primary source (quetext.com blog, self-authored comparison table; self-interested -- ranks itself alongside named competitors with no disclosed benchmark backing any cell in the table)",
@@ -2059,7 +2059,7 @@
         {
           "id": "EV-quetext-ai-detector-07",
           "claim": "Quetext's own blog states the mechanism-level difference with Turnitin: Turnitin checks a \"proprietary repository of previously submitted student work\" that \"no other commercial tool has access to,\" while Quetext's DeepSearch checks \"web sources, published content, and academic databases\" -- meaning a clean Quetext result does not indicate what a Turnitin check would find.",
-          "quote": "Turnitin's proprietary database of previously submitted student work is proprietary \u2013 no other commercial tool has access to it... Quetext excels when checking against publicly available sources found on the web.",
+          "quote": "Turnitin's proprietary database of previously submitted student work is proprietary – no other commercial tool has access to it... Quetext excels when checking against publicly available sources found on the web.",
           "source_url": "https://www.quetext.com/blog/quetext-vs-turnitin",
           "source_date": "2026-03-26 (article's stated publish date; verified live 2026-07-09)",
           "platform": "vendor primary source (quetext.com blog; self-interested, though largely a neutral architectural description rather than a performance comparison)",
@@ -2218,7 +2218,7 @@
           "claim": "aidetector.ac's benchmark (dated March 2026; 2,400 samples: 1,200 human-written across 5 content categories + 1,200 AI-generated from Claude 3.5/GPT-4o/Gemini 1.5 Pro/Llama 3.1) reports Sapling AI at 76% overall accuracy, 17% false-positive rate, and 24% false-negative rate -- the lowest overall accuracy and highest false-positive rate of the 6 detectors it tested (vs. 91%/7% for its top-ranked tool, Originality.ai). The same benchmark's category breakdown separately states Sapling flagged 31% of human-written technical documentation as AI, its highest false-positive category.",
           "quote": "Accuracy from testing on 2,400 samples: 1,200 human-written and 1,200 AI-generated from Claude 3.5, GPT-4o, Gemini 1.5 Pro, and Llama 3.1.",
           "source_url": "https://aidetector.ac/reviews/sapling/ ; https://aidetector.ac/accuracy/",
-          "source_date": "2026-03 (page dated 'Benchmark Data \u00b7 March 2026'; capture date 2026-07-21)",
+          "source_date": "2026-03 (page dated 'Benchmark Data · March 2026'; capture date 2026-07-21)",
           "platform": "self-described independent AI-detector benchmark site (aidetector.ac); publishes a detailed on-page methodology (corpus composition, per-category breakdown, measurement formulas) but discloses no named author, company, or institution anywhere on the site",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-21",
@@ -2469,11 +2469,11 @@
         },
         {
           "id": "EV-scribbr-12",
-          "claim": "Scribbr Premium Plagiarism Check per-check pricing bands (the bundle through which the premium AI detector is accessed): Small document up to 7,499 words $19.95; Regular document 7,500-49,999 words $29.95; Large document 50,000+ words $39.95 \u2014 per check, not a subscription.",
+          "claim": "Scribbr Premium Plagiarism Check per-check pricing bands (the bundle through which the premium AI detector is accessed): Small document up to 7,499 words $19.95; Regular document 7,500-49,999 words $29.95; Large document 50,000+ words $39.95 — per check, not a subscription.",
           "quote": "Small document Up to 7,499 words $19.95 Regular document 7,500 - 49,999 words $29.95 Large document 50,000+ words $39.95 Prices are per check, not a subscription",
           "source_url": "https://web.archive.org/web/20260603083356/https://www.scribbr.com/plagiarism-checker/",
           "source_date": "2026-06-03 (Wayback snapshot of live scribbr.com/plagiarism-checker)",
-          "platform": "vendor primary (scribbr.com pricing UI, via dated Wayback snapshot \u2014 live site blocks automated fetch)",
+          "platform": "vendor primary (scribbr.com pricing UI, via dated Wayback snapshot — live site blocks automated fetch)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": false,
@@ -2520,7 +2520,7 @@
         },
         {
           "id": "EV-best-ai-humanizer-03",
-          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
           "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
           "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
           "source_date": "2025-08-27",
@@ -2604,7 +2604,7 @@
         },
         {
           "id": "EV-turnitin-08",
-          "claim": "The Washington Post's own test of Turnitin's detector (5 students, 16 essay samples) accurately identified only 6 of 16 correctly, and flagged 8% of one student's (Lucy Goetz's) entirely original, top-graded essay as likely AI-generated \u2014 an early, widely-cited case of a documented false positive on human-written work.",
+          "claim": "The Washington Post's own test of Turnitin's detector (5 students, 16 essay samples) accurately identified only 6 of 16 correctly, and flagged 8% of one student's (Lucy Goetz's) entirely original, top-graded essay as likely AI-generated — an early, widely-cited case of a documented false positive on human-written work.",
           "quote": "failed on three, including a flag on 8 percent of Goetz's original essay",
           "source_url": "https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/",
           "source_date": "2023-04-01",
@@ -2616,7 +2616,7 @@
         },
         {
           "id": "EV-turnitin-09",
-          "claim": "The Markup reported a Johns Hopkins instructor's case where Turnitin labeled more than 90% of an international student's paper as AI-generated, part of a pattern the instructor said recurred specifically with international students' writing over a semester \u2014 Johns Hopkins later disabled Turnitin's AI-detection feature over false-positive concerns.",
+          "claim": "The Markup reported a Johns Hopkins instructor's case where Turnitin labeled more than 90% of an international student's paper as AI-generated, part of a pattern the instructor said recurred specifically with international students' writing over a semester — Johns Hopkins later disabled Turnitin's AI-detection feature over false-positive concerns.",
           "quote": "Turnitin labeled more than 90 percent of the student's paper as AI-generated.",
           "source_url": "https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating",
           "source_date": "2023-08-14",
@@ -2628,7 +2628,7 @@
         },
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -2652,7 +2652,7 @@
         },
         {
           "id": "EV-turnitin-12",
-          "claim": "Turnitin's own Chief Product Officer publicly acknowledged in June 2023 that real-world detector performance diverged from lab testing, and Turnitin responded by raising its minimum evaluable word count from 150 to 300 words, alongside disclosing a 'higher incidence of false positives' below the 20% AI-writing threshold \u2014 an independent journalism account of the same admission EV-turnitin-03 references secondhand.",
+          "claim": "Turnitin's own Chief Product Officer publicly acknowledged in June 2023 that real-world detector performance diverged from lab testing, and Turnitin responded by raising its minimum evaluable word count from 150 to 300 words, alongside disclosing a 'higher incidence of false positives' below the 20% AI-writing threshold — an independent journalism account of the same admission EV-turnitin-03 references secondhand.",
           "quote": "Chechitelli said Turnitin \"discovered real-world use is yielding different results from our lab.\"",
           "source_url": "https://www.k12dive.com/news/turnitin-false-positives-AI-detector/652221/",
           "source_date": "2023-06-07",
@@ -2676,8 +2676,8 @@
         },
         {
           "id": "EV-turnitin-14",
-          "claim": "A Palo Alto High School family filed a federal civil-rights lawsuit (May 5, 2026, N.D. Cal.) after Turnitin flagged their sophomore son's essay on The Crucible as 76% likely AI-written; the school forced an in-class rewrite that dropped his grade from an A/B to a D, and the district refused to restore the grade despite 1,162 pages of Google Docs revision-history evidence submitted by the family. This is the most recent and most severe documented consequence on record \u2014 escalating from an academic dispute to federal litigation.",
-          "quote": "Our AI writing detection model may not always be accurate \u2014 it may misidentify human-written, AI-generated, and AI-paraphrased text \u2014 so it should not be used as the sole basis for adverse actions against a student.",
+          "claim": "A Palo Alto High School family filed a federal civil-rights lawsuit (May 5, 2026, N.D. Cal.) after Turnitin flagged their sophomore son's essay on The Crucible as 76% likely AI-written; the school forced an in-class rewrite that dropped his grade from an A/B to a D, and the district refused to restore the grade despite 1,162 pages of Google Docs revision-history evidence submitted by the family. This is the most recent and most severe documented consequence on record — escalating from an academic dispute to federal litigation.",
+          "quote": "Our AI writing detection model may not always be accurate — it may misidentify human-written, AI-generated, and AI-paraphrased text — so it should not be used as the sole basis for adverse actions against a student.",
           "source_url": "https://sfstandard.com/2026/05/11/ai-detection-cheating-palo-alto/",
           "source_date": "2026-05-11",
           "platform": "SF Standard (journalism, citing Turnitin's own guidance language and the filed federal complaint)",
@@ -2716,7 +2716,7 @@
         {
           "id": "EV-duey-01",
           "claim": "VENDOR CLAIM (Duey.ai's own pricing page): the bundled Unlimited+AutoTyperPro plan (includes Sessions, Humanizer, AI Detector) lists at $9.99/month or $5/month billed annually ($60/yr); the typer-only JustAutoTyper plan lists at $5/month or $4/month billed annually ($48/yr) and excludes Sessions, Humanizer, and AI Detector.",
-          "quote": "Unlimited + Auto Typer Pro: $9.99/month, $5.00/month billed annually ($60/year). Just Auto Typer Pro: $5/month, $4/month billed annually ($48/year) \u2014 does not include Sessions, Humanizer, or AI Detector.",
+          "quote": "Unlimited + Auto Typer Pro: $9.99/month, $5.00/month billed annually ($60/year). Just Auto Typer Pro: $5/month, $4/month billed annually ($48/year) — does not include Sessions, Humanizer, or AI Detector.",
           "source_url": "https://www.duey.ai/pricing",
           "source_date": "2026-07-04 (live price capture; vendor pricing pages change without notice)",
           "platform": "vendor pricing page (duey.ai, self-reported and self-interested)",
@@ -2727,8 +2727,8 @@
         },
         {
           "id": "EV-duey-02",
-          "claim": "VENDOR CLAIM (Duey.ai's own FAQ, verbatim): the free trial is a one-time offer, not a recurring/daily allowance \u2014 up to 3,000 characters, in scheduled mode only, no payment card required. This settles the one-time-vs-daily ambiguity found in secondhand summaries.",
-          "quote": "Sessions includes one free trial \u2014 up to 3,000 characters in scheduled mode, no card needed.",
+          "claim": "VENDOR CLAIM (Duey.ai's own FAQ, verbatim): the free trial is a one-time offer, not a recurring/daily allowance — up to 3,000 characters, in scheduled mode only, no payment card required. This settles the one-time-vs-daily ambiguity found in secondhand summaries.",
+          "quote": "Sessions includes one free trial — up to 3,000 characters in scheduled mode, no card needed.",
           "source_url": "https://www.duey.ai/",
           "source_date": "2026-07-04 (live page capture)",
           "platform": "vendor homepage FAQ (duey.ai, self-reported)",
@@ -2739,7 +2739,7 @@
         },
         {
           "id": "EV-duey-03",
-          "claim": "VENDOR CLAIM (Duey.ai's own Sessions page): the cloud-persistent 'Sessions' auto-typing mode works with Google Docs only \u2014 Slides and Word Online require the separate browser-extension Auto Typer instead \u2014 and Duey markets Sessions' output as mimicking a real editing history rather than claiming keystroke-level realism.",
+          "claim": "VENDOR CLAIM (Duey.ai's own Sessions page): the cloud-persistent 'Sessions' auto-typing mode works with Google Docs only — Slides and Word Online require the separate browser-extension Auto Typer instead — and Duey markets Sessions' output as mimicking a real editing history rather than claiming keystroke-level realism.",
           "quote": "Sessions is Google Docs only right now. For Slides or Word Online, use Auto Typer.",
           "source_url": "https://www.duey.ai/sessions",
           "source_date": "2026-07-04 (live page capture)",
@@ -2752,7 +2752,7 @@
         {
           "id": "EV-duey-04",
           "claim": "VENDOR CLAIM, UNVERIFIED BY ANY THIRD PARTY (register only as an attributed, hedged vendor statement): Duey.ai's Auto Typer Pro markets its typing simulation as 'statistically indistinguishable from a real writer,' citing adaptive rhythm, realistic pauses, and self-correcting typos. No independent source in this sweep measured or verified actual keystroke-timing distributions against this claim.",
-          "quote": "Adaptive typing rhythm \u2014 Speed fluctuates naturally instead of staying constant... a typing pattern that's statistically indistinguishable from a real writer.",
+          "quote": "Adaptive typing rhythm — Speed fluctuates naturally instead of staying constant... a typing pattern that's statistically indistinguishable from a real writer.",
           "source_url": "https://www.duey.ai/duey-ai-auto-typer-for-google-docs-word-online",
           "source_date": "2026-07-04 (live page capture)",
           "platform": "vendor product page (duey.ai, self-reported, unverified marketing claim)",
@@ -2763,11 +2763,11 @@
         },
         {
           "id": "EV-duey-05",
-          "claim": "COMPETITOR CLAIM (a rival humanizer's own blog, written by that rival's CEO): a single-passage ZeroGPT test of Duey's rewriter found a residual AI signal plus two writing-quality defects \u2014 a nonsensical rewritten sentence and a grammar error ('then' used for 'than') \u2014 used here only as an attributed, dated data point, not adopted as a general verdict on Duey's output.",
+          "claim": "COMPETITOR CLAIM (a rival humanizer's own blog, written by that rival's CEO): a single-passage ZeroGPT test of Duey's rewriter found a residual AI signal plus two writing-quality defects — a nonsensical rewritten sentence and a grammar error ('then' used for 'than') — used here only as an attributed, dated data point, not adopted as a general verdict on Duey's output.",
           "quote": "A bike lay straddled a wall that could not hold up... the world was uncomplicated my life fit in small comforts, rather then big plans.",
           "source_url": "https://gpthumanizer.ai/blog/duey-ai-review",
           "source_date": "2026-04-29 (updated 2026-06-04)",
-          "platform": "competing vendor blog (gpthumanizer.ai; author Ethan Miller disclosed as CEO of GPT Humanizer AI, a rival product \u2014 conflict of interest is in the bio, not the body text)",
+          "platform": "competing vendor blog (gpthumanizer.ai; author Ethan Miller disclosed as CEO of GPT Humanizer AI, a rival product — conflict of interest is in the bio, not the body text)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
@@ -2775,7 +2775,7 @@
         },
         {
           "id": "EV-duey-07",
-          "claim": "Independent, methodology-disclosed review (diyai.io, updated most recently among the audited competitor set) describes Duey's Auto Typer mechanics \u2014 adjustable typing speed, pauses, and correction/typo simulation \u2014 as giving users more control than a basic paste tool, while explicitly declining to run its own AI-detector tests and declining to quote exact prices, directing readers to the live checkout instead.",
+          "claim": "Independent, methodology-disclosed review (diyai.io, updated most recently among the audited competitor set) describes Duey's Auto Typer mechanics — adjustable typing speed, pauses, and correction/typo simulation — as giving users more control than a basic paste tool, while explicitly declining to run its own AI-detector tests and declining to quote exact prices, directing readers to the live checkout instead.",
           "quote": "Typing speed, pauses, corrections and session behaviour give users more control than a basic paste tool... AI detectors are imperfect and should not be treated as proof of authorship... I would not make a buying decision based solely on a third-party pricing snippet.",
           "source_url": "https://diyai.io/ai-tools/productivity/reviews/duey-ai-review/",
           "source_date": "2026-06-19 (updated; originally published 2026-05-16)",
@@ -2787,7 +2787,7 @@
         },
         {
           "id": "EV-duey-08",
-          "claim": "Third-party website-trust checker ScamAdviser rates duey.ai as 'Very Likely Safe' based on automated signals (valid SSL, domain age, low-but-present traffic), directly answering the 'is duey.ai safe' search question with a dated, sourced verdict \u2014 though this is an automated trust-signal scan, not a product-quality or academic-integrity review.",
+          "claim": "Third-party website-trust checker ScamAdviser rates duey.ai as 'Very Likely Safe' based on automated signals (valid SSL, domain age, low-but-present traffic), directly answering the 'is duey.ai safe' search question with a dated, sourced verdict — though this is an automated trust-signal scan, not a product-quality or academic-integrity review.",
           "quote": "It seems that duey.ai is legit and safe to use and not a scam website.",
           "source_url": "https://www.scamadviser.com/check-website/duey.ai",
           "source_date": "2026-06 (page states 'last updated 1 month ago' as of 2026-07-04 capture)",
@@ -2799,7 +2799,7 @@
         },
         {
           "id": "EV-duey-09",
-          "claim": "A dated first-person student report that Duey AI's autotyped-and-humanized output still gets flagged as AI, specifically by GPTZero's newer auto-typer-oriented detection \u2014 corroborates the Originality.ai finding (EV-best-ai-humanizer-06) that Duey's output does not reliably clear detectors, and surfaces that detectors have begun targeting the auto-typer approach itself",
+          "claim": "A dated first-person student report that Duey AI's autotyped-and-humanized output still gets flagged as AI, specifically by GPTZero's newer auto-typer-oriented detection — corroborates the Originality.ai finding (EV-best-ai-humanizer-06) that Duey's output does not reliably clear detectors, and surfaces that detectors have begun targeting the auto-typer approach itself",
           "quote": "I've been using Duey AI for autotyping and humanizing, but it keeps getting flagged as AI, especially with GPTZero's new... autotyper detector",
           "source_url": "https://www.reddit.com/r/askanything/comments/1u00h2b/anyone_know_a_good_autotyper_and_humanizer/",
           "source_date": "2026-06-08",
@@ -2812,7 +2812,7 @@
         {
           "id": "EV-duey-10",
           "claim": "VENDOR CLAIM (Duey.ai's own dated product-update post): Duey released a 'v2.0 with anti-detection' update on March 22, 2026, adding adaptive typing-rhythm, context-aware pausing at paragraph/sentence breaks, and capped-rate typo/self-correction behavior to the Auto Typer -- the vendor's own description of what changed, with no detector test data or percentages published alongside it. Registered specifically to correct a fabricated 'v2.0 / Turnitin 44% / GPTZero 28% / 30 test runs across six detectors' figure set that surfaced repeatedly in this run's search-engine AI summaries but traces to no real source (confirmed absent from Duey's own site, from Originality.ai's test, and from the humanizemy.ai comparison these summaries claimed to be citing).",
-          "quote": "Adaptive typing rhythm \u2014 Speed fluctuates naturally instead of staying constant... Context-aware pacing \u2014 Pro pauses at paragraph breaks and sentence boundaries, the way a real person stops to think before moving on... Realistic error correction \u2014 Occasional typos with natural backspace-and-fix behavior, capped at a low rate to stay believable.",
+          "quote": "Adaptive typing rhythm — Speed fluctuates naturally instead of staying constant... Context-aware pacing — Pro pauses at paragraph breaks and sentence boundaries, the way a real person stops to think before moving on... Realistic error correction — Occasional typos with natural backspace-and-fix behavior, capped at a low rate to stay believable.",
           "source_url": "https://www.duey.ai/post/duey-ai-humanizer-auto-typer-2-0-with-anti-detection",
           "source_date": "2026-03-22",
           "platform": "vendor product-update blog post (duey.ai, self-reported; no detector test data included)",
@@ -2860,7 +2860,7 @@
         },
         {
           "id": "EV-gpthuman-01",
-          "claim": "GPTHuman's own homepage markets an unconditional bypass guarantee against named detectors, including a free-rewrite promise if the output is ever flagged as AI-generated \u2014 the marketing half of the marketing-vs-ToS contradiction this page documents.",
+          "claim": "GPTHuman's own homepage markets an unconditional bypass guarantee against named detectors, including a free-rewrite promise if the output is ever flagged as AI-generated — the marketing half of the marketing-vs-ToS contradiction this page documents.",
           "quote": "Guaranteed bypass of leading AI detection tools like GPTZero and Turnitin. If detected, we rewrite for free.",
           "source_url": "https://gpthuman.ai/",
           "source_date": "2026-07-05 (live page capture)",
@@ -2872,7 +2872,7 @@
         },
         {
           "id": "EV-gpthuman-02",
-          "claim": "GPTHuman's own homepage/FAQ schema states a specific numeric success rate for passing AI detectors \u2014 a quantified companion claim to the 'guaranteed bypass' promise, both from the same self-reported marketing surface.",
+          "claim": "GPTHuman's own homepage/FAQ schema states a specific numeric success rate for passing AI detectors — a quantified companion claim to the 'guaranteed bypass' promise, both from the same self-reported marketing surface.",
           "quote": "The only AI Humanizer that bypasses all premium AI detectors... passes leading AI detection tools with a 99.9% success rate... Guaranteed undetectable AI",
           "source_url": "https://gpthuman.ai/",
           "source_date": "2026-07-05 (live page capture)",
@@ -2884,8 +2884,8 @@
         },
         {
           "id": "EV-gpthuman-03",
-          "claim": "GPTHuman's own Terms & Conditions (updated December 1, 2024) directly contradict its homepage's guarantee language, stating in writing that specialized detectors may still classify its output as AI-generated and that human-written classification cannot be guaranteed \u2014 the ToS half of the marketing-vs-ToS contradiction.",
-          "quote": "it is possible\u2014though unlikely\u2014that certain specialized AI detection tools may still classify these outputs as 'AI generated'... we cannot guarantee that content created using GPT Human will always be regarded as 'human-written' by such third-party tools.",
+          "claim": "GPTHuman's own Terms & Conditions (updated December 1, 2024) directly contradict its homepage's guarantee language, stating in writing that specialized detectors may still classify its output as AI-generated and that human-written classification cannot be guaranteed — the ToS half of the marketing-vs-ToS contradiction.",
+          "quote": "it is possible—though unlikely—that certain specialized AI detection tools may still classify these outputs as 'AI generated'... we cannot guarantee that content created using GPT Human will always be regarded as 'human-written' by such third-party tools.",
           "source_url": "https://gpthuman.ai/terms-conditions",
           "source_date": "2024-12-01 (page's stated 'last updated' date; fetched live 2026-07-05)",
           "platform": "vendor Terms & Conditions page (gpthuman.ai/terms-conditions, primary source, Section 26)",
@@ -2896,7 +2896,7 @@
         },
         {
           "id": "EV-gpthuman-04",
-          "claim": "GPTHuman's own Terms & Conditions state all purchases are non-refundable, with cancellation only taking effect at the end of the current billing period \u2014 relevant to any 'try before you commit' framing given the guarantee language on the homepage.",
+          "claim": "GPTHuman's own Terms & Conditions state all purchases are non-refundable, with cancellation only taking effect at the end of the current billing period — relevant to any 'try before you commit' framing given the guarantee language on the homepage.",
           "quote": "All purchases are non-refundable.",
           "source_url": "https://gpthuman.ai/terms-conditions",
           "source_date": "2024-12-01 (page's stated 'last updated' date; fetched live 2026-07-05)",
@@ -2908,7 +2908,7 @@
         },
         {
           "id": "EV-gpthuman-05",
-          "claim": "VENDOR CLAIM (GPTHuman's own pricing page): four tiers as of this capture \u2014 Free ($0, 300 words one-shot trial), Starter ($15/mo or $8.25/mo billed yearly = $99/yr, 25,000 words/mo, 750 words/output), Plus ($25/mo or $14/mo yearly = $168/yr, 60,000 words/mo, 1,200 words/output), Unlimited ($49/mo or $26/mo yearly = $312/yr, unlimited words/mo subject to abuse guardrails, 2,000 words/output). No enterprise tier listed.",
+          "claim": "VENDOR CLAIM (GPTHuman's own pricing page): four tiers as of this capture — Free ($0, 300 words one-shot trial), Starter ($15/mo or $8.25/mo billed yearly = $99/yr, 25,000 words/mo, 750 words/output), Plus ($25/mo or $14/mo yearly = $168/yr, 60,000 words/mo, 1,200 words/output), Unlimited ($49/mo or $26/mo yearly = $312/yr, unlimited words/mo subject to abuse guardrails, 2,000 words/output). No enterprise tier listed.",
           "quote": "Starter: $15/month ($8.25/month billed yearly), 25,000 words/month, 750 words/output. Plus: $25/month ($14/month billed yearly), 60,000 words/month, 1,200 words/output. Unlimited: $49/month ($26/month billed yearly), unlimited words/month, 2,000 words/output.",
           "source_url": "https://gpthuman.ai/pricing",
           "source_date": "2026-07-05 (live price capture; vendor pricing pages change without notice)",
@@ -2920,7 +2920,7 @@
         },
         {
           "id": "EV-gpthuman-06",
-          "claim": "Third-party website-trust checker ScamAdviser gives gpthuman.ai a Trust Score of 0 ('Likely Unsafe'), flagging hidden WHOIS ownership and a polarized positive/negative review pattern consistent with sites that buy fake reviews \u2014 a legitimate, dated third-party signal directly answering 'is gpthuman.ai legit', separate from and not contradicting the detector-bypass claims addressed by other entries.",
+          "claim": "Third-party website-trust checker ScamAdviser gives gpthuman.ai a Trust Score of 0 ('Likely Unsafe'), flagging hidden WHOIS ownership and a polarized positive/negative review pattern consistent with sites that buy fake reviews — a legitimate, dated third-party signal directly answering 'is gpthuman.ai legit', separate from and not contradicting the detector-bypass claims addressed by other entries.",
           "quote": "The identity of the owner of the website is hidden on WHOIS... The reviews are either very positive or negative... In summary, gpthuman.ai might be a scam. The trust score of the website is low.",
           "source_url": "https://www.scamadviser.com/check-website/gpthuman.ai",
           "source_date": "2026-06 (page states 'last update 1 month ago' as of 2026-07-05 capture)",
@@ -2932,7 +2932,7 @@
         },
         {
           "id": "EV-gpthuman-07",
-          "claim": "A dated third-party review with disclosed detector-by-detector methodology found GPTHuman reduced AI-detector scores substantially on GPTZero and Grammarly's AI detector, but its effect weakened sharply against Undetectable AI's own detector (99% AI before, 62% AI after) \u2014 an independent, methodology-disclosed data point that GPTHuman's real-world bypass rate is detector-dependent, contradicting the 'bypasses all premium AI detectors' homepage claim (EV-gpthuman-02). Reviewer is vendor-affiliated (Undetectable.ai runs both a humanizer and detector product) so the favorable comparison to its own detector should be read with that self-interest in mind.",
+          "claim": "A dated third-party review with disclosed detector-by-detector methodology found GPTHuman reduced AI-detector scores substantially on GPTZero and Grammarly's AI detector, but its effect weakened sharply against Undetectable AI's own detector (99% AI before, 62% AI after) — an independent, methodology-disclosed data point that GPTHuman's real-world bypass rate is detector-dependent, contradicting the 'bypasses all premium AI detectors' homepage claim (EV-gpthuman-02). Reviewer is vendor-affiliated (Undetectable.ai runs both a humanizer and detector product) so the favorable comparison to its own detector should be read with that self-interest in mind.",
           "quote": "GPTZero: 100% AI before / 8% AI after. Grammarly AI Detector: 62% AI before / 0% AI after. Undetectable AI: 99% AI before / 62% AI after... GPTHuman can fool basic detectors...but you'll still need to edit quite a bit of the content yourself...if you need to bypass more accurate AI detectors.",
           "source_url": "https://undetectable.ai/blog/gpthuman-ai-review",
           "source_date": "2025-11-03",
@@ -2944,8 +2944,8 @@
         },
         {
           "id": "EV-gpthuman-08",
-          "claim": "An independent review site (not a detector or humanizer vendor) rated GPTHuman 3.3/5, confirming it reduces scores on consumer-grade detectors (GPTZero, ZeroGPT) while noting output quality issues on longer academic text \u2014 choppy transitions and reduced polish versus premium humanizers \u2014 a dated, disclosed-methodology data point on the quality-versus-price tradeoff.",
-          "quote": "GPTHuman AI is a serviceable budget humanizer. It's not the sharpest tool in the category, but it's cheap and does the basics... On general-purpose prose, GPTHuman AI consistently reduces detector scores on consumer detectors like GPTZero and ZeroGPT... Output can feel rougher than premium peers \u2014 choppy transitions on longer text... readability on longer academic pieces sometimes suffers.",
+          "claim": "An independent review site (not a detector or humanizer vendor) rated GPTHuman 3.3/5, confirming it reduces scores on consumer-grade detectors (GPTZero, ZeroGPT) while noting output quality issues on longer academic text — choppy transitions and reduced polish versus premium humanizers — a dated, disclosed-methodology data point on the quality-versus-price tradeoff.",
+          "quote": "GPTHuman AI is a serviceable budget humanizer. It's not the sharpest tool in the category, but it's cheap and does the basics... On general-purpose prose, GPTHuman AI consistently reduces detector scores on consumer detectors like GPTZero and ZeroGPT... Output can feel rougher than premium peers — choppy transitions on longer text... readability on longer academic pieces sometimes suffers.",
           "source_url": "https://www.tryleap.ai/blog/gpthuman-review",
           "source_date": "2026-04 (page states April 2026 published/updated)",
           "platform": "independent review blog (tryleap.ai)",
@@ -2956,7 +2956,7 @@
         },
         {
           "id": "EV-gpthuman-09",
-          "claim": "A third-party alternatives listicle documents specific complaints about GPTHuman: inconsistent Turnitin bypass, output frequently flagged 50%+ AI by Originality.ai, and grammar/quality degradation \u2014 used as an attributed complaint list, not adopted as our own measured numbers. The site is self-serving (an alternatives listicle recommending other tools), so its complaints should be read as directional signal, not neutral audit.",
+          "claim": "A third-party alternatives listicle documents specific complaints about GPTHuman: inconsistent Turnitin bypass, output frequently flagged 50%+ AI by Originality.ai, and grammar/quality degradation — used as an attributed complaint list, not adopted as our own measured numbers. The site is self-serving (an alternatives listicle recommending other tools), so its complaints should be read as directional signal, not neutral audit.",
           "quote": "Inconsistent Turnitin bypass: Fails to reliably pass the most widely used academic AI detector... Weak against Originality.ai: Output frequently flagged at 50%+ AI by the industry's strictest detector... Output quality issues: Humanized text can sound awkward, lose meaning, or introduce grammatical errors... Limited transparency: No published third-party test results to verify marketing claims.",
           "source_url": "https://aurawriteai.com/gpthuman-ai-alternatives",
           "source_date": "2026-03-12",
@@ -2968,7 +2968,7 @@
         },
         {
           "id": "EV-gpthuman-10",
-          "claim": "VENDOR CLAIM (GPTHuman's own homepage): feature set \u2014 80 supported languages; tone presets Standard/College/PhD; two rewriting modes (Balanced, Enhanced); a developer API marketed with '99.9% uptime'. The uptime figure is an infrastructure-reachability claim, deliberately distinct from GPTHuman's separate '99.9% success rate' detector-bypass claim (EV-gpthuman-02).",
+          "claim": "VENDOR CLAIM (GPTHuman's own homepage): feature set — 80 supported languages; tone presets Standard/College/PhD; two rewriting modes (Balanced, Enhanced); a developer API marketed with '99.9% uptime'. The uptime figure is an infrastructure-reachability claim, deliberately distinct from GPTHuman's separate '99.9% success rate' detector-bypass claim (EV-gpthuman-02).",
           "quote": "99.9% uptime",
           "source_url": "https://gpthuman.ai",
           "source_date": "2026-07-05",
@@ -2980,7 +2980,7 @@
         },
         {
           "id": "EV-gpthuman-11",
-          "claim": "An independent, dated freelancer-focused humanizer re-test (updated June 2026, testing 800-1,200 word SEO blog sections under GPTHuman's own College tone / Balanced-to-Enhanced mode) ranked GPTHuman.ai first among the tools tested, but its final pass/fail determination relied on GPTHuman's OWN built-in detector rather than an independent third-party detector, and the reviewer separately cautioned the output 'can still sound over-polished if you skip a final edit' \u2014 a genuinely new, more recent data point than the same author's August-2025 Substack test (EV-best-ai-humanizer-05), but a methodologically weaker one for the specific bypass-rate question since it does not cross-check against an outside detector.",
+          "claim": "An independent, dated freelancer-focused humanizer re-test (updated June 2026, testing 800-1,200 word SEO blog sections under GPTHuman's own College tone / Balanced-to-Enhanced mode) ranked GPTHuman.ai first among the tools tested, but its final pass/fail determination relied on GPTHuman's OWN built-in detector rather than an independent third-party detector, and the reviewer separately cautioned the output 'can still sound over-polished if you skip a final edit' — a genuinely new, more recent data point than the same author's August-2025 Substack test (EV-best-ai-humanizer-05), but a methodologically weaker one for the specific bypass-rate question since it does not cross-check against an outside detector.",
           "quote": "most of the sentences came up in green!... sentence rhythm became more varied... can still sound over-polished if you skip a final edit.",
           "source_url": "https://medium.com/freelancers-hub/i-tried-7-ai-humanizers-heres-the-best-tool-to-bypass-ai-detectors-628590da5ccf",
           "source_date": "2025-04-24 (originally published; page states 'Updated June 10, 2026')",
@@ -3170,7 +3170,7 @@
         },
         {
           "id": "EV-best-ai-humanizer-03",
-          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them \u2014 the update searchers must check report dates against.",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
           "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
           "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
           "source_date": "2025-08-27",
@@ -3206,7 +3206,7 @@
         },
         {
           "id": "EV-turnitin-10",
-          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% \u2014 the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
           "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
           "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
           "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
@@ -3524,10 +3524,201 @@
           "quote": "support 50+ languages ... Trusted by 23M+ users",
           "source_url": "https://undetectable.ai/",
           "source_date": "2026-07-17 (live homepage capture)",
-          "platform": "vendor homepage (undetectable.ai) \u2014 reach-facts, self-reported",
+          "platform": "vendor homepage (undetectable.ai) — reach-facts, self-reported",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-17",
           "re_verified": true,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
+      "page": "/vs/writehuman",
+      "url": "https://metegpt.com/vs/writehuman",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 14,
+      "collection_sweep": {
+        "run_date": "2026-07-28",
+        "candidates_identified": 13,
+        "screened": 13,
+        "excluded": 2,
+        "excluded_by_reason": {
+          "unverifiable-this-run": 2
+        },
+        "included_this_run": 11,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-04",
+          "claim": "An independent 16-tool humanizer test (4 detectors: Originality AI Turbo, Winston AI, ZeroGPT, Sapling) found StealthGPT and WriteHuman were the only two tools that reduced AI-detector scores while keeping output readable; several other named tools (Phrasly AI, Surfer SEO, Smodin AI) scored 100% AI probability on the same test. This test predates the Turnitin Aug-2025 and GPTZero 2026 model updates, so results should be read as stale.",
+          "quote": "StealthGPT: 5.46% average AI probability across detectors... WriteHuman: 9.09% AI probability, good readability but slightly robotic tone.",
+          "source_url": "https://medium.com/@dohakash/best-ai-humanizers-for-2025-i-tested-16-tools-and-only-2-passed-my-test-with-proof-b86a712ec1e6",
+          "source_date": "2025-03-11",
+          "platform": "Medium (independent multi-tool test with stated methodology)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-07-28"
+        },
+        {
+          "id": "EV-writehuman-01",
+          "claim": "WriteHuman's Terms of Service state the company does not guarantee that content processed through the service will bypass third-party AI-detection systems or achieve specific detection scores -- a contract-level disclaimer that sits beside a homepage demo showing 0% scores across six detectors.",
+          "quote": "We do not guarantee that any content processed through the Services will bypass third-party AI-detection systems or achieve specific detection scores.",
+          "source_url": "https://writehuman.ai/terms",
+          "source_date": "2024-04-26 (ToS last-updated date; capture date 2026-07-27)",
+          "platform": "vendor primary source (writehuman.ai/terms, Section 1 The Services) -- self-interested but a binding contract term, not marketing copy",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-02",
+          "claim": "WriteHuman's Terms of Service ban using the service to facilitate or promote academic dishonesty -- including paper-writing, homework-completion, or exam-taking assistance -- or to mislead educational institutions, while the same product's homepage demo visually shows a 0% score against Turnitin, an academic-integrity detector.",
+          "quote": "Use the Services to facilitate or promote academic dishonesty -- including paper-writing, homework-completion, or exam-taking assistance -- or any other activity that enables users to mislead educational institutions.",
+          "source_url": "https://writehuman.ai/terms",
+          "source_date": "2024-04-26 (ToS last-updated date; capture date 2026-07-27)",
+          "platform": "vendor primary source (writehuman.ai/terms, Section 4 Prohibited Activities)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-03",
+          "claim": "WriteHuman's Terms of Service state all purchases are non-refundable; cancellation is available at any time but takes effect only at the end of the current paid billing term (cancel-forward, not immediate/prorated).",
+          "quote": "All purchases are non-refundable however, you can cancel your subscription at any time by logging into your User Account (My Account Page). Your cancellation will take effect at the end of the current paid term.",
+          "source_url": "https://writehuman.ai/terms",
+          "source_date": "2024-04-26 (ToS last-updated date; capture date 2026-07-27)",
+          "platform": "vendor primary source (writehuman.ai/terms, Section 11 Purchases and Payment)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-04",
+          "claim": "WriteHuman's homepage displays a live demo showing a 0% AI-detection score against all six detector logos it presents (ZeroGPT, GPTZero, Copyleaks, Originality, Turnitin, Grammarly), under the tagline 'the world's most powerful AI Humanizer.'",
+          "quote": "Turn AI into natural writing with the world's most powerful AI Humanizer.",
+          "source_url": "https://writehuman.ai",
+          "source_date": "undated (evergreen homepage; capture date 2026-07-27, raw HTML re-fetch)",
+          "platform": "vendor primary source (writehuman.ai homepage) -- marketing visual demo, self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-05",
+          "claim": "WriteHuman's live pricing page (2026-07-27 capture) lists four tiers -- Free ($0, 250 words/request, 3 requests/month, 1 variation), Basic ($18/mo or $12/mo billed annually, 600 words, 80 requests/month, 2 variations), Pro ($27/mo or $18/mo annually, 1,200 words, 200 requests/month, 3 variations, marked 'Most Popular'), Ultra ($48/mo or $36/mo annually, 3,000 words, unlimited requests, 5 variations) -- and labels Free-tier output quality 'Basic' while labeling all three paid tiers (Basic, Pro, Ultra) 'Enhanced,' with Basic's own feature list explicitly including 'Access to enhanced model.'",
+          "quote": "Humanization quality: Basic [Free tier] / Enhanced [Basic, Pro, and Ultra tiers]. Basic tier feature list includes: 'Access to enhanced model.'",
+          "source_url": "https://writehuman.ai/pricing",
+          "source_date": "undated (evergreen pricing page; capture date 2026-07-27, raw HTML re-fetch)",
+          "platform": "vendor primary source (writehuman.ai/pricing) -- self-interested; prices/limits stated as fact, quality-tier labels are the vendor's own naming",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-06",
+          "claim": "HumanizerBench (humanizerbench.com), the leaderboard WriteHuman cites for its '#1 / 81.6% pass rate / 73.07 composite score' claim, discloses in its own site footer that it is operated by WriteHuman -- meaning the ranking is self-graded, not an independent third-party benchmark, even though it publishes a stated scoring methodology.",
+          "quote": "© 2026 HumanizerBench. Operated by WriteHuman. / The overall score blends AI detector bypass rate (42%), meaning preservation (32%), readability (16%), and category consistency (10%).",
+          "source_url": "https://humanizerbench.com",
+          "source_date": "undated (evergreen leaderboard site; capture date 2026-07-27)",
+          "platform": "vendor-operated leaderboard (humanizerbench.com, self-disclosed in its own footer as WriteHuman-operated)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-07",
+          "claim": "WriteHuman's own /compare page cites its HumanizerBench leaderboard standing against named competitors (e.g. an 81.6% vs 42.3% pass-rate comparison, a 73.07 vs 59.66 composite-score comparison) using language like 'the July 2026 HumanizerBench cycle,' without disclosing on that specific page that WriteHuman itself operates HumanizerBench.",
+          "quote": "Posted a 42.3% AI-detector pass rate in the July 2026 benchmark, worse than a coin flip per run, versus WriteHuman's 81.6%.",
+          "source_url": "https://writehuman.ai/compare",
+          "source_date": "undated (evergreen comparison page; capture date 2026-07-27)",
+          "platform": "vendor primary source (writehuman.ai/compare) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-08",
+          "claim": "WriteHuman self-reports, on its own About page, a scale of '5M+ Happy Users,' '50M+ Rephrases,' and reach across '235+ Countries' -- unverified, self-reported figures with no third-party audit, date range, or counting methodology disclosed.",
+          "quote": "5M+ Happy Users ... 50M+ Rephrases ... 235+ Countries",
+          "source_url": "https://writehuman.ai/about",
+          "source_date": "undated (evergreen about page; capture date 2026-07-27)",
+          "platform": "vendor primary source (writehuman.ai/about) -- self-reported, self-interested, unaudited",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-09",
+          "claim": "An independent 53-run test across five detectors (GPTZero, Writer.com, Copyleaks, ZeroGPT, Originality.ai) and four content types (blog posts, academic essays, marketing copy, technical documentation), using both WriteHuman's free and paid modes, found WriteHuman passed Originality.ai in only 19% of runs overall (0% pass rate specifically on blog posts over 600 words), and scored under 50% success against Turnitin on academic essays, with the tool introducing grammatical errors into roughly one in three paragraphs.",
+          "quote": "only 19% of runs overall [passed Originality.ai] ... under 50% [success rate against Turnitin for academic essays] ... grammatical errors into roughly one out of every three paragraphs",
+          "source_url": "https://webseotrends.com/blog/writehuman-ai-review",
+          "source_date": "updated 2026-04-04",
+          "platform": "third-party published test with disclosed methodology (webseotrends.com) -- 53 runs, 5 detectors, 4 content types, both free and paid WriteHuman tiers, source text generated via ChatGPT-4o default settings at a 90%+ AI-probability baseline",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-10",
+          "claim": "Originality.ai's own test (a single ChatGPT-generated article, three named detectors) found WriteHuman's humanized output was still flagged '100% Confidence' AI-generated by Originality.ai itself (unchanged from the pre-humanized version), while GPTZero's probability score dropped from 73% to 49% and Writer's human-confidence score rose from 81% to 97% on the same output; the reviewer also noted the humanized text contained grammatical errors and spelling mistakes.",
+          "quote": "the output of the tool generated several grammatical errors and spelling mistakes",
+          "source_url": "https://originality.ai/blog/writehuman-ai-review",
+          "source_date": "2025-11-18",
+          "platform": "competitor-published test (originality.ai sells a competing AI-detection product) -- self-interested, but discloses its own methodology (single article, three named detectors, before/after scores) rather than an unsourced marketing number",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-11",
+          "claim": "AIDetectPlus, a competing AI-humanizer/detector vendor, reviewed WriteHuman and reported its output 'ends up flagged as soon as it hits TurnItIn,' describing this as failing 'big time' against Turnitin specifically, with overall results characterized as 'hit or miss' depending on content length.",
+          "quote": "Your content ends up flagged as soon as it hits TurnItIn. How's that supposed to be helpful?",
+          "source_url": "https://aidetectplus.com/blog/writehuman-review",
+          "source_date": "2025-11-15",
+          "platform": "competitor-published review (aidetectplus.com sells its own competing AI detector/humanizer product) -- self-interested; a narrative review, not a numbered controlled multi-run test",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-12",
+          "claim": "Walter Writes AI, a competing AI-humanizer vendor, reviewed WriteHuman and found it performed well on short, simple content (blog posts, casual writing) but its output quality and detector-bypass consistency degraded on longer or technical content, with results described as 'inconsistent' specifically against Turnitin and Originality.ai, versus 'some success' against lighter checkers like GPTZero.",
+          "quote": "when it came to longer or more technical pieces, the tool struggled. Some sentences became convoluted, and the overall coherence suffered.",
+          "source_url": "https://walterwrites.ai/writehuman-review/",
+          "source_date": "published 2024-12-20, updated 2026-05-21",
+          "platform": "competitor-published review (walterwrites.ai operates its own competing AI humanizer, Walter Writes AI) -- self-interested; narrative test without a disclosed controlled sample size",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-writehuman-13",
+          "claim": "WriteHybrid, a competing AI-humanizer vendor, explicitly declined to publish a specific WriteHuman detection pass-rate figure, stating detection outcomes vary too much by input text to defend a number without a controlled, reproducible benchmark; the same review argues WriteHuman performs comparatively weaker against Originality.ai and Turnitin than against general detectors like GPTZero, and that the meaningfully better output quality sits on WriteHuman's Pro tier rather than its cheaper Basic tier.",
+          "quote": "detection outcomes vary enormously with the exact text ... I didn't run a controlled, reproducible benchmark for this review, so I won't publish pass-rate figures I can't defend.",
+          "source_url": "https://www.writehybrid.com/humanizers/writehuman",
+          "source_date": "updated 2026-06-27",
+          "platform": "competitor-published review (writehybrid.com operates its own competing AI humanizer, WriteHybrid) -- self-interested, but the methodology-transparency stance (declining to publish an undefendable number) is a notable contrast to WriteHuman's own six-detector 0% homepage demo",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-28",
+          "re_verified": false,
           "re_verified_date": null
         }
       ]
@@ -3561,7 +3752,7 @@
         {
           "id": "EV-winston-ai-detector-01",
           "claim": "Winston AI's own homepage markets a 99.98% accuracy figure with no disclosed test-set size, human-to-AI sample ratio, or operating threshold -- only a one-line dataset claim.",
-          "quote": "\u201c99.98% accuracy rate\u201d ... \u201cThe most trusted AI detector\u201d ... \u201cTrained on the largest dataset of human reviewed data to minimise false positives.\u201d",
+          "quote": "“99.98% accuracy rate” ... “The most trusted AI detector” ... “Trained on the largest dataset of human reviewed data to minimise false positives.”",
           "source_url": "https://gowinston.ai/",
           "source_date": "undated (evergreen marketing homepage)",
           "platform": "Vendor primary source (gowinston.ai homepage) -- self-interested, Winston's own marketing claim",
@@ -3573,7 +3764,7 @@
         {
           "id": "EV-winston-ai-detector-02",
           "claim": "Winston AI's own help-center page names three factors it says reduce real-world accuracy below its claimed rate (short text, non-prose document types, human/AI-humanizer editing) and explicitly warns against treating a score as a guilty verdict.",
-          "quote": "\u201c99.98% accuracy rate based on benchmark testing across models like ChatGPT, Claude, Gemini, Grok, and LLaMA\u201d ... \u201cno detector should be treated as an automatic guilty verdict.\u201d",
+          "quote": "“99.98% accuracy rate based on benchmark testing across models like ChatGPT, Claude, Gemini, Grok, and LLaMA” ... “no detector should be treated as an automatic guilty verdict.”",
           "source_url": "https://help.gowinston.ai/understanding-ai-detection/are-ai-detection-tools-accurate",
           "source_date": "undated (help-center article)",
           "platform": "Vendor primary source (Winston AI Help Center) -- self-interested",
@@ -3585,7 +3776,7 @@
         {
           "id": "EV-winston-ai-detector-03",
           "claim": "Winston AI's own scoring-explainer page states that its published percentage is a confidence level in authorship, not a measurement of what share of a text is AI-written -- a distinction its marketing rarely surfaces.",
-          "quote": "\u201ca score of 80% human and 20% AI doesn't mean that only 20% of the content was generated by AI; rather, it means that Winston has a 80% confidence level that the content was created by a human.\u201d",
+          "quote": "“a score of 80% human and 20% AI doesn't mean that only 20% of the content was generated by AI; rather, it means that Winston has a 80% confidence level that the content was created by a human.”",
           "source_url": "https://gowinston.ai/interpreting-our-ai-detection-scores/",
           "source_date": "undated (product help article)",
           "platform": "Vendor primary source (gowinston.ai) -- self-interested",
@@ -3597,7 +3788,7 @@
         {
           "id": "EV-winston-ai-detector-04",
           "claim": "Winston AI's Terms & Conditions (Limitations of Liability, Section 23) explicitly disclaim any guarantee of accuracy and state a score of 90 can still be wrong roughly 1 in 10 times -- directly in tension with the 99.98% marketing claim.",
-          "quote": "\u201cThe accuracy of the returned result is not guaranteed.\u201d ... \u201cA score of 90, for instance, indicates that our detection tool may mistakenly label content as AI-generated approximately 1 time out of every 10.\u201d",
+          "quote": "“The accuracy of the returned result is not guaranteed.” ... “A score of 90, for instance, indicates that our detection tool may mistakenly label content as AI-generated approximately 1 time out of every 10.”",
           "source_url": "https://gowinston.ai/terms-conditions/",
           "source_date": "undated (legal terms, current as fetched)",
           "platform": "Vendor primary source (gowinston.ai/terms-conditions) -- self-interested by definition (Winston's own legal contract)",
@@ -3621,7 +3812,7 @@
         {
           "id": "EV-winston-ai-detector-06",
           "claim": "Winston AI sells its own content-authenticity certification product, HUMN-1, which audits only a small random monthly sample of a site's pages (10 or 30, tier-dependent) rather than every published page.",
-          "quote": "\u201cThe first human content certification for websites and blogs\u201d ... \u201cAudit of 10 random posts on your website every month\u201d (HUMN-1 tier) ... \u201cAudit of 30 random posts on your website every month\u201d (HUMN-1+ tier).",
+          "quote": "“The first human content certification for websites and blogs” ... “Audit of 10 random posts on your website every month” (HUMN-1 tier) ... “Audit of 30 random posts on your website every month” (HUMN-1+ tier).",
           "source_url": "https://gowinston.ai/humn1-website-certification/",
           "source_date": "undated (live product page, current as fetched)",
           "platform": "Vendor primary source (gowinston.ai) -- self-interested",
@@ -3633,7 +3824,7 @@
         {
           "id": "EV-winston-ai-detector-07",
           "claim": "Winston AI, an AI-content detector vendor, publishes its own blog content reviewing AI humanizers and states plainly that most humanizers will not beat premium detectors including its own -- a detector company marketing against the tools built to beat it.",
-          "quote": "\u201cmost AI Humanizers will not bypass premium AI detectors, so it is really important to do your due diligence before buying a subscription.\u201d ... Humanize AI Pro \u201cDoesn't bypass premium AI detectors like Winston AI and Turnitin.\u201d",
+          "quote": "“most AI Humanizers will not bypass premium AI detectors, so it is really important to do your due diligence before buying a subscription.” ... Humanize AI Pro “Doesn't bypass premium AI detectors like Winston AI and Turnitin.”",
           "source_url": "https://gowinston.ai/best-ai-humanizer-tool/",
           "source_date": "undated (blog article, current as fetched)",
           "platform": "Vendor primary source (gowinston.ai) -- self-interested (a detector vendor rating competitor humanizer products, direct commercial interest in the verdict)",
@@ -3645,7 +3836,7 @@
         {
           "id": "EV-winston-ai-detector-08",
           "claim": "Winston AI's own 2023 blog post on false positives explains detection is probabilistic and cautions educators against treating a score as proof of wrongdoing, but does not acknowledge the elevated false-positive risk for non-native English writers documented in the wider academic literature (EV-winston-ai-detector-15).",
-          "quote": "\u201cthe assessments are based on probabilities\u201d ... \u201cEducators using AI detectors must use caution when taking an assessment as absolute evidence of any wrongdoing.\u201d",
+          "quote": "“the assessments are based on probabilities” ... “Educators using AI detectors must use caution when taking an assessment as absolute evidence of any wrongdoing.”",
           "source_url": "https://gowinston.ai/ai-detectors-addressing-the-challenge-of-false-positives/",
           "source_date": "2023-05-24 (updated 2023-12-12)",
           "platform": "Vendor primary source (gowinston.ai) -- self-interested",
@@ -3657,7 +3848,7 @@
         {
           "id": "EV-winston-ai-detector-09",
           "claim": "A peer-reviewed-venue study (Frontiers in Education, University of Wisconsin-Madison Dept. of Bacteriology) measured Winston AI directly and found an F1 of 0.83 on human-vs-AI classification but a 45.8% false-positive rate on genuinely human text, concluding it is 'unusable to monitor students' as a standalone tool.",
-          "quote": "Human vs. AI: \u201cAccuracy: 0.80, Precision: 0.74, Recall: 0.93, F1: 0.83.\u201d Winston \u201cfailed badly when examining human text, flagging nearly half as false positives\u201d (45.8% false-positive rate), making it \u201cunusable to monitor students\u201d standalone.",
+          "quote": "Human vs. AI: “Accuracy: 0.80, Precision: 0.74, Recall: 0.93, F1: 0.83.” Winston “failed badly when examining human text, flagging nearly half as false positives” (45.8% false-positive rate), making it “unusable to monitor students” standalone.",
           "source_url": "https://www.frontiersin.org/articles/10.3389/feduc.2024.1374889/full",
           "source_date": "2024-06-07",
           "platform": "Academic (Frontiers in Education journal article, authors Timothy Paustian and Betty Slinger, UW-Madison)",
@@ -3669,7 +3860,7 @@
         {
           "id": "EV-winston-ai-detector-10",
           "claim": "A competitor (GPTZero) review reports that when it ran a 22,000-word human-written novel with two AI-generated paragraphs inserted on the opening page through Winston AI, Winston returned a 100% human-written verdict for the whole document, missing the inserted AI content entirely.",
-          "quote": "\u201cit still categorized the entire text (which included the new, AI-generated paragraphs on the opening page) as 100% human-written.\u201d",
+          "quote": "“it still categorized the entire text (which included the new, AI-generated paragraphs on the opening page) as 100% human-written.”",
           "source_url": "https://gptzero.me/news/winston-ai-review/",
           "source_date": "2025-01-28",
           "platform": "Competitor-authored review (GPTZero, a rival detector vendor) -- self-interested",
@@ -3681,7 +3872,7 @@
         {
           "id": "EV-winston-ai-detector-11",
           "claim": "A competitor (Originality.ai) ran three 100%-ChatGPT-5-generated samples through Winston AI and reports Winston correctly flagged only one of the three as fully AI (100% AI), while scoring the other two at 87% AI and just 3% AI respectively.",
-          "quote": "Blog post: \u201c100% AI & 0% Human-written.\u201d Promotional email: \u201c87% AI & 13% Human-written.\u201d E-Book extract: \u201c3% AI & 97% Human-written.\u201d All three samples were ChatGPT-5-generated; Winston's own detector called only one \u201c100% Likely AI.\u201d",
+          "quote": "Blog post: “100% AI & 0% Human-written.” Promotional email: “87% AI & 13% Human-written.” E-Book extract: “3% AI & 97% Human-written.” All three samples were ChatGPT-5-generated; Winston's own detector called only one “100% Likely AI.”",
           "source_url": "https://originality.ai/blog/winston-ai-content-detector-review",
           "source_date": "2025-10-23",
           "platform": "Competitor-authored review (Originality.ai, a rival detector vendor) -- self-interested",
@@ -3693,7 +3884,7 @@
         {
           "id": "EV-winston-ai-detector-12",
           "claim": "An independent test with disclosed methodology (own dataset of ChatGPT-written, human-written, and human-edited-ChatGPT articles, no humanizers/paraphrasers used) measured Winston AI at 83.33% accuracy and an F1 of 85.71%, with false positives concentrated in complex/technical-topic articles.",
-          "quote": "\u201cAccuracy: 83.33%, Precision: 75%, Recall: 100% (no false negatives), F1-Score: 85.71%.\u201d \u201cNo AI humanisers or paraphrasers were used and the edited articles weren't put through an AI detector.\u201d False positives \u201cmostly identified in articles that had a slightly more complex and technical topic.\u201d",
+          "quote": "“Accuracy: 83.33%, Precision: 75%, Recall: 100% (no false negatives), F1-Score: 85.71%.” “No AI humanisers or paraphrasers were used and the edited articles weren't put through an AI detector.” False positives “mostly identified in articles that had a slightly more complex and technical topic.”",
           "source_url": "https://captainwords.com/ai-detection-tools-deep-dive-into-winston-ai/",
           "source_date": "2024-02-14 (updated 2024-07-29)",
           "platform": "Independent blog test (captainwords.com) -- disclosed methodology but exact sample size/word counts not stated",
@@ -3705,7 +3896,7 @@
         {
           "id": "EV-winston-ai-detector-13",
           "claim": "DetectArena, a crowdsourced blind-pairwise-comparison benchmark platform, lists Winston AI with a 0.5% false-positive rate and an Elo rating of 1551 as of this run, alongside Winston's own 99.98% claimed-accuracy figure for comparison.",
-          "quote": "\u201cClaimed Accuracy: 99.98%\u201d ... \u201cElo Rating: 1551\u201d ... \u201cFalse Positive Rate: 0.5%.\u201d \u201cDetectArena ranks AI detectors using blind pairwise voting. Users compare two tools on the same text without knowing which is which, then vote on which performed better.\u201d",
+          "quote": "“Claimed Accuracy: 99.98%” ... “Elo Rating: 1551” ... “False Positive Rate: 0.5%.” “DetectArena ranks AI detectors using blind pairwise voting. Users compare two tools on the same text without knowing which is which, then vote on which performed better.”",
           "source_url": "https://detectarena.ai/tools/winston-ai",
           "source_date": "undated (live leaderboard page, current as fetched)",
           "platform": "Independent third-party benchmark platform (detectarena.ai) -- crowdsourced, disclosed blind-voting methodology, but per-tool vote count/sample size is not shown on this page",
@@ -3717,7 +3908,7 @@
         {
           "id": "EV-winston-ai-detector-14",
           "claim": "SupWriter, a competing AI-writing/detection-bypass vendor, ran a disclosed 150-sample test (six AI models, five content categories) and reports that of 40 verified human-written samples, Winston AI flagged 4 as AI-generated -- a 10% false-positive rate on that defined sample.",
-          "quote": "\u201cWe tested Winston AI with 150 samples across six AI models and five content categories.\u201d \u201cOut of 40 verified human-written samples: 4 flagged as AI-generated (10% false positive rate).\u201d",
+          "quote": "“We tested Winston AI with 150 samples across six AI models and five content categories.” “Out of 40 verified human-written samples: 4 flagged as AI-generated (10% false positive rate).”",
           "source_url": "https://supwriter.com/blog/winston-ai-detector-review",
           "source_date": "2026-04-02",
           "platform": "Competitor-authored test (SupWriter, which sells its own AI humanizer and a dedicated 'bypass-winston-ai' product) -- self-interested",
@@ -3729,7 +3920,7 @@
         {
           "id": "EV-winston-ai-detector-15",
           "claim": "The landmark Stanford-led detector-bias study (Liang et al. 2023, Patterns/Cell Press) found AI detectors as a class flagged 61.3% of authentic non-native-English (TOEFL) essays as AI-generated versus near-zero for native-English essays -- general detector-class evidence, since the seven commercial detectors tested were not individually named (Winston AI's inclusion is unconfirmed).",
-          "quote": "\u201cWhile the detectors accurately classified the US student essays, they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%).\u201d",
+          "quote": "“While the detectors accurately classified the US student essays, they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%).”",
           "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
           "source_date": "2023-07-10",
           "platform": "Academic (Patterns / Cell Press, Liang, Yuksekgonul, Mao, Wu, Zou, Stanford)",
