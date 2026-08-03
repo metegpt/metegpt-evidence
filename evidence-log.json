@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-07-27",
+    "generated": "2026-08-03",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 229,
-    "page_appearances": 285,
-    "page_count": 25,
+    "unique_sources": 234,
+    "page_appearances": 294,
+    "page_count": 26,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -69,7 +69,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-turnitin-01",
@@ -294,7 +294,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-turnitin-02",
@@ -477,7 +477,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -618,7 +618,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -707,6 +707,135 @@
       ]
     },
     {
+      "page": "/bypass-gptzero",
+      "url": "https://metegpt.com/bypass-gptzero",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 9,
+      "collection_sweep": {
+        "run_date": "2026-08-03",
+        "candidates_identified": 11,
+        "screened": 11,
+        "excluded": null,
+        "excluded_by_reason": null,
+        "included_this_run": 5,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-03"
+        },
+        {
+          "id": "EV-gpthuman-01",
+          "claim": "GPTHuman's own homepage markets an unconditional bypass guarantee against named detectors, including a free-rewrite promise if the output is ever flagged as AI-generated — the marketing half of the marketing-vs-ToS contradiction this page documents.",
+          "quote": "Guaranteed bypass of leading AI detection tools like GPTZero and Turnitin. If detected, we rewrite for free.",
+          "source_url": "https://gpthuman.ai/",
+          "source_date": "2026-07-05 (live page capture)",
+          "platform": "vendor homepage (gpthuman.ai, self-reported)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-08-03"
+        },
+        {
+          "id": "EV-gpthuman-02",
+          "claim": "GPTHuman's own homepage/FAQ schema states a specific numeric success rate for passing AI detectors — a quantified companion claim to the 'guaranteed bypass' promise, both from the same self-reported marketing surface.",
+          "quote": "The only AI Humanizer that bypasses all premium AI detectors... passes leading AI detection tools with a 99.9% success rate... Guaranteed undetectable AI",
+          "source_url": "https://gpthuman.ai/",
+          "source_date": "2026-07-05 (live page capture)",
+          "platform": "vendor homepage (gpthuman.ai, self-reported)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-05",
+          "re_verified": true,
+          "re_verified_date": "2026-08-03"
+        },
+        {
+          "id": "EV-gptzero-ai-detector-01",
+          "claim": "GPTZero's own benchmarking blog post (Feb 2026, authored by co-founder/ML lead Alex Adam and co-founder Alex Cui) self-reports near-perfect accuracy for its current model (4.3b) across essays, academic papers, creative writing and product-review domains, plus a lower 91.80% recall on a 'bypasser' (adversarial/paraphrased) category -- using a test set GPTZero itself selected, generated, and scored, with no disclosed external or peer audit.",
+          "quote": "GPTZero (4.3b): 0.08% false positive rate, 99.60% recall, 99.76% accuracy overall; Essays domain: 0.00% FPR / 100.00% recall; Bypasser (adversarial/paraphrased) domain: 0.21% FPR / 91.80% recall.",
+          "source_url": "https://gptzero.me/news/gptzero-ai-detection-benchmarking-the-industry-standard-in-accuracy-transparency-and-fairness/",
+          "source_date": "2026-02-05",
+          "platform": "Vendor primary source (gptzero.me/news) -- self-interested, GPTZero's own self-conducted benchmark",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": true,
+          "re_verified_date": "2026-08-03"
+        },
+        {
+          "id": "EV-bypass-gptzero-01",
+          "claim": "GPTZero's own site states the company maintains an updated 'greylist' of bypass methods and patches identified bypasses within days -- the detector vendor's own admission that any bypass method's effectiveness is a dated, moving target, not a durable state.",
+          "quote": "GPTZero maintains an updated 'greylist' of by-passer methods, and patched the by-pass within days.",
+          "source_url": "https://gptzero.me/news/gptzero-by-passers/",
+          "source_date": "2023-03-01",
+          "platform": "Vendor primary source (gptzero.me/news, authored by GPTZero co-founder Edward Tian) -- self-interested, but the only primary-source admission of an active bypass arms race found anywhere in this page's SERP census",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-03",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-gptzero-02",
+          "claim": "An OpenAI Developer Community forum thread collecting GPTZero bypass-strategy suggestions (style-prompting, fine-tuning, typos, homoglyphs, named commercial tools) drew a direct rebuttal from another forum member dismissing the suggested methods as unreliable -- documented pushback inside the same thread, not manufactured consensus.",
+          "quote": "Stop spamming this tool bro, none of these work well enough.",
+          "source_url": "https://community.openai.com/t/what-are-some-strategies-to-bypass-gptzero-or-other-ai-detection-tools/656608",
+          "source_date": "original post 2024-02-27; rebuttal reply 2024-04-11",
+          "platform": "OpenAI Developer Community forum (community.openai.com) -- 8 replies as of this run's live re-fetch",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-03",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-gptzero-03",
+          "claim": "A SERP-ranking GPTZero-bypass guide markets a '97% success' rate in its page title and meta description, but the live rendered body content contains zero specific percentage or success-rate figures anywhere -- a title/meta promise the article itself never substantiates.",
+          "quote": "meta description: 'How to beat GPTZero with proven bypass methods achieving 97% success. Complete 2026 guide to beat GPTZero AI detection on essays and content.' Live body text (H1/rendered heading): 'How to Improve Writing Quality When GPTZero Flags Your Draft' -- contains no percentage anywhere.",
+          "source_url": "https://rewritelyapp.com/blog/how-to-beat-gptzero-bypass-methods-2026",
+          "source_date": "2026-02-14 (page's stated publish date; live capture 2026-08-03)",
+          "platform": "Vendor blog (rewritelyapp.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-03",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-gptzero-04",
+          "claim": "A competing AI-bypass vendor's own blog post ranks its own tool #1 in a comparison table at a self-reported 99.5% GPTZero bypass rate (part of a stated 99%+ average across detectors), based on an unpublished 50-sample dataset, with no author byline or credentials disclosed anywhere on the page.",
+          "quote": "SupWriter posted a 99.5% GPTZero bypass rate in our head-to-head testing, part of a 99%+ average across the major detectors.",
+          "source_url": "https://supwriter.com/blog/how-to-bypass-gptzero",
+          "source_date": "capture 2026-08-03 (page pub/mod 2026-07-26 per this page's competitor audit)",
+          "platform": "Vendor blog (supwriter.com, a competing AI-bypass/humanizer product) -- self-interested, undisclosed conflict of interest in an ostensibly comparative ranking table",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-03",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-bypass-gptzero-05",
+          "claim": "A SERP-ranking GPTZero-bypass tool page markets '99%+ Human Scores', a companion '99.9%+' figure, '1M+ satisfied users', and a '4.3/5' rating -- none of the four numbers are linked, sourced, or dated anywhere on the page, which itself carries no visible publish or last-updated date.",
+          "quote": "The #1 GPTZero Bypass Tool. Free, Fast, and Built to Get You 99%+ Human Scores / 1M+ satisfied users / Rated 4.3/5",
+          "source_url": "https://humanizeaitext.ai/bypass-gptzero",
+          "source_date": "capture 2026-08-03 (page carries no publish/update date anywhere -- itself part of the finding)",
+          "platform": "Vendor landing page (humanizeaitext.ai) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-03",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/copyleaks-ai-detector",
       "url": "https://metegpt.com/copyleaks-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -740,7 +869,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -959,7 +1088,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-detect-01",
@@ -1265,7 +1394,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1276,8 +1405,8 @@
           "platform": "Vendor primary source (gptzero.me/news) -- self-interested, GPTZero's own self-conducted benchmark",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-12",
-          "re_verified": false,
-          "re_verified_date": null
+          "re_verified": true,
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-gptzero-ai-detector-02",
@@ -1432,7 +1561,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1544,7 +1673,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-detect-03",
@@ -1726,7 +1855,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-turnitin-01",
@@ -1982,7 +2111,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -2163,7 +2292,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -2333,7 +2462,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-scribbr-01",
@@ -2516,7 +2645,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2856,7 +2985,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-gpthuman-01",
@@ -2868,7 +2997,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-gpthuman-02",
@@ -2880,7 +3009,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-gpthuman-03",
@@ -3166,7 +3295,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3965,7 +4094,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-03"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
