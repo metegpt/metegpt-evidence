@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-08-04",
+    "generated": "2026-08-05",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 239,
-    "page_appearances": 301,
-    "page_count": 27,
+    "unique_sources": 247,
+    "page_appearances": 320,
+    "page_count": 28,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,7 +36,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         }
       ]
     },
@@ -69,7 +69,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-01",
@@ -81,7 +81,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-10",
@@ -93,7 +93,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-detector-05",
@@ -294,7 +294,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-10",
@@ -306,7 +306,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-ai-paragraph-rewriter-01",
@@ -399,7 +399,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-02",
@@ -423,7 +423,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-detector-01",
@@ -582,7 +582,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -606,7 +606,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-04",
@@ -723,7 +723,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -735,7 +735,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-10",
@@ -747,7 +747,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-bypass-ai-detector-01",
@@ -840,7 +840,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-gpthuman-01",
@@ -876,7 +876,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-12",
           "re_verified": true,
-          "re_verified_date": "2026-08-03"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-bypass-gptzero-01",
@@ -941,6 +941,195 @@
       ]
     },
     {
+      "page": "/bypass-turnitin",
+      "url": "https://metegpt.com/bypass-turnitin",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 14,
+      "collection_sweep": {
+        "run_date": "2026-08-05",
+        "candidates_identified": 15,
+        "screened": 15,
+        "excluded": null,
+        "excluded_by_reason": null,
+        "included_this_run": 8,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-05"
+        },
+        {
+          "id": "EV-best-ai-humanizer-03",
+          "claim": "Turnitin's Chief Product Officer stated the company specifically researched leading humanizer tools' output patterns and trained its August 2025 'AI Bypasser Detection' model to identify them — the update searchers must check report dates against.",
+          "quote": "Researched and identified the signals and patterns of leading humanizers and have trained our model to identify them.",
+          "source_url": "https://www.plagiarismtoday.com/2025/08/27/turnitin-launches-anti-ai-humanizer-feature/",
+          "source_date": "2025-08-27",
+          "platform": "industry news site quoting Turnitin CPO Annie Chechitelli",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-05"
+        },
+        {
+          "id": "EV-turnitin-01",
+          "claim": "Vanderbilt University disabled Turnitin's AI detector in August 2023, citing Turnitin's own claimed 1% false-positive rate against its 2022 submission volume (roughly 75,000 papers) as grounds that hundreds of student papers could be wrongly flagged, plus non-native-speaker bias and lack of transparency into how the tool works.",
+          "quote": "we do not believe that AI detection software is an effective tool that should be used",
+          "source_url": "https://www.vanderbilt.edu/brightspace/2023/08/16/guidance-on-ai-detection-and-why-were-disabling-turnitins-ai-detector/",
+          "source_date": "2023-08-16",
+          "platform": "university teaching-center announcement (Vanderbilt Brightspace/CIRTL, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-05"
+        },
+        {
+          "id": "EV-turnitin-07",
+          "claim": "VENDOR CLAIM (Turnitin's own stated accuracy figure, not independently adopted as fact): Turnitin states its document-level false-positive rate is under 1% for documents with 20% or more AI writing, while separately disclosing a roughly 4% false-positive rate at the sentence level.",
+          "quote": "Our efforts have primarily been on ensuring a high accuracy rate accompanied by a less than 1% false positive rate, to ensure that students are not falsely accused of any misconduct.",
+          "source_url": "https://www.turnitin.com/blog/understanding-false-positives-within-our-ai-writing-detection-capabilities",
+          "source_date": "2023-03-16",
+          "platform": "Turnitin company blog (vendor's own on-record statement; page returns HTTP 403 to automated fetch tools without a browser user-agent, verified this run via direct curl fetch with a standard browser user-agent, which returned HTTP 200 and the datePublished meta tag 2023-03-16)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-05"
+        },
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-05"
+        },
+        {
+          "id": "EV-gptzero-ai-detector-01",
+          "claim": "GPTZero's own benchmarking blog post (Feb 2026, authored by co-founder/ML lead Alex Adam and co-founder Alex Cui) self-reports near-perfect accuracy for its current model (4.3b) across essays, academic papers, creative writing and product-review domains, plus a lower 91.80% recall on a 'bypasser' (adversarial/paraphrased) category -- using a test set GPTZero itself selected, generated, and scored, with no disclosed external or peer audit.",
+          "quote": "GPTZero (4.3b): 0.08% false positive rate, 99.60% recall, 99.76% accuracy overall; Essays domain: 0.00% FPR / 100.00% recall; Bypasser (adversarial/paraphrased) domain: 0.21% FPR / 91.80% recall.",
+          "source_url": "https://gptzero.me/news/gptzero-ai-detection-benchmarking-the-industry-standard-in-accuracy-transparency-and-fairness/",
+          "source_date": "2026-02-05",
+          "platform": "Vendor primary source (gptzero.me/news) -- self-interested, GPTZero's own self-conducted benchmark",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-12",
+          "re_verified": true,
+          "re_verified_date": "2026-08-05"
+        },
+        {
+          "id": "EV-turnitin-15",
+          "claim": "Turnitin's own primary press release (Aug 27, 2025) announced its AI writing detection expanded to include \"AI bypasser detection\" capabilities specifically designed to identify text intentionally modified by AI humanizer tools, with Chief Product Officer Annie Chechitelli stating the company updated its software \"to detect leading AI bypasser modifications\" in response to a new category of \"cheating providers\" offering humanizers to conceal AI-generated content.",
+          "quote": "While cheating has always been a concern of educators, with the rise of AI, there has been a new category formed of cheating providers. These companies exist to profit from students' misuse of AI by providing free and easy access to humanizers to conceal AI-generated content. In service of our ongoing commitment to AI writing transparency, we've updated our software to detect leading AI bypasser modifications so educators can uphold academic integrity against this emerging challenge.",
+          "source_url": "https://www.turnitin.com/press/turnitin-expands-capabilities-amid-rising-threats-posed-by-ai-bypassers",
+          "source_date": "2025-08-27",
+          "platform": "Turnitin company press release (primary source; direct automated fetch returns HTTP 403, verified this run via r.jina.ai read-proxy, which returned the full release text)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-16",
+          "claim": "Purdue University's own announcement of Turnitin's AI writing detection rollout (Mar 2023) states plainly that the AI writing detection indicator and report display only to instructors and are not visible to students -- the structural, still-current reason a student cannot self-check a live Turnitin AI score the way they can with a self-serve detector.",
+          "quote": "The AI writing detection indicator and report will only display to instructors and is not visible to students.",
+          "source_url": "https://discover.online.purdue.edu/news/2023/03/28%20-%20Turnitin%20adding%20AI%20writing%20detection,%20but%20instructors%20should%20use%20it%20with%20caution.php",
+          "source_date": "2023-03-28",
+          "platform": "Purdue University Online (university news page, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-17",
+          "claim": "Arcadia University's own IT helpdesk guidance corroborates that Turnitin's AI Writing Report is, by default, visible only to instructors and administrators (not students) so scores can be interpreted with context before any sharing decision -- a second, more recently published institutional source for the same instructor-only visibility rule Purdue states (EV-turnitin-16).",
+          "quote": "By default, the AI Writing Report is only visible to instructors and administrators to ensure scores are interpreted with context before being shared.",
+          "source_url": "https://helpdesk.arcadia.edu/hc/en-us/articles/46219290783117-Turnitin-AI-Writing-Detection",
+          "source_date": "not disclosed on page (captured 2026-08-05); the article ID (462...) is from a 2026-generation helpdesk platform, indicating the rule is stated as current well after Purdue's 2023 announcement, not a stale repost of it",
+          "platform": "Arcadia University IT helpdesk (university primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-18",
+          "claim": "A Temple University Student Success Center / Center for the Advancement of Teaching study (dated 2023-08-14) tested Turnitin's AI writing indicator against a disclosed set of 120 texts across four categories (30 each: fully human, fully AI-generated, 'disguised'/paraphrased AI, and hybrid human+AI) and found accuracy fell from 93% on human-written text to 63% on disguised (paraphrased) AI text and 43% on hybrid text, concluding the tool's flagged sections showed 'no relationship at all' to the text's actual AI-written portions. This predates Turnitin's Aug-2025 AI bypasser retrain (EV-turnitin-15) and must be read as describing the earlier classifier, not current behavior.",
+          "quote": "the summative scores that Turnitin produced for hybrid texts were markedly inaccurate ... there was no relationship at all between sections flagged as AI generated and parts that actually were AI generated",
+          "source_url": "https://teaching.temple.edu/sites/teaching/files/media/document/Evaluating%20the%20Effectiveness%20of%20Turnitin%E2%80%99s%20AI%20Writing%20Indicator%20Model.pdf",
+          "source_date": "2023-08-14",
+          "platform": "Temple University Student Success Center and Center for the Advancement of Teaching (disclosed-methodology institutional study, PDF report; authors Lori Salem, Stephanie Fiore, Stephen Kelly, Benjamin Brock)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-19",
+          "claim": "A Feb-2026 peer-reviewed study (Hadra, Cambridge & Mesbah, published in the International Journal for Educational Integrity) tested Turnitin and Originality against a balanced 192-text set (authentic EFL student writing, professional human writing, AI-generated, and hybrid compositions) and found Turnitin's macro-averaged accuracy was 0.61 (versus Originality's 0.69), concluding neither detector 'achieves the level of reliability required for high-stakes decision-making' and that current tools are 'unsuitable as authoritative arbiters of authorship.'",
+          "quote": "Originality outperformed Turnitin in overall accuracy (0.69 vs. 0.61). ... Current limitations render them unsuitable as authoritative arbiters of authorship.",
+          "source_url": "https://link.springer.com/article/10.1007/s40979-026-00213-1",
+          "source_date": "2026 (published online; International Journal for Educational Integrity, DOI 10.1007/s40979-026-00213-1; underlying testing conducted January-May 2025 per the paper's methodology)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity, Springer)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-20",
+          "claim": "The University of Waterloo's Associate Vice-President Academic office announced (posted 2025-05-05) that it would discontinue Turnitin's AI detection functionality campus-wide, effective September 2025, following consultation with Academic Deans, the Undergraduate Operations Committee, and the EdTech Steering Committee -- an additional named institution in the documented Turnitin AI-detector opt-out record alongside Vanderbilt (EV-turnitin-01), Pitt (EV-turnitin-03), and Curtin (EV-turnitin-02).",
+          "quote": "The University of Waterloo has decided to discontinue its use of the AI detection functionality within Turnitin, effective September 2025. ... This function will no longer be available to University of Waterloo users as of September 2025.",
+          "source_url": "https://uwaterloo.ca/associate-vice-president-academic/news/waterloo-discontinuing-use-ai-detection-tool-turnitincom",
+          "source_date": "2025-05-05 (posted date; discontinuation effective September 2025)",
+          "platform": "University of Waterloo, Associate Vice-President Academic (university primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-21",
+          "claim": "The University of Texas at Austin Provost's Office states the university does not endorse AI-detection software and, absent a university contract or purchase order, prohibits third-party AI-detection software (which would cover an instructor independently running an AI-detector on student work outside an institutional license) from being used to evaluate student work.",
+          "quote": "The University prohibits the use of all third-party software, including AI Detection Software (ADS, software used to flag or otherwise detect output as AI-generated), to evaluate student work or assignments unless a University contract or purchase order is in place.",
+          "source_url": "https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ai-detection-software-guidance/",
+          "source_date": "not disclosed on page (captured 2026-08-05)",
+          "platform": "University of Texas at Austin, Office of the Executive Vice President and Provost (university primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-22",
+          "claim": "A Yale University Canvas help-center support page (last updated 2024-01-04) confirms Turnitin's AI writing detection feature is currently disabled at Yale, without further elaboration on the reason.",
+          "quote": "The AI detection feature of Turnitin is currently disabled.",
+          "source_url": "https://help.canvas.yale.edu/a/1560705-turnitin-overview",
+          "source_date": "updated 2024-01-04",
+          "platform": "Yale University Canvas help center (university primary source; IT support documentation, not a reasoned policy statement)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/copyleaks-ai-detector",
       "url": "https://metegpt.com/copyleaks-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -974,7 +1163,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -1193,7 +1382,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-detect-01",
@@ -1363,7 +1552,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-07",
@@ -1499,7 +1688,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1511,7 +1700,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-12",
           "re_verified": true,
-          "re_verified_date": "2026-08-03"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-gptzero-ai-detector-02",
@@ -1666,7 +1855,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1678,7 +1867,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-scribbr-09",
@@ -1739,7 +1928,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         }
       ]
     },
@@ -1778,7 +1967,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-detect-03",
@@ -1960,7 +2149,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-01",
@@ -1972,7 +2161,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-detect-03",
@@ -2216,7 +2405,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -2397,7 +2586,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -2567,7 +2756,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-scribbr-01",
@@ -2719,7 +2908,7 @@
       "page": "/turnitin-ai-checker",
       "url": "https://metegpt.com/turnitin-ai-checker",
       "protocol_version": "MEP-1.0",
-      "published_entries": 15,
+      "published_entries": 20,
       "collection_sweep": {
         "run_date": "2026-07-07",
         "candidates_identified": 34,
@@ -2750,7 +2939,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2762,7 +2951,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-01",
@@ -2774,7 +2963,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-23"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-02",
@@ -2834,7 +3023,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-08",
@@ -2870,7 +3059,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-11",
@@ -2917,6 +3106,66 @@
           "platform": "SF Standard (journalism, citing Turnitin's own guidance language and the filed federal complaint)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-18",
+          "claim": "A Temple University Student Success Center / Center for the Advancement of Teaching study (dated 2023-08-14) tested Turnitin's AI writing indicator against a disclosed set of 120 texts across four categories (30 each: fully human, fully AI-generated, 'disguised'/paraphrased AI, and hybrid human+AI) and found accuracy fell from 93% on human-written text to 63% on disguised (paraphrased) AI text and 43% on hybrid text, concluding the tool's flagged sections showed 'no relationship at all' to the text's actual AI-written portions. This predates Turnitin's Aug-2025 AI bypasser retrain (EV-turnitin-15) and must be read as describing the earlier classifier, not current behavior.",
+          "quote": "the summative scores that Turnitin produced for hybrid texts were markedly inaccurate ... there was no relationship at all between sections flagged as AI generated and parts that actually were AI generated",
+          "source_url": "https://teaching.temple.edu/sites/teaching/files/media/document/Evaluating%20the%20Effectiveness%20of%20Turnitin%E2%80%99s%20AI%20Writing%20Indicator%20Model.pdf",
+          "source_date": "2023-08-14",
+          "platform": "Temple University Student Success Center and Center for the Advancement of Teaching (disclosed-methodology institutional study, PDF report; authors Lori Salem, Stephanie Fiore, Stephen Kelly, Benjamin Brock)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-19",
+          "claim": "A Feb-2026 peer-reviewed study (Hadra, Cambridge & Mesbah, published in the International Journal for Educational Integrity) tested Turnitin and Originality against a balanced 192-text set (authentic EFL student writing, professional human writing, AI-generated, and hybrid compositions) and found Turnitin's macro-averaged accuracy was 0.61 (versus Originality's 0.69), concluding neither detector 'achieves the level of reliability required for high-stakes decision-making' and that current tools are 'unsuitable as authoritative arbiters of authorship.'",
+          "quote": "Originality outperformed Turnitin in overall accuracy (0.69 vs. 0.61). ... Current limitations render them unsuitable as authoritative arbiters of authorship.",
+          "source_url": "https://link.springer.com/article/10.1007/s40979-026-00213-1",
+          "source_date": "2026 (published online; International Journal for Educational Integrity, DOI 10.1007/s40979-026-00213-1; underlying testing conducted January-May 2025 per the paper's methodology)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity, Springer)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-20",
+          "claim": "The University of Waterloo's Associate Vice-President Academic office announced (posted 2025-05-05) that it would discontinue Turnitin's AI detection functionality campus-wide, effective September 2025, following consultation with Academic Deans, the Undergraduate Operations Committee, and the EdTech Steering Committee -- an additional named institution in the documented Turnitin AI-detector opt-out record alongside Vanderbilt (EV-turnitin-01), Pitt (EV-turnitin-03), and Curtin (EV-turnitin-02).",
+          "quote": "The University of Waterloo has decided to discontinue its use of the AI detection functionality within Turnitin, effective September 2025. ... This function will no longer be available to University of Waterloo users as of September 2025.",
+          "source_url": "https://uwaterloo.ca/associate-vice-president-academic/news/waterloo-discontinuing-use-ai-detection-tool-turnitincom",
+          "source_date": "2025-05-05 (posted date; discontinuation effective September 2025)",
+          "platform": "University of Waterloo, Associate Vice-President Academic (university primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-21",
+          "claim": "The University of Texas at Austin Provost's Office states the university does not endorse AI-detection software and, absent a university contract or purchase order, prohibits third-party AI-detection software (which would cover an instructor independently running an AI-detector on student work outside an institutional license) from being used to evaluate student work.",
+          "quote": "The University prohibits the use of all third-party software, including AI Detection Software (ADS, software used to flag or otherwise detect output as AI-generated), to evaluate student work or assignments unless a University contract or purchase order is in place.",
+          "source_url": "https://provost.utexas.edu/the-office/academic-affairs/office-of-academic-technology/ai-detection-software-guidance/",
+          "source_date": "not disclosed on page (captured 2026-08-05)",
+          "platform": "University of Texas at Austin, Office of the Executive Vice President and Provost (university primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-turnitin-22",
+          "claim": "A Yale University Canvas help-center support page (last updated 2024-01-04) confirms Turnitin's AI writing detection feature is currently disabled at Yale, without further elaboration on the reason.",
+          "quote": "The AI detection feature of Turnitin is currently disabled.",
+          "source_url": "https://help.canvas.yale.edu/a/1560705-turnitin-overview",
+          "source_date": "updated 2024-01-04",
+          "platform": "Yale University Canvas help center (university primary source; IT support documentation, not a reasoned policy statement)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-05",
           "re_verified": false,
           "re_verified_date": null
         }
@@ -3090,7 +3339,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-gpthuman-01",
@@ -3400,7 +3649,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3412,7 +3661,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-26"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-best-ai-humanizer-09",
@@ -3436,7 +3685,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-turnitin-10",
@@ -3448,7 +3697,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-scribbr-06",
@@ -4199,7 +4448,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-04"
+          "re_verified_date": "2026-08-05"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
