@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-08-05",
+    "generated": "2026-08-08",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 247,
-    "page_appearances": 320,
-    "page_count": 28,
+    "unique_sources": 263,
+    "page_appearances": 341,
+    "page_count": 29,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,7 +36,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         }
       ]
     },
@@ -69,7 +69,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-turnitin-01",
@@ -93,7 +93,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-detector-05",
@@ -294,7 +294,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-turnitin-10",
@@ -306,7 +306,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-ai-paragraph-rewriter-01",
@@ -317,8 +317,8 @@
           "platform": "vendor primary source (QuillBot help center; self-interested but a direct admission from the paraphrasing vendor itself, addressing the exact question in its own article title)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-04",
-          "re_verified": false,
-          "re_verified_date": null
+          "re_verified": true,
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-ai-paragraph-rewriter-02",
@@ -399,7 +399,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-turnitin-02",
@@ -423,7 +423,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-detector-01",
@@ -582,7 +582,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -723,7 +723,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -747,7 +747,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-bypass-ai-detector-01",
@@ -840,7 +840,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-gpthuman-01",
@@ -969,7 +969,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1017,7 +1017,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1163,7 +1163,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -1382,7 +1382,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-detect-01",
@@ -1688,7 +1688,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1855,7 +1855,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1928,7 +1928,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         }
       ]
     },
@@ -1967,7 +1967,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-detect-03",
@@ -2149,7 +2149,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-turnitin-01",
@@ -2405,7 +2405,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -2554,6 +2554,283 @@
       ]
     },
     {
+      "page": "/quillbot-ai-detector",
+      "url": "https://metegpt.com/quillbot-ai-detector",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 21,
+      "collection_sweep": {
+        "run_date": "2026-08-08",
+        "candidates_identified": 23,
+        "screened": 23,
+        "excluded": 4,
+        "excluded_by_reason": {
+          "no-methodology-affiliate": 2,
+          "unverifiable-this-run": 1,
+          "duplicate": 1
+        },
+        "included_this_run": 16,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-08"
+        },
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-08"
+        },
+        {
+          "id": "EV-scribbr-07",
+          "claim": "Learneo's own December 2022 press release confirms Scribbr and QuillBot are both operating businesses under the same parent company (Learneo, formerly Course Hero) -- neutral, dated, primary-source corroboration of the common-ownership fact underlying the disputed GPTZero 'wrap-around' claim (EV-scribbr-06), though this release does not itself claim the two products share a detection engine.",
+          "quote": "Learneo currently comprises six, distinct operating businesses, five of which were acquired over the past two years: CliffsNotes, Course Hero, LitCharts, QuillBot, Scribbr, and Symbolab.",
+          "source_url": "https://www.learneo.com/news/introducing-learneo-a-platform-of-learning-and-productivity-brands-built-for-an-evolving-knowledge-economy",
+          "source_date": "2022-12-14",
+          "platform": "company press release (learneo.com, primary source; neutral as to the detector-engine-sharing question, since it only states corporate ownership)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-07",
+          "re_verified": true,
+          "re_verified_date": "2026-08-08"
+        },
+        {
+          "id": "EV-scribbr-08",
+          "claim": "Scribbr's own published detector comparison (author Koen Driessen, Scribbr co-founder) discloses a specific test design: 30 total texts across six categories (5 texts each, human-written / GPT-3.5 / GPT-4 / mixed human+AI / paraphrased AI, each 1,000-1,500 characters), run across 12 AI detectors, reporting Scribbr's Premium AI Detector at 84% overall accuracy (best paid option) and the free detector tied with QuillBot's free detector at 78% (best free option).",
+          "quote": "In our testing, we used six categories of texts, with five texts in each category and therefore a total of 30 texts. Each text was between 1,000 and 1,500 characters long... The best free AI detectors of 2024 are Scribbr and QuillBot, both of which correctly identified 78% of our testing texts. The best paid option is Scribbr, at 84%.",
+          "source_url": "https://web.archive.org/web/20250811203512/https://www.scribbr.com/ai-tools/best-ai-detector/",
+          "source_date": "2025-08-11 (closest available snapshot to 2025-08-25; article dated by Scribbr to 2024, refreshed periodically)",
+          "platform": "vendor primary source, self-authored research (scribbr.com; author Koen Driessen, Scribbr co-founder, named and credentialed)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-07",
+          "re_verified": true,
+          "re_verified_date": "2026-08-08"
+        },
+        {
+          "id": "EV-ai-paragraph-rewriter-01",
+          "claim": "QuillBot's own help center directly answers a user question about paraphrased text still being flagged by QuillBot's own AI Detector, stating the Paraphraser is built for clarity/tone/style rather than to defeat detection, and that AI detection tools (including its own) are not fully accurate and can give varied results.",
+          "quote": "AI detection tools are not 100% accurate. It's possible for paraphrased or even human-written content to be flagged as AI generated as AI detection models can give varied results at times.",
+          "source_url": "https://help.quillbot.com/hc/en-us/articles/35294062590743-I-paraphrased-my-content-and-tried-the-AI-Detector-but-it-was-still-flagged-as-AI-Why",
+          "source_date": "page shows 'Updated 1 month ago' relative to capture date 2026-08-04 (Zendesk help-center template does not display an absolute date)",
+          "platform": "vendor primary source (QuillBot help center; self-interested but a direct admission from the paraphrasing vendor itself, addressing the exact question in its own article title)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-08"
+        },
+        {
+          "id": "EV-quillbot-ai-detector-01",
+          "claim": "QuillBot's own AI-detector product page claims a 99% detection rate 'according to independent evaluations from RAID,' links to the RAID public leaderboard, and states its free tier requires an 80-word minimum input, caps scans at 1,200 words, and allows 6 scans/day; QuillBot's separate blog post about the same detector makes no RAID citation and no 99% figure at all.",
+          "quote": "Detect AI text reliably with a 99% detection rate, according to independent evaluations from RAID. Get AI likelihood estimates you can trust and avoid false positives.",
+          "source_url": "https://quillbot.com/ai-content-detector",
+          "source_date": "page undated (no publish/update date shown on-page); capture 2026-08-08",
+          "platform": "vendor primary source (quillbot.com/ai-content-detector; self-interested -- QuillBot's own marketing claim about its own detector)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-02",
+          "claim": "RAID (Robust AI Detection), the benchmark QuillBot cites as its accuracy source, is a peer-reviewed academic paper (ACL 2024) covering 11 generative models, 8 content domains, 11 adversarial attacks and 4 decoding strategies, with a public leaderboard that is explicitly split into two sections -- detectors that self-report training on the RAID dataset, and detectors that do not -- specifically to separate in-domain from out-of-domain performance.",
+          "quote": "The leaderboard is split up into two sections—one for those who self-report having trained on the RAID dataset and one for those who do not. This is important to ensure that a clear distinction is made between detectors that are generalizing to out-of-domain data and those that are not.",
+          "source_url": "https://arxiv.org/abs/2405.07940",
+          "source_date": "2024 (ACL 2024 long paper; arXiv v1 submitted 2024-05-13)",
+          "platform": "peer-reviewed academic paper (ACL 2024; authors Dugan, Hwang, Trhlik, Ludan, Zhu, Xu, Ippolito, Callison-Burch)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-03",
+          "claim": "QuillBot's own submission to the RAID leaderboard (dated 2025-01-30) reports an aggregate true-positive rate of 99.62% at a fixed 5% false-positive operating point and 98.10% at a fixed 1% false-positive operating point -- these, not a single unconditional 99% figure, are the actual figures behind QuillBot's marketed '99% detection rate.'",
+          "quote": "date_released: 2025-01-30 / detector_name: QuillBot / accuracy at FPR 0.05: 0.9961749387254902 (tp 650303, fn 2497) / accuracy at FPR 0.01: 0.9810248161764706 (tp 640413, fn 12387) / auroc: 0.9961809211681093",
+          "source_url": "https://github.com/liamdugan/raid/blob/main/leaderboard/submissions/QuillBot/results.json",
+          "source_date": "2025-01-30 (date_released per QuillBot's own submission metadata)",
+          "platform": "primary-source benchmark submission data (github.com/liamdugan/raid, the official RAID repository underlying raid-bench.xyz; QuillBot's own self-submitted results file)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-04",
+          "claim": "QuillBot's RAID submission calibrates a separate detection threshold for each of RAID's 8 content domains to hit the same fixed false-positive rate, and those thresholds span roughly four orders of magnitude -- from 0.000126 for academic abstracts to 0.936 for product/service reviews at the 5%-false-positive setting -- meaning QuillBot's detector requires a far stronger raw AI-signal in review-style text than in abstract-style text before it will flag either as AI-generated.",
+          "quote": "thresholds[\"0.05\"]: {abstracts: 0.00012600871236145839, reviews: 0.9358949006211219, wiki: 0.009791524441897681, recipes: 0.0013763375612870776, news: 0.004454382750145647, poetry: 0.46122234587364797, reddit: 0.48842136817256687, books: 0.7181804544221633}",
+          "source_url": "https://github.com/liamdugan/raid/blob/main/leaderboard/submissions/QuillBot/results.json",
+          "source_date": "2025-01-30 (date_released per submission metadata)",
+          "platform": "primary-source benchmark submission data (github.com/liamdugan/raid; QuillBot's own self-submitted results file)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-05",
+          "claim": "Within QuillBot's own RAID submission, performance is not uniform across attack types: at the stricter 1%-false-positive operating point, the aggregated true-positive rate for AI text rewritten by RAID's 'paraphrase' adversarial attack is 94.07%, and for text modified with 'zero_width_space' insertions is 91.39% -- both below the submission's own 98.10% aggregate figure at that same threshold.",
+          "quote": "attack: paraphrase, domain: all, model: all, FPR 0.01 aggregate: tp 204704 / fn 12896 / total 217600 = 94.07%; attack: zero_width_space, FPR 0.01 aggregate: tp 198884 / fn 18716 / total 217600 = 91.39%",
+          "source_url": "https://github.com/liamdugan/raid/blob/main/leaderboard/submissions/QuillBot/results.json",
+          "source_date": "2025-01-30 (date_released per submission metadata)",
+          "platform": "primary-source benchmark submission data (github.com/liamdugan/raid; QuillBot's own self-submitted results file)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-06",
+          "claim": "Among the major commercial AI-detector entries on the RAID leaderboard, QuillBot's submission (2025-01-30) is the oldest -- GPTZero submitted 2025-10-07, It's AI submitted 2025-12-25, and Grammarly submitted 2026-02-09 -- while QuillBot's own marketing describes its detector as continuously updated; no page ranking for this topic notes that QuillBot's specific 99% figure predates three later commercial submissions on the same public benchmark.",
+          "quote": "QuillBot metadata.json: date_released 2025-01-30 / GPTZero metadata.json: date_released 2025-10-07 / its-ai metadata.json: date_released 2025-12-25 / grammarly metadata.json: date_released 2026-02-09",
+          "source_url": "https://github.com/liamdugan/raid/tree/main/leaderboard/submissions",
+          "source_date": "dates as submitted: QuillBot 2025-01-30, GPTZero 2025-10-07, It's AI 2025-12-25, Grammarly 2026-02-09",
+          "platform": "primary-source benchmark submission data (github.com/liamdugan/raid; each vendor's own self-submitted metadata file)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-07",
+          "claim": "RAID's own documentation states its leaderboard separates detectors that self-report training on the RAID dataset from those that do not, but the metadata schema every submission (including QuillBot's) actually publishes contains no field recording that distinction -- so which side of that split QuillBot's 99% figure falls on cannot be confirmed from the submission data itself, only (if at all) from the leaderboard's live web layout, which returned no readable content to this project's fetch tools.",
+          "quote": "{\"date_released\": \"2024-05-25\", \"detector_name\": \"Template\", \"website\": \"...\", \"paper_link\": \"...\", \"huggingface_link\": \"...\", \"github_link\": \"...\", \"contact_info\": \"...\"} -- no trained-on-RAID field present in the schema",
+          "source_url": "https://github.com/liamdugan/raid/blob/main/leaderboard/template-metadata.json",
+          "source_date": "template file, undated in-repo; capture 2026-08-08",
+          "platform": "primary-source repository schema (github.com/liamdugan/raid, the template every submitter fills in)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-08",
+          "claim": "A competing AI-detector vendor's disclosed same-sample test (3 ChatGPT-generated samples -- a blog post, a case study, and promotional emails -- run through both QuillBot's and the vendor's own detector) found both tools identified all three samples as 100% AI-generated, with the author explicitly flagging the sample size as too small to generalize.",
+          "quote": "While this is a very small sample size, the initial results show that both AI content detectors work well... more testing of QuillBot's AI detector is needed",
+          "source_url": "https://originality.ai/blog/quillbot-ai-content-detector-review",
+          "source_date": "2025-10-28",
+          "platform": "competing vendor blog (originality.ai sells its own AI detector; author named -- Graeme Whiles; disclosed methodology with an explicit small-sample caveat -- self-interested but methodologically transparent)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-09",
+          "claim": "A competing writing-tool vendor's disclosed hands-on test found QuillBot's detector correctly scored pre-ChatGPT classic-literature excerpts as 100% human, scored raw unedited ChatGPT-4 output as 97% AI-generated, and scored the same ChatGPT text after being run through QuillBot's own paraphraser as 100% AI-generated (higher, not lower, than the unmodified version).",
+          "quote": "100% human-written content [classic literature]; raw ChatGPT-4 text scored 97% AI-generated; the same essay run through QuillBot's paraphrasing tool was flagged as 100% AI-generated",
+          "source_url": "https://textero.io/reviews/quillbot-ai-checker",
+          "source_date": "updated 2026-06-19",
+          "platform": "competing vendor blog (textero.io sells its own AI writing/essay tool; author named -- Jeremy Allen; disclosed 3-test methodology with screenshots -- self-interested but methodologically transparent)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-10",
+          "claim": "An independent technology journalist's ongoing, periodically re-run same-methodology test of multiple AI content detectors currently scores QuillBot's detector at 100% accuracy, after describing QuillBot's results in earlier passes of the same ongoing test as 'wildly inconsistent' across repeated runs of identical text.",
+          "quote": "The first few times I tested [QuillBot], results were wildly inconsistent -- multiple passes of the same text yielded wildly different scores. Last time, however, it was rock solid and 100% correct... QuillBot once again scored a 100% perfect score.",
+          "source_url": "https://www.zdnet.com/article/i-tested-9-ai-content-detectors-and-these-2-correctly-identified-ai-text-every-time/",
+          "source_date": "article metadata: published 2025-10-29; content updated in place on later re-test passes, per the article's own wording (capture 2026-08-08)",
+          "platform": "independent tech journalism (ZDNet; author David Gewirtz, named and bylined; not a competing detector or humanizer vendor; discloses that the same detector set is re-tested on a recurring basis)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-11",
+          "claim": "GPTZero -- a competing AI-detector vendor -- publishes its own dated review of QuillBot's detector citing 'Independent tests done by journalists put QuillBot at around 80% accuracy,' hyperlinked directly to the same ZDNet article that, when re-fetched live at that exact URL, currently shows QuillBot scoring 100%, not 80% -- illustrating that a single detector-accuracy figure sourced from an ongoing test can go stale relative to its own cited source well before a citing page itself is updated.",
+          "quote": "Independent tests done by journalists put QuillBot at around 80% accuracy, although as with all AI detection tools, results depend on the type of text",
+          "source_url": "https://gptzero.me/news/quillbot-review/",
+          "source_date": "2026-03-02 (byline 'GPTZero Team')",
+          "platform": "competing detector vendor review (gptzero.me; a rival AI detector publishing a review of QuillBot; byline 'GPTZero Team', no individual named)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-12",
+          "claim": "A competing writing-extension vendor's disclosed 50-text comparison test scored QuillBot's detector at approximately 80% accuracy, behind GPTZero (99.5%) and Scribbr (84%) in the same comparison, and separately notes QuillBot's detector struggles with paraphrased AI content and inputs under 80 words.",
+          "quote": "QuillBot's AI detector correctly identified AI-generated text with ~80% accuracy in our 50-text test. That puts it behind GPTZero (99.5%) and Scribbr (84%) in our hands-on comparison. It works best on longer texts but struggles with paraphrased AI content and short inputs under 80 words.",
+          "source_url": "https://belikenative.com/is-quillbots-ai-detector-trustworthy-we-tested-it-against-other-ai-checkers/",
+          "source_date": "dateModified 2026-08-03 (datePublished 2025-03-31)",
+          "platform": "competing-product content site (belikenative.com sells its own browser-extension writing tool; author credited only as organization 'BeLikeNative,' no named individual; discloses a defined sample size (50 texts) and named comparison detectors but not the sample composition -- self-interested with partial methodology disclosure)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-13",
+          "claim": "An independent tech writer's small hands-on test (not affiliated with any detector or humanizer vendor) found QuillBot's detector flagged a genuinely human-written piece as 'partially AI-generated' (a false positive) and classified a ChatGPT draft with roughly 40% manual rewriting as 'looks human' (a false negative on lightly-edited AI text), while correctly flagging raw unedited ChatGPT text as mostly AI-written.",
+          "quote": "QuillBot flagged a 300-word blog introduction as mostly AI-written [raw ChatGPT]; a genuinely human-authored piece was flagged as partially AI-generated; material with approximately 40% manual rewrites was classified as looks human",
+          "source_url": "https://medium.com/@imhimanshu/is-quillbot-ai-detector-accurate-131d45c30bda",
+          "source_date": "2025-04-29",
+          "platform": "independent tech writer (Medium; author Himanshu Kumar, bylined; not a competing detector or humanizer vendor)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-14",
+          "claim": "Of the pages that rank for this topic, a documented majority are published either by rival AI-detector vendors reviewing QuillBot's detector (GPTZero, Originality.ai) or by competing-product content/writing-tool sites (Textero, BeLikeNative, AIDetectPlus) that fund themselves by promoting their own tool inside the review -- not by outlets with no stake in the outcome; independent non-vendor coverage (e.g. ZDNet, a single Medium post) is present but a minority.",
+          "quote": "gptzero.me byline 'GPTZero Team' publishing under a competing detector's own domain; originality.ai/blog byline Graeme Whiles under Originality.ai's own domain; textero.io/reviews under Textero's own writing-tool domain; belikenative.com review promotes 'Try our free paraphrasing tool' and its own Chrome extension inline; aidetectplus.com review authored by Hugh Kumar, credited co-founder of AIDetectPlus, a directly competing detector",
+          "source_url": "https://gptzero.me/news/quillbot-review/ ; https://originality.ai/blog/quillbot-ai-content-detector-review ; https://textero.io/reviews/quillbot-ai-checker ; https://belikenative.com/is-quillbots-ai-detector-trustworthy-we-tested-it-against-other-ai-checkers/ ; https://aidetectplus.com/blog/quillbot-ai-detector-review",
+          "source_date": "capture 2026-08-08 (see individual entries above/below for each page's own date)",
+          "platform": "documented composition of the ranking result set (multiple vendor primary sources, cross-checked against each site's own about/product pages)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-15",
+          "claim": "QuillBot's own help center states that its AI Detector is free to all users and that the only Premium difference is bulk file uploads, with detection working identically for free and paid accounts -- while QuillBot's product page markets Premium on removing the word limit and scan cap. Same company, two pages, opposite statements about what paying changes.",
+          "quote": "Quillbot's AI Detector is a free tool available to all users... The only difference for Premium users is in file uploads: Free users - Upload 1 file at a time. Premium users - Upload up to 20 files at once for batch detection. The detection itself works the same for both Free and Premium accounts - Premium just adds the convenience of bulk uploads.",
+          "source_url": "https://help.quillbot.com/hc/en-us/articles/35295733817111-Is-Quillbot-s-AI-Detector-free-or-premium",
+          "source_date": "\"1 month ago Updated\" as displayed on the article at capture time",
+          "platform": "vendor's own help center (help.quillbot.com)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        },
+        {
+          "id": "EV-quillbot-ai-detector-16",
+          "claim": "On the same RAID leaderboard and computed by the identical method used for QuillBot, a rival commercial detector's aggregated true-positive rate against RAID's paraphrase attack at the 1%-false-positive operating point is 71.60% (GPTZero, submission released 2025-10-07) -- against QuillBot's 94.07% on the same slice. QuillBot's weakest measured adversarial slice therefore still leads this comparison rather than trailing it.",
+          "quote": "attack: paraphrase, domain: all, model: all, FPR 0.01 aggregate: tp 155812 / fn 61788 / total 217600 = 71.60%; same rows at FPR 0.05 = 89.11%; attack: none at FPR 0.01 = 95.72%",
+          "source_url": "https://github.com/liamdugan/raid/blob/main/leaderboard/submissions/gptzero/results.json",
+          "source_date": "2025-10-07 (date_released per submission metadata)",
+          "platform": "primary-source benchmark submission data (github.com/liamdugan/raid; GPTZero's own self-submitted results file)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-08",
+          "re_verified": false,
+          "re_verified_date": null
+        }
+      ]
+    },
+    {
       "page": "/sapling-ai-detector",
       "url": "https://metegpt.com/sapling-ai-detector",
       "protocol_version": "MEP-1.0",
@@ -2586,7 +2863,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -2756,7 +3033,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-scribbr-01",
@@ -2840,7 +3117,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-scribbr-08",
@@ -2852,7 +3129,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-scribbr-09",
@@ -2939,7 +3216,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3059,7 +3336,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-turnitin-11",
@@ -3339,7 +3616,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-gpthuman-01",
@@ -3649,7 +3926,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3697,7 +3974,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-scribbr-06",
@@ -3721,7 +3998,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-scribbr-08",
@@ -3733,7 +4010,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-07-08"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-quillbot-01",
@@ -4448,7 +4725,7 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-05"
+          "re_verified_date": "2026-08-08"
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
