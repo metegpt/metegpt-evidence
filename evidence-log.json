@@ -5,12 +5,12 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-08-15",
+    "generated": "2026-08-17",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 295,
-    "page_appearances": 408,
+    "unique_sources": 297,
+    "page_appearances": 411,
     "page_count": 33,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
@@ -272,9 +272,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         },
         {
           "id": "EV-ai-detector-accuracy-01",
@@ -452,9 +452,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         },
         {
           "id": "EV-quillbot-ai-detector-10",
@@ -837,9 +837,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         }
       ]
     },
@@ -1159,9 +1159,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         }
       ]
     },
@@ -1459,9 +1459,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         }
       ]
     },
@@ -2268,9 +2268,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         }
       ]
     },
@@ -2586,9 +2586,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-26",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "NOT RECONFIRMED THIS RUN for the section-5 quantified cross-tool ranges. The arXiv abstract (arxiv.org/abs/2306.15666) re-confirms the general 'neither accurate nor reliable / bias toward human-written' finding live this run, but the section-5 ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body; the DOI/Springer route is auth-walled and the arXiv PDF exceeds the fetch size limit (same recurring limitation as the 2026-08-09 and 2026-08-13 runs). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /good-ai-score as the strongest peer-reviewed, quantified cross-detector-disagreement evidence (why there is no universal number and why one detector reading is not proof)."
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
         },
         {
           "id": "EV-ai-detector-accuracy-02",
@@ -4371,7 +4371,7 @@
       "page": "/turnitin-ai-checker",
       "url": "https://metegpt.com/turnitin-ai-checker",
       "protocol_version": "MEP-1.0",
-      "published_entries": 19,
+      "published_entries": 22,
       "collection_sweep": {
         "run_date": "2026-07-07",
         "candidates_identified": 34,
@@ -4589,6 +4589,20 @@
           "re_verified_note": ""
         },
         {
+          "id": "EV-bypass-ai-detector-07",
+          "claim": "A peer-reviewed 14-tool study (Weber-Wulff et al., 2023, International Journal for Educational Integrity) tested the same set of human-written, machine-translated, and AI-generated documents across 14 detection tools and found the tools disagree sharply with each other on identical input: the false-positive risk on the same human-written/machine-translated documents ranged from 0% (Turnitin) to 50% (GPT Zero), and the false-negative risk on the same AI-generated documents ranged from 8% (GPT Zero) to 100% (Content at Scale) -- direct, quantified, peer-reviewed evidence of cross-detector inconsistency on the same text.",
+          "quote": "The probability of false positives ranged from 0% (Turnitin) to 50% (GPT Zero). The probability of false negatives ranged from 8% (GPT Zero) to 100% (Content at Scale).",
+          "source_url": "https://doi.org/10.1007/s40979-023-00146-z",
+          "source_date": "2023-12-04 (journal publication, International Journal for Educational Integrity, Vol. 19, Article 26); arXiv preprint v2 posted 2023-07-10 (arxiv.org/abs/2306.15666)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity / Springer; also on arXiv, Weber-Wulff et al., 8 authors including Debora Weber-Wulff, HTW Berlin) -- same underlying paper as EV-detect-01/EV-detect-02, this entry registers the section-5.1.2/5.2.1 cross-tool-disagreement finding on the SAME 14-tool, same-document-set test, which was not previously captured in the registry",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-26",
+          "re_verified": true,
+          "re_verified_date": "2026-08-17",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
+        },
+        {
           "id": "EV-turnitin-18",
           "claim": "A Temple University Student Success Center / Center for the Advancement of Teaching study (dated 2023-08-14) tested Turnitin's AI writing indicator against a disclosed set of 120 texts across four categories (30 each: fully human, fully AI-generated, 'disguised'/paraphrased AI, and hybrid human+AI) and found accuracy fell from 93% on human-written text to 63% on disguised (paraphrased) AI text and 43% on hybrid text, concluding the tool's flagged sections showed 'no relationship at all' to the text's actual AI-written portions. This predates Turnitin's Aug-2025 AI bypasser retrain (EV-turnitin-15) and must be read as describing the earlier classifier, not current behavior.",
           "quote": "the summative scores that Turnitin produced for hybrid texts were markedly inaccurate ... there was no relationship at all between sections flagged as AI generated and parts that actually were AI generated",
@@ -4653,6 +4667,34 @@
           "platform": "Yale University Canvas help center (university primary source; IT support documentation, not a reasoned policy statement)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-05",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-turnitin-27",
+          "claim": "Turnitin's own AI-detection-capabilities FAQ page states its AI writing detection model for English submissions is trained to recognize output from a long, explicitly named list of large-language-model families (including GPT-4o, GPT-4o-mini, Gemini, Claude, LLaMA, Mistral, Deepseek, Nova and Grok, and 'tools based on these LLMs'), and that as of a July 2026 architecture update it scores a submission through one consolidated model rather than a per-tool lookup -- direct vendor-primary evidence that the detector is built to recognize AI-writing patterns across many generative systems, not to spot one company's output specifically.",
+          "quote": "In July 2026, we updated our model architecture to consolidate a multi-model ensemble into a single model.",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin-s-AI-writing-detection-capabilities-FAQs",
+          "source_date": "capture 2026-08-17 (page undated in visible metadata; page's own text places its most recent described change in July 2026)",
+          "platform": "Turnitin company guides/help-center (vendor primary source; self-interested)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-17",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-turnitin-28",
+          "claim": "Turnitin's own AI-detection-capabilities FAQ page states that AI-paraphrasing-and-bypassing detection is integrated directly within its AI writing indicator (not a separate add-on) and that its detection capabilities extend to AI-generated content 'that may have been modified using a word spinner/AI paraphrasing or bypassing tool to evade detection' -- a second, distinct primary-source confirmation, more current than the Aug-2025 launch coverage (EV-turnitin-15, EV-best-ai-humanizer-03), that Turnitin's live classifier is still described as built to catch humanized/paraphrased AI text specifically, not only raw unedited output.",
+          "quote": "Turnitin's AI detection capabilities include detection of likely AI-generated content that may have been modified using a word spinner/AI paraphrasing or bypassing tool to evade detection.",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin-s-AI-writing-detection-capabilities-FAQs",
+          "source_date": "capture 2026-08-17 (page undated in visible metadata; same page as EV-turnitin-27, which places its most recent described change in July 2026)",
+          "platform": "Turnitin company guides/help-center (vendor primary source; self-interested)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-17",
           "re_verified": false,
           "re_verified_date": null,
           "re_verified_status": null,
