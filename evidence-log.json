@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-08-17",
+    "generated": "2026-08-28",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 309,
-    "page_appearances": 423,
-    "page_count": 34,
+    "unique_sources": 324,
+    "page_appearances": 458,
+    "page_count": 35,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,9 +36,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         }
       ]
     },
@@ -46,7 +46,7 @@
       "page": "/ai-detector-accuracy",
       "url": "https://metegpt.com/ai-detector-accuracy",
       "protocol_version": "MEP-1.0",
-      "published_entries": 18,
+      "published_entries": 22,
       "collection_sweep": {
         "run_date": "2026-08-13",
         "candidates_identified": 60,
@@ -76,9 +76,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-10",
@@ -90,9 +90,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-detect-01",
@@ -317,6 +317,62 @@
           "re_verified_date": "2026-08-13",
           "re_verified_status": "reconfirmed-live",
           "re_verified_note": "Collected and verified LIVE this run: the exact abstract was read verbatim from arxiv.org/abs/2406.15583v2 (the PDF fetch returned unreadable binary, so the quote was captured from the abstract HTML, HTTP 200). Peer-reviewed status confirmed: published in the Journal of Artificial Intelligence Research, Vol. 82 (2025). Fresh source not used by the humanizemy sibling. On-page use: 'What Changes an AI Detector's Accuracy?' -- the academic anchor for 'accuracy is conditional, there is no single number'."
+        },
+        {
+          "id": "EV-how-ai-detectors-work-01",
+          "claim": "The largest published benchmark of machine-generated-text detectors (RAID, ACL 2024: over 6 million generations spanning 11 generator models, 8 domains, 11 adversarial attacks, 4 decoding strategies; 8 open + 4 closed-source detectors evaluated) found current detectors are easily fooled by adversarial attacks, sampling-strategy variations, repetition penalties, and unseen generative models.",
+          "quote": "over 6 million generations spanning 11 models, 8 domains, 11 adversarial attacks and 4 decoding strategies... current detectors are easily fooled by adversarial attacks, variations in sampling strategies, repetition penalties, and unseen generative models",
+          "source_url": "https://aclanthology.org/2024.acl-long.674/",
+          "source_date": "2024-08 (ACL 2024 proceedings, Bangkok; preprint arXiv:2405.07940, May 2024)",
+          "platform": "peer-reviewed conference (ACL 2024; Dugan, Hwang, Trhlik, Zhu, Ludan, Xu, Ippolito, Callison-Burch)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-02",
+          "claim": "The largest academic multi-tool test of AI-text detectors in the education context (Weber-Wulff et al., International Journal for Educational Integrity, vol. 19 art. 26; 12 public tools plus Turnitin and PlagiarismCheck) found all 14 tools scored below 80% accuracy and only 5 above 70%; roughly 50% of AI texts that undergo obfuscation (paraphrase) get misattributed to humans; machine translation dropped accuracy by 20%; conclusion verbatim: the tools 'are neither accurate nor reliable'.",
+          "quote": "all scored below 80% of accuracy and only 5 over 70%... approximately 50% of AI-generated texts that undergo some obfuscation would likely be misattributed to humans... detection tools for AI-generated text do fail, they are neither accurate nor reliable",
+          "source_url": "https://link.springer.com/article/10.1007/s40979-023-00146-z",
+          "source_date": "2023 (journal article, DOI 10.1007/s40979-023-00146-z; article page fetched this run reported publication date 2023-06-23)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity, Springer; Weber-Wulff, Anohina-Naumeca, Bjelobaba et al.)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-03",
+          "claim": "OpenAI built and then withdrew its own AI-text classifier: launched 2023-01-31, it correctly identified only 26% of AI-written text while mislabeling human-written text as AI 9% of the time, and OpenAI discontinued it on 2023-07-20 citing 'its low rate of accuracy' — a primary-source datapoint that the maker of ChatGPT could not reliably detect its own model's output with a post-hoc classifier.",
+          "quote": "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy... our classifier correctly identifies 26% of AI-written text (true positives) as 'likely AI-written,' while incorrectly labeling human-written text as AI-written 9% of the time (false positives)",
+          "source_url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/",
+          "source_date": "2023-01-31 (page publish date; discontinuation note on the same page dated 2023-07-20)",
+          "platform": "vendor primary source (openai.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-10",
+          "claim": "A peer-reviewed-track study (Sadasivan, Kumar, Balasubramanian, Wang, Feizi — University of Maryland; published in TMLR; arXiv:2303.11156, v1 2023-03-17, v4 2025-01-17) showed a recursive paraphrasing attack significantly degrades every detector family it stress-tested — watermarking-based, neural-network classifiers, zero-shot detectors, and retrieval-based schemes — and presents a theoretical argument that as the distributions of human and LLM text converge, even the best possible detector's performance approaches chance level.",
+          "quote": "recursive paraphrasing attack to stress test a wide range of detection schemes, including the ones using the watermarking as well as neural network-based detectors",
+          "source_url": "https://arxiv.org/abs/2303.11156",
+          "source_date": "2023-03-17 (v1 submission; last revised 2025-01-17, v4; published in Transactions on Machine Learning Research)",
+          "platform": "academic (arXiv / Transactions on Machine Learning Research; University of Maryland)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -354,9 +410,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-10",
@@ -368,9 +424,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-detect-05",
@@ -613,9 +669,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-01",
@@ -641,9 +697,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-detector-05",
@@ -872,9 +928,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-10",
@@ -886,9 +942,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-ai-paragraph-rewriter-01",
@@ -966,7 +1022,7 @@
       "page": "/best-ai-detector",
       "url": "https://metegpt.com/best-ai-detector",
       "protocol_version": "MEP-1.0",
-      "published_entries": 13,
+      "published_entries": 16,
       "collection_sweep": {
         "run_date": "2026-07-22",
         "candidates_identified": 33,
@@ -991,9 +1047,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-02",
@@ -1019,9 +1075,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-detector-01",
@@ -1162,6 +1218,48 @@
           "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
           "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
+        },
+        {
+          "id": "EV-how-ai-detectors-work-01",
+          "claim": "The largest published benchmark of machine-generated-text detectors (RAID, ACL 2024: over 6 million generations spanning 11 generator models, 8 domains, 11 adversarial attacks, 4 decoding strategies; 8 open + 4 closed-source detectors evaluated) found current detectors are easily fooled by adversarial attacks, sampling-strategy variations, repetition penalties, and unseen generative models.",
+          "quote": "over 6 million generations spanning 11 models, 8 domains, 11 adversarial attacks and 4 decoding strategies... current detectors are easily fooled by adversarial attacks, variations in sampling strategies, repetition penalties, and unseen generative models",
+          "source_url": "https://aclanthology.org/2024.acl-long.674/",
+          "source_date": "2024-08 (ACL 2024 proceedings, Bangkok; preprint arXiv:2405.07940, May 2024)",
+          "platform": "peer-reviewed conference (ACL 2024; Dugan, Hwang, Trhlik, Zhu, Ludan, Xu, Ippolito, Callison-Burch)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-02",
+          "claim": "The largest academic multi-tool test of AI-text detectors in the education context (Weber-Wulff et al., International Journal for Educational Integrity, vol. 19 art. 26; 12 public tools plus Turnitin and PlagiarismCheck) found all 14 tools scored below 80% accuracy and only 5 above 70%; roughly 50% of AI texts that undergo obfuscation (paraphrase) get misattributed to humans; machine translation dropped accuracy by 20%; conclusion verbatim: the tools 'are neither accurate nor reliable'.",
+          "quote": "all scored below 80% of accuracy and only 5 over 70%... approximately 50% of AI-generated texts that undergo some obfuscation would likely be misattributed to humans... detection tools for AI-generated text do fail, they are neither accurate nor reliable",
+          "source_url": "https://link.springer.com/article/10.1007/s40979-023-00146-z",
+          "source_date": "2023 (journal article, DOI 10.1007/s40979-023-00146-z; article page fetched this run reported publication date 2023-06-23)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity, Springer; Weber-Wulff, Anohina-Naumeca, Bjelobaba et al.)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-03",
+          "claim": "OpenAI built and then withdrew its own AI-text classifier: launched 2023-01-31, it correctly identified only 26% of AI-written text while mislabeling human-written text as AI 9% of the time, and OpenAI discontinued it on 2023-07-20 citing 'its low rate of accuracy' — a primary-source datapoint that the maker of ChatGPT could not reliably detect its own model's output with a post-hoc classifier.",
+          "quote": "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy... our classifier correctly identifies 26% of AI-written text (true positives) as 'likely AI-written,' while incorrectly labeling human-written text as AI-written 9% of the time (false positives)",
+          "source_url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/",
+          "source_date": "2023-01-31 (page publish date; discontinuation note on the same page dated 2023-07-20)",
+          "platform": "vendor primary source (openai.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -1200,9 +1298,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -1336,7 +1434,7 @@
       "page": "/bypass-ai-detector",
       "url": "https://metegpt.com/bypass-ai-detector",
       "protocol_version": "MEP-1.0",
-      "published_entries": 8,
+      "published_entries": 9,
       "collection_sweep": {
         "run_date": "2026-07-26",
         "candidates_identified": 58,
@@ -1361,9 +1459,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1389,9 +1487,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-bypass-ai-detector-01",
@@ -1462,6 +1560,20 @@
           "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
           "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
+        },
+        {
+          "id": "EV-how-ai-detectors-work-10",
+          "claim": "A peer-reviewed-track study (Sadasivan, Kumar, Balasubramanian, Wang, Feizi — University of Maryland; published in TMLR; arXiv:2303.11156, v1 2023-03-17, v4 2025-01-17) showed a recursive paraphrasing attack significantly degrades every detector family it stress-tested — watermarking-based, neural-network classifiers, zero-shot detectors, and retrieval-based schemes — and presents a theoretical argument that as the distributions of human and LLM text converge, even the best possible detector's performance approaches chance level.",
+          "quote": "recursive paraphrasing attack to stress test a wide range of detection schemes, including the ones using the watermarking as well as neural network-based detectors",
+          "source_url": "https://arxiv.org/abs/2303.11156",
+          "source_date": "2023-03-17 (v1 submission; last revised 2025-01-17, v4; published in Transactions on Machine Learning Research)",
+          "platform": "academic (arXiv / Transactions on Machine Learning Research; University of Maryland)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -1469,7 +1581,7 @@
       "page": "/bypass-gptzero",
       "url": "https://metegpt.com/bypass-gptzero",
       "protocol_version": "MEP-1.0",
-      "published_entries": 9,
+      "published_entries": 10,
       "collection_sweep": {
         "run_date": "2026-08-03",
         "candidates_identified": 11,
@@ -1494,9 +1606,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-gpthuman-01",
@@ -1609,6 +1721,20 @@
           "re_verified_date": null,
           "re_verified_status": null,
           "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-05",
+          "claim": "GPTZero's own explainer defines the two classic statistical detection signals — perplexity (how likely a model would have chosen the exact same words) and burstiness (how much writing patterns and perplexity vary across a document) — AND discloses, dated, that GPTZero itself stopped using them as its core method: since autumn 2023 it runs a deep-learning architecture in which perplexity/burstiness survive only as one of seven indicators.",
+          "quote": "As of autumn 2023, GPTZero no longer uses perplexity and burstiness for its AI detection because we migrated to a deep-learning based architecture... A measure of how likely an AI model would have chosen the exact same set of words as found in the document",
+          "source_url": "https://gptzero.me/news/perplexity-and-burstiness-what-is-it/",
+          "source_date": "2023-03-01 (original publish; autumn-2023 architecture-migration note on the same page; verified live 2026-08-20)",
+          "platform": "vendor primary source (gptzero.me) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -1616,7 +1742,7 @@
       "page": "/bypass-turnitin",
       "url": "https://metegpt.com/bypass-turnitin",
       "protocol_version": "MEP-1.0",
-      "published_entries": 14,
+      "published_entries": 16,
       "collection_sweep": {
         "run_date": "2026-08-05",
         "candidates_identified": 15,
@@ -1641,9 +1767,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1697,9 +1823,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -1826,6 +1952,34 @@
           "re_verified_date": null,
           "re_verified_status": null,
           "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-07",
+          "claim": "Turnitin's own launch-era FAQ document (March 2023) describes its detection pipeline mechanically: submissions are broken into overlapping segments of roughly a few hundred words (about five to ten sentences); each sentence is scored 0 to 1 by the model; segment averages aggregate into the document percentage; the model was then trained to detect GPT-3/GPT-3.5 content; it flags only at 98% confidence, accepting that it will likely miss up to 15% of AI-written text to hold the stated false-positive rate under 1%; and in short documents 'the prediction will be mostly all or nothing' because there is only a single segment.",
+          "quote": "the submission is first broken into segments of text that are roughly a few hundred words (about five to ten sentences). Those segments are then overlapped with each other to capture each sentence in context... we give each sentence a score between 0 and 1",
+          "source_url": "https://cte.ku.edu/sites/cte/files/images/2023/AI%20Writing%20FAQs%20March%202023%20(1).pdf",
+          "source_date": "2023-03 (Turnitin-authored FAQ PDF distributed to institutions at launch; hosted by University of Kansas Center for Teaching Excellence)",
+          "platform": "vendor primary source (Turnitin-authored PDF, third-party-hosted at cte.ku.edu) -- self-interested; HISTORICAL SNAPSHOT (March 2023 launch era)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-08",
+          "claim": "Turnitin's current AI-detection FAQ states the detector's operating constraints: minimum 300 words of prose in long-form writing format, maximum 30,000 words; non-prose, code, and bullet points are excluded from analysis; the reported percentage means the share of QUALIFYING text likely AI-generated or AI-paraphrased, not the share of the whole submission; supported detection languages are long-form English, Spanish, and Japanese (AI-paraphrase detection English-only); and the stated tuning goal is a false-positive rate under 1% for documents with over 20% AI writing.",
+          "quote": "File must have at least 300 words of prose text in a long-form writing format... The amount of qualifying text within the submission that Turnitin's AI writing detection model determines was likely generated by AI or likely generated and modified by an AI paraphraser or bypasser",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin-s-AI-writing-detection-capabilities-FAQs",
+          "source_date": "undated (live help-center page; capture date 2026-08-20)",
+          "platform": "vendor primary source (guides.turnitin.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -1863,9 +2017,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -2083,7 +2237,7 @@
       "page": "/detect",
       "url": "https://metegpt.com/detect",
       "protocol_version": "MEP-1.0",
-      "published_entries": 12,
+      "published_entries": 13,
       "collection_sweep": {
         "run_date": "2026-07-07",
         "candidates_identified": 89,
@@ -2114,9 +2268,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-detect-01",
@@ -2271,6 +2425,20 @@
           "re_verified_date": "2026-08-17",
           "re_verified_status": "reconfirmed-live",
           "re_verified_note": "Attempted live re-fetch this run via the arXiv abstract page (arxiv.org/abs/2306.15666): the abstract re-confirms Turnitin and PlagiarismCheck were among the 14 tools tested ('12 publicly available tools and two commercial systems (Turnitin and PlagiarismCheck)') but the section-5 quantified ranges (false positives 0% Turnitin to 50% GPT Zero; false negatives 8% GPT Zero to 100% Content at Scale) live in the paper body, which exceeds the fetch size limit this run (same recurring limitation as the 2026-08-09, 2026-08-13, and 2026-08-15 runs). web.archive.org is fully blocked at the tool level this run (cannot be used as an alternate route). Record rests on its earlier verified capture for the ranges, disclosed. Extended to /turnitin-ai-checker as the strongest peer-reviewed, quantified source naming Turnitin's own measured false-positive rate (0%) alongside its cross-detector context, for the new 'is Turnitin's detector model-specific' section."
+        },
+        {
+          "id": "EV-how-ai-detectors-work-03",
+          "claim": "OpenAI built and then withdrew its own AI-text classifier: launched 2023-01-31, it correctly identified only 26% of AI-written text while mislabeling human-written text as AI 9% of the time, and OpenAI discontinued it on 2023-07-20 citing 'its low rate of accuracy' — a primary-source datapoint that the maker of ChatGPT could not reliably detect its own model's output with a post-hoc classifier.",
+          "quote": "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy... our classifier correctly identifies 26% of AI-written text (true positives) as 'likely AI-written,' while incorrectly labeling human-written text as AI-written 9% of the time (false positives)",
+          "source_url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/",
+          "source_date": "2023-01-31 (page publish date; discontinuation note on the same page dated 2023-07-20)",
+          "platform": "vendor primary source (openai.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -2460,9 +2628,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-10",
@@ -2474,9 +2642,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-detect-01",
@@ -2638,7 +2806,7 @@
       "page": "/gptzero-ai-detector",
       "url": "https://metegpt.com/gptzero-ai-detector",
       "protocol_version": "MEP-1.0",
-      "published_entries": 12,
+      "published_entries": 14,
       "collection_sweep": {
         "run_date": "2026-07-12",
         "candidates_identified": 131,
@@ -2670,9 +2838,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -2827,6 +2995,228 @@
           "re_verified_date": null,
           "re_verified_status": null,
           "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-05",
+          "claim": "GPTZero's own explainer defines the two classic statistical detection signals — perplexity (how likely a model would have chosen the exact same words) and burstiness (how much writing patterns and perplexity vary across a document) — AND discloses, dated, that GPTZero itself stopped using them as its core method: since autumn 2023 it runs a deep-learning architecture in which perplexity/burstiness survive only as one of seven indicators.",
+          "quote": "As of autumn 2023, GPTZero no longer uses perplexity and burstiness for its AI detection because we migrated to a deep-learning based architecture... A measure of how likely an AI model would have chosen the exact same set of words as found in the document",
+          "source_url": "https://gptzero.me/news/perplexity-and-burstiness-what-is-it/",
+          "source_date": "2023-03-01 (original publish; autumn-2023 architecture-migration note on the same page; verified live 2026-08-20)",
+          "platform": "vendor primary source (gptzero.me) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-06",
+          "claim": "GPTZero's own 'How AI detectors work' explainer (2024-10-14, named author) lists the technique families commercial detectors use — pattern recognition over word use/sentence structure/meaning, perplexity, burstiness, trained classifiers, and vector embeddings — and concedes on the record a limitation set: false results in both directions, English-centric training bias, weak short-text performance, probabilistic non-definitive outputs, and difficulty on mixed human-AI documents.",
+          "quote": "Classifiers place text into groups depending on the patterns they have learned... embeddings represent words or phrases as vectors... The higher the perplexity, the more 'surprised' the detector is by the text",
+          "source_url": "https://gptzero.me/news/how-ai-detectors-work/",
+          "source_date": "2024-10-14",
+          "platform": "vendor primary source (gptzero.me; author Adele Barlow) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        }
+      ]
+    },
+    {
+      "page": "/how-ai-detectors-work",
+      "url": "https://metegpt.com/how-ai-detectors-work",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 12,
+      "collection_sweep": {
+        "run_date": "2026-08-20",
+        "candidates_identified": 84,
+        "screened": 84,
+        "excluded": null,
+        "excluded_by_reason": {
+          "duplicate": 33,
+          "off-topic": 18,
+          "no-methodology-affiliate": 22,
+          "unverifiable-this-run": 1
+        },
+        "included_this_run": 10,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-20",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+        },
+        {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-08-20",
+          "re_verified_status": "relied-on-earlier-capture",
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+        },
+        {
+          "id": "EV-how-ai-detectors-work-01",
+          "claim": "The largest published benchmark of machine-generated-text detectors (RAID, ACL 2024: over 6 million generations spanning 11 generator models, 8 domains, 11 adversarial attacks, 4 decoding strategies; 8 open + 4 closed-source detectors evaluated) found current detectors are easily fooled by adversarial attacks, sampling-strategy variations, repetition penalties, and unseen generative models.",
+          "quote": "over 6 million generations spanning 11 models, 8 domains, 11 adversarial attacks and 4 decoding strategies... current detectors are easily fooled by adversarial attacks, variations in sampling strategies, repetition penalties, and unseen generative models",
+          "source_url": "https://aclanthology.org/2024.acl-long.674/",
+          "source_date": "2024-08 (ACL 2024 proceedings, Bangkok; preprint arXiv:2405.07940, May 2024)",
+          "platform": "peer-reviewed conference (ACL 2024; Dugan, Hwang, Trhlik, Zhu, Ludan, Xu, Ippolito, Callison-Burch)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-02",
+          "claim": "The largest academic multi-tool test of AI-text detectors in the education context (Weber-Wulff et al., International Journal for Educational Integrity, vol. 19 art. 26; 12 public tools plus Turnitin and PlagiarismCheck) found all 14 tools scored below 80% accuracy and only 5 above 70%; roughly 50% of AI texts that undergo obfuscation (paraphrase) get misattributed to humans; machine translation dropped accuracy by 20%; conclusion verbatim: the tools 'are neither accurate nor reliable'.",
+          "quote": "all scored below 80% of accuracy and only 5 over 70%... approximately 50% of AI-generated texts that undergo some obfuscation would likely be misattributed to humans... detection tools for AI-generated text do fail, they are neither accurate nor reliable",
+          "source_url": "https://link.springer.com/article/10.1007/s40979-023-00146-z",
+          "source_date": "2023 (journal article, DOI 10.1007/s40979-023-00146-z; article page fetched this run reported publication date 2023-06-23)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity, Springer; Weber-Wulff, Anohina-Naumeca, Bjelobaba et al.)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-03",
+          "claim": "OpenAI built and then withdrew its own AI-text classifier: launched 2023-01-31, it correctly identified only 26% of AI-written text while mislabeling human-written text as AI 9% of the time, and OpenAI discontinued it on 2023-07-20 citing 'its low rate of accuracy' — a primary-source datapoint that the maker of ChatGPT could not reliably detect its own model's output with a post-hoc classifier.",
+          "quote": "As of July 20, 2023, the AI classifier is no longer available due to its low rate of accuracy... our classifier correctly identifies 26% of AI-written text (true positives) as 'likely AI-written,' while incorrectly labeling human-written text as AI-written 9% of the time (false positives)",
+          "source_url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text/",
+          "source_date": "2023-01-31 (page publish date; discontinuation note on the same page dated 2023-07-20)",
+          "platform": "vendor primary source (openai.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-04",
+          "claim": "Watermark-based detection is a mechanically different class from post-hoc classifiers: Google DeepMind's SynthID-Text (Nature, 2024-10-23) embeds a statistical signature by modifying the next-token sampling procedure at generation time; detection then needs no access to the underlying LLM; it was evaluated live on approximately 20 million Gemini production responses with no significant quality difference. By construction it is a generation-time scheme — it identifies text produced with the watermark enabled, unlike classifiers that score arbitrary text after the fact.",
+          "quote": "carefully modifying the next-token sampling procedure to inject subtle, context-specific modifications into the generated text distribution... the detection process does not require performing computationally expensive operations or even access to the underlying LLM (which is often proprietary)",
+          "source_url": "https://www.nature.com/articles/s41586-024-08025-4",
+          "source_date": "2024-10-23",
+          "platform": "peer-reviewed journal (Nature, DOI 10.1038/s41586-024-08025-4; Dathathri, See, Ghaisas, Huang et al., Google DeepMind -- vendor-affiliated authors, label self-interested for deployment/quality claims)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-05",
+          "claim": "GPTZero's own explainer defines the two classic statistical detection signals — perplexity (how likely a model would have chosen the exact same words) and burstiness (how much writing patterns and perplexity vary across a document) — AND discloses, dated, that GPTZero itself stopped using them as its core method: since autumn 2023 it runs a deep-learning architecture in which perplexity/burstiness survive only as one of seven indicators.",
+          "quote": "As of autumn 2023, GPTZero no longer uses perplexity and burstiness for its AI detection because we migrated to a deep-learning based architecture... A measure of how likely an AI model would have chosen the exact same set of words as found in the document",
+          "source_url": "https://gptzero.me/news/perplexity-and-burstiness-what-is-it/",
+          "source_date": "2023-03-01 (original publish; autumn-2023 architecture-migration note on the same page; verified live 2026-08-20)",
+          "platform": "vendor primary source (gptzero.me) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-06",
+          "claim": "GPTZero's own 'How AI detectors work' explainer (2024-10-14, named author) lists the technique families commercial detectors use — pattern recognition over word use/sentence structure/meaning, perplexity, burstiness, trained classifiers, and vector embeddings — and concedes on the record a limitation set: false results in both directions, English-centric training bias, weak short-text performance, probabilistic non-definitive outputs, and difficulty on mixed human-AI documents.",
+          "quote": "Classifiers place text into groups depending on the patterns they have learned... embeddings represent words or phrases as vectors... The higher the perplexity, the more 'surprised' the detector is by the text",
+          "source_url": "https://gptzero.me/news/how-ai-detectors-work/",
+          "source_date": "2024-10-14",
+          "platform": "vendor primary source (gptzero.me; author Adele Barlow) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-07",
+          "claim": "Turnitin's own launch-era FAQ document (March 2023) describes its detection pipeline mechanically: submissions are broken into overlapping segments of roughly a few hundred words (about five to ten sentences); each sentence is scored 0 to 1 by the model; segment averages aggregate into the document percentage; the model was then trained to detect GPT-3/GPT-3.5 content; it flags only at 98% confidence, accepting that it will likely miss up to 15% of AI-written text to hold the stated false-positive rate under 1%; and in short documents 'the prediction will be mostly all or nothing' because there is only a single segment.",
+          "quote": "the submission is first broken into segments of text that are roughly a few hundred words (about five to ten sentences). Those segments are then overlapped with each other to capture each sentence in context... we give each sentence a score between 0 and 1",
+          "source_url": "https://cte.ku.edu/sites/cte/files/images/2023/AI%20Writing%20FAQs%20March%202023%20(1).pdf",
+          "source_date": "2023-03 (Turnitin-authored FAQ PDF distributed to institutions at launch; hosted by University of Kansas Center for Teaching Excellence)",
+          "platform": "vendor primary source (Turnitin-authored PDF, third-party-hosted at cte.ku.edu) -- self-interested; HISTORICAL SNAPSHOT (March 2023 launch era)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-08",
+          "claim": "Turnitin's current AI-detection FAQ states the detector's operating constraints: minimum 300 words of prose in long-form writing format, maximum 30,000 words; non-prose, code, and bullet points are excluded from analysis; the reported percentage means the share of QUALIFYING text likely AI-generated or AI-paraphrased, not the share of the whole submission; supported detection languages are long-form English, Spanish, and Japanese (AI-paraphrase detection English-only); and the stated tuning goal is a false-positive rate under 1% for documents with over 20% AI writing.",
+          "quote": "File must have at least 300 words of prose text in a long-form writing format... The amount of qualifying text within the submission that Turnitin's AI writing detection model determines was likely generated by AI or likely generated and modified by an AI paraphraser or bypasser",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin-s-AI-writing-detection-capabilities-FAQs",
+          "source_date": "undated (live help-center page; capture date 2026-08-20)",
+          "platform": "vendor primary source (guides.turnitin.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-09",
+          "claim": "Originality.ai's own technical explainer (author Jonathan Gillham, updated 2025-10-18) describes its detector as a trained transformer classifier: a modified-BERT lineage with an ELECTRA-style generator/discriminator pre-training scheme over 160GB of text, fine-tuned on roughly one million samples labeled human-generated or AI-generated, outputting a probability that is thresholded into the verdict; the vendor's own stated weak point is short text, with acceptable reliability only at 50+ tokens.",
+          "quote": "The model is trained on a million pieces of textual data labeled 'human-generated' or 'AI-generated'... If the probability result of the AI-generated input sentence exceeds that threshold, the output is fake",
+          "source_url": "https://originality.ai/blog/how-does-ai-content-detection-work",
+          "source_date": "2025-10-18 (page's stated update date; author Jonathan Gillham)",
+          "platform": "vendor primary source (originality.ai blog) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-10",
+          "claim": "A peer-reviewed-track study (Sadasivan, Kumar, Balasubramanian, Wang, Feizi — University of Maryland; published in TMLR; arXiv:2303.11156, v1 2023-03-17, v4 2025-01-17) showed a recursive paraphrasing attack significantly degrades every detector family it stress-tested — watermarking-based, neural-network classifiers, zero-shot detectors, and retrieval-based schemes — and presents a theoretical argument that as the distributions of human and LLM text converge, even the best possible detector's performance approaches chance level.",
+          "quote": "recursive paraphrasing attack to stress test a wide range of detection schemes, including the ones using the watermarking as well as neural network-based detectors",
+          "source_url": "https://arxiv.org/abs/2303.11156",
+          "source_date": "2023-03-17 (v1 submission; last revised 2025-01-17, v4; published in Transactions on Machine Learning Research)",
+          "platform": "academic (arXiv / Transactions on Machine Learning Research; University of Maryland)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -2861,9 +3251,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2944,9 +3334,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         }
       ]
     },
@@ -2954,7 +3344,7 @@
       "page": "/originality-ai-detector",
       "url": "https://metegpt.com/originality-ai-detector",
       "protocol_version": "MEP-1.0",
-      "published_entries": 13,
+      "published_entries": 14,
       "collection_sweep": {
         "run_date": "2026-07-16",
         "candidates_identified": 55,
@@ -2985,9 +3375,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-detect-03",
@@ -3156,6 +3546,20 @@
           "re_verified_date": null,
           "re_verified_status": null,
           "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-09",
+          "claim": "Originality.ai's own technical explainer (author Jonathan Gillham, updated 2025-10-18) describes its detector as a trained transformer classifier: a modified-BERT lineage with an ELECTRA-style generator/discriminator pre-training scheme over 160GB of text, fine-tuned on roughly one million samples labeled human-generated or AI-generated, outputting a probability that is thresholded into the verdict; the vendor's own stated weak point is short text, with acceptable reliability only at 50+ tokens.",
+          "quote": "The model is trained on a million pieces of textual data labeled 'human-generated' or 'AI-generated'... If the probability result of the AI-generated input sentence exceeds that threshold, the output is fake",
+          "source_url": "https://originality.ai/blog/how-does-ai-content-detection-work",
+          "source_date": "2025-10-18 (page's stated update date; author Jonathan Gillham)",
+          "platform": "vendor primary source (originality.ai blog) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -3193,9 +3597,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-01",
@@ -3487,9 +3891,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -3694,9 +4098,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-10",
@@ -3708,9 +4112,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-scribbr-07",
@@ -3736,9 +4140,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-08-08",
+          "re_verified_date": "2026-08-28",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-confirmed for the /quillbot-ai-detector MEP census via curl fetch of the same Wayback Machine snapshot (20250811203512) this run; '78%' QuillBot-free-detector-tie quote and 30-text/six-category methodology description unchanged. This is the page's reused evidence for the independently-measured QuillBot-detector-accuracy leg (distinct from the RAID-audit spine). Per the /vs/quillbot-humanizer L471-481 mitigation, that page's paragraph citing this figure is trimmed with a pointer to this page; this page carries the depth."
+          "re_verified_note": "Re-confirmed live via r.jina.ai proxy fetch of scribbr.com/ai-tools/best-ai-detector/ this run: the 84% Premium / 78% free Scribbr figures are unchanged. The live page now shows a precise datePublished of 2026-04-22 and dateModified of 2026-07-21 (more precise than the 2025-08-11 Wayback snapshot date originally cited, and matching EV-best-ai-detector-01's dateline for the same page). Ranking context reconfirmed: Scribbr free tied with QuillBot free at 78%, both ahead of Originality.AI (76%) and Sapling (68%) in the same table."
         },
         {
           "id": "EV-ai-paragraph-rewriter-01",
@@ -3999,9 +4403,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -4163,7 +4567,7 @@
       "page": "/scribbr-ai-detector",
       "url": "https://metegpt.com/scribbr-ai-detector",
       "protocol_version": "MEP-1.0",
-      "published_entries": 13,
+      "published_entries": 18,
       "collection_sweep": {
         "run_date": "2026-07-07",
         "candidates_identified": 28,
@@ -4193,9 +4597,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-scribbr-01",
@@ -4206,10 +4610,10 @@
           "platform": "vendor primary source (scribbr.com, via Wayback Machine snapshot -- scribbr.com returns HTTP 403 to direct fetch)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-08-28",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-confirmed live via r.jina.ai proxy fetch of scribbr.com/ai-detector/ this run: the 1,200-word free-submission limit, unlimited checks, and no-signup terms are unchanged from the 2026-06-30 Wayback snapshot originally cited. Still current as of this refresh."
         },
         {
           "id": "EV-scribbr-02",
@@ -4234,10 +4638,10 @@
           "platform": "vendor primary source (scribbr.com, via Wayback Machine snapshot)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-08-28",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-confirmed live via r.jina.ai proxy fetch of scribbr.com/plagiarism-checker/ this run: the exact 'powered by Scribbr's proprietary software ... capable of detecting texts generated by ChatGPT, Perplexity and other generative AI tools with high accuracy' sentence is unchanged from the 2026-06-03 snapshot originally cited."
         },
         {
           "id": "EV-scribbr-04",
@@ -4305,9 +4709,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-08-08",
+          "re_verified_date": "2026-08-28",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-confirmed for the /quillbot-ai-detector MEP census via curl fetch of the same Wayback Machine snapshot (20250811203512) this run; '78%' QuillBot-free-detector-tie quote and 30-text/six-category methodology description unchanged. This is the page's reused evidence for the independently-measured QuillBot-detector-accuracy leg (distinct from the RAID-audit spine). Per the /vs/quillbot-humanizer L471-481 mitigation, that page's paragraph citing this figure is trimmed with a pointer to this page; this page carries the depth."
+          "re_verified_note": "Re-confirmed live via r.jina.ai proxy fetch of scribbr.com/ai-tools/best-ai-detector/ this run: the 84% Premium / 78% free Scribbr figures are unchanged. The live page now shows a precise datePublished of 2026-04-22 and dateModified of 2026-07-21 (more precise than the 2025-08-11 Wayback snapshot date originally cited, and matching EV-best-ai-detector-01's dateline for the same page). Ranking context reconfirmed: Scribbr free tied with QuillBot free at 78%, both ahead of Originality.AI (76%) and Sapling (68%) in the same table."
         },
         {
           "id": "EV-scribbr-09",
@@ -4360,6 +4764,76 @@
           "platform": "vendor primary (scribbr.com pricing UI, via dated Wayback snapshot — live site blocks automated fetch)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
+          "re_verified": true,
+          "re_verified_date": "2026-08-28",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-confirmed live via r.jina.ai proxy fetch of scribbr.com/plagiarism-checker/ this run: the $19.95 / $29.95 / $39.95 per-check pricing bands are unchanged."
+        },
+        {
+          "id": "EV-scribbr-13",
+          "claim": "A dated, disclosed-methodology third-party test with no apparent competing product to sell submitted a defined 20-sample set through Scribbr's AI detector (10 AI-generated, split between GPT-4o and Claude Sonnet 4.6 output, and 10 human-written) and found Scribbr correctly flagged 7 of the 10 AI-generated samples (70%) and incorrectly flagged 2 of the 10 human-written samples (20%) as AI -- a defined-sample, denominator-carrying count from a single test run, not a population estimate.",
+          "quote": "AI-generated correctly flagged: 7 out of 10 (70%) ... Human-written incorrectly flagged: 2 out of 10 (20%)",
+          "source_url": "https://autogpt.net/is-the-scribbr-ai-detector-good/",
+          "source_date": "2026-08-24 (page shows 'Updated: August 24, 2026')",
+          "platform": "independent AI-tools review site (autogpt.net; byline 'Written by: Onome'; no evidence found this run that the site sells a competing AI detector, humanizer, or bypass product of its own)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-28",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-scribbr-14",
+          "claim": "A dated, self-interested third-party test (the publisher sells its own free AI detector and a paid tutoring service) ran 5 short passages through Scribbr's AI detector -- three fully AI-written, one mixed AI-and-human, one fully human-written -- and reported five individual scores rather than an aggregate rate; the source's own text cautions the sample is too small to establish a general accuracy figure.",
+          "quote": "Test 1: Fully AI-written... 100% AI. Test 2: Fully AI-written... 69% AI. Test 3: Fully AI-written... 21% AI. Test 4: Mixed AI and human writing... 45% AI. Test 5: Fully human-written... 0% AI.",
+          "source_url": "https://skylineacademic.com/blog/is-scribbr-ai-detector-accurate/",
+          "source_date": "2026-07-17",
+          "platform": "competing-product content site (skylineacademic.com; byline 'Skylineacademic Team'; the same article promotes the site's own free AI detector and its paid 1:1 tutoring service)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-28",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-scribbr-15",
+          "claim": "Scribbr's own live FAQ page (checked 2026-08-28) directly names the AI tools its detector targets, stating the free detector reads GPT2/GPT3/GPT3.5 output and the Premium detector adds GPT4, and separately claims the tool 'confidently' detects ChatGPT, Gemini, and Copilot output. The same page states its own best-found accuracy figures as 84% for a premium tool and 68% for 'the best free tool' -- a figure that does not match Scribbr's own comparison page, which states 78% for Scribbr's free detector specifically (EV-scribbr-08), a third internal inconsistency in Scribbr's published numbers on top of the two already on record.",
+          "quote": "Scribbr's AI Detector can confidently detect most English texts generated by popular tools like ChatGPT, Gemini, and Copilot. Our free AI Detector can detect texts written using GPT2, GPT3, and GPT3.5 with average accuracy, while our Premium AI Detector has high accuracy and the ability to detect GPT4 ... the highest accuracy we found was 84% in a premium tool or 68% in the best free tool.",
+          "source_url": "https://www.scribbr.com/frequently-asked-questions/which-gpt-versions-does-the-ai-detector-detect/",
+          "source_date": "live-fetched 2026-08-28 (no publish/revision date visible on the page itself)",
+          "platform": "vendor primary source (scribbr.com; direct fetch returns HTTP 403, retrieved via r.jina.ai reader proxy this run, the same workaround used for EV-scribbr-01 through EV-scribbr-05)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-28",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-scribbr-16",
+          "claim": "Pangram Labs' own dated benchmark (a competing AI-detector vendor, self-interested) tested 30 AI-detection tools against 9 AI-generated samples (3 each from ChatGPT-4o, Gemini 2.0, and Claude 3.7 Sonnet) and 3 human-written samples, using a 75%-AI-or-higher pass threshold for AI text and a 25%-AI-or-lower threshold for human text. Scribbr's detector passed 4 of the 9 AI-generated samples (44%) overall, broken down as 1 of 3 ChatGPT-4o samples, 0 of 3 Claude 3.7 Sonnet samples, and passing on the Gemini 2.0 samples, while correctly clearing all 3 human-written samples (0 false positives in this small sample).",
+          "quote": "AI Generated Text Pass Rate - 4/9 (44%) / Human Written Text Pass Rate - 3/3 (100%) ... passed tests from Gemini generated writing but fell down on ChatGPT (passed 1/3) and Claude generated writing (passed 0/3)",
+          "source_url": "https://www.pangram.com/blog/best-ai-detector-tools",
+          "source_date": "2026-01-07",
+          "platform": "competing detector vendor blog (pangram.com; author Max Spero, CEO/co-founder of Pangram Labs; Pangram Labs ranks its own tool first in the same 30-tool comparison at 9/9 AI-pass and 3/3 human-pass, and the article states 'We are confident that we are the most accurate and the best AI detection tool available' -- disclosed self-interest, not a neutral third party)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-28",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-scribbr-17",
+          "claim": "An independent blogger's dated test (article contains affiliate links to multiple detector tools) ran 3 AI-generated and 3 human-written texts through 10 free AI detectors including Scribbr, and reported Scribbr correctly identified all 3 human-written texts as human and all 3 AI-generated texts as AI, including a version of the AI text with intentional typos inserted; the same source notes Scribbr does not work on texts shorter than 80 words.",
+          "quote": "3/3 correctly identified as human-written ... 3/3 correctly identified as AI-generated ... it doesn't work with texts shorter than 80 words",
+          "source_url": "https://dev.to/artturijalli/i-tried-10-free-ai-detectors-heres-my-verdict-8k0",
+          "source_date": "2025-03-24",
+          "platform": "independent blog (dev.to; author Artturi Jalli; article contains affiliate links to multiple AI-detector products, a lighter conflict of interest than a vendor reviewing its own product, but disclosed here)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-28",
           "re_verified": false,
           "re_verified_date": null,
           "re_verified_status": null,
@@ -4371,7 +4845,7 @@
       "page": "/turnitin-ai-checker",
       "url": "https://metegpt.com/turnitin-ai-checker",
       "protocol_version": "MEP-1.0",
-      "published_entries": 22,
+      "published_entries": 25,
       "collection_sweep": {
         "run_date": "2026-07-07",
         "candidates_identified": 34,
@@ -4402,9 +4876,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -4542,9 +5016,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-11",
@@ -4695,6 +5169,48 @@
           "platform": "Turnitin company guides/help-center (vendor primary source; self-interested)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-17",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-02",
+          "claim": "The largest academic multi-tool test of AI-text detectors in the education context (Weber-Wulff et al., International Journal for Educational Integrity, vol. 19 art. 26; 12 public tools plus Turnitin and PlagiarismCheck) found all 14 tools scored below 80% accuracy and only 5 above 70%; roughly 50% of AI texts that undergo obfuscation (paraphrase) get misattributed to humans; machine translation dropped accuracy by 20%; conclusion verbatim: the tools 'are neither accurate nor reliable'.",
+          "quote": "all scored below 80% of accuracy and only 5 over 70%... approximately 50% of AI-generated texts that undergo some obfuscation would likely be misattributed to humans... detection tools for AI-generated text do fail, they are neither accurate nor reliable",
+          "source_url": "https://link.springer.com/article/10.1007/s40979-023-00146-z",
+          "source_date": "2023 (journal article, DOI 10.1007/s40979-023-00146-z; article page fetched this run reported publication date 2023-06-23)",
+          "platform": "peer-reviewed journal (International Journal for Educational Integrity, Springer; Weber-Wulff, Anohina-Naumeca, Bjelobaba et al.)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-07",
+          "claim": "Turnitin's own launch-era FAQ document (March 2023) describes its detection pipeline mechanically: submissions are broken into overlapping segments of roughly a few hundred words (about five to ten sentences); each sentence is scored 0 to 1 by the model; segment averages aggregate into the document percentage; the model was then trained to detect GPT-3/GPT-3.5 content; it flags only at 98% confidence, accepting that it will likely miss up to 15% of AI-written text to hold the stated false-positive rate under 1%; and in short documents 'the prediction will be mostly all or nothing' because there is only a single segment.",
+          "quote": "the submission is first broken into segments of text that are roughly a few hundred words (about five to ten sentences). Those segments are then overlapped with each other to capture each sentence in context... we give each sentence a score between 0 and 1",
+          "source_url": "https://cte.ku.edu/sites/cte/files/images/2023/AI%20Writing%20FAQs%20March%202023%20(1).pdf",
+          "source_date": "2023-03 (Turnitin-authored FAQ PDF distributed to institutions at launch; hosted by University of Kansas Center for Teaching Excellence)",
+          "platform": "vendor primary source (Turnitin-authored PDF, third-party-hosted at cte.ku.edu) -- self-interested; HISTORICAL SNAPSHOT (March 2023 launch era)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-ai-detectors-work-08",
+          "claim": "Turnitin's current AI-detection FAQ states the detector's operating constraints: minimum 300 words of prose in long-form writing format, maximum 30,000 words; non-prose, code, and bullet points are excluded from analysis; the reported percentage means the share of QUALIFYING text likely AI-generated or AI-paraphrased, not the share of the whole submission; supported detection languages are long-form English, Spanish, and Japanese (AI-paraphrase detection English-only); and the stated tuning goal is a false-positive rate under 1% for documents with over 20% AI writing.",
+          "quote": "File must have at least 300 words of prose text in a long-form writing format... The amount of qualifying text within the submission that Turnitin's AI writing detection model determines was likely generated by AI or likely generated and modified by an AI paraphraser or bypasser",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin-s-AI-writing-detection-capabilities-FAQs",
+          "source_date": "undated (live help-center page; capture date 2026-08-20)",
+          "platform": "vendor primary source (guides.turnitin.com) -- self-interested",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-20",
           "re_verified": false,
           "re_verified_date": null,
           "re_verified_status": null,
@@ -4888,9 +5404,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-gpthuman-01",
@@ -5240,9 +5756,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -5296,9 +5812,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-scribbr-06",
@@ -5338,9 +5854,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
           "re_verified": true,
-          "re_verified_date": "2026-08-08",
+          "re_verified_date": "2026-08-28",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-confirmed for the /quillbot-ai-detector MEP census via curl fetch of the same Wayback Machine snapshot (20250811203512) this run; '78%' QuillBot-free-detector-tie quote and 30-text/six-category methodology description unchanged. This is the page's reused evidence for the independently-measured QuillBot-detector-accuracy leg (distinct from the RAID-audit spine). Per the /vs/quillbot-humanizer L471-481 mitigation, that page's paragraph citing this figure is trimmed with a pointer to this page; this page carries the depth."
+          "re_verified_note": "Re-confirmed live via r.jina.ai proxy fetch of scribbr.com/ai-tools/best-ai-detector/ this run: the 84% Premium / 78% free Scribbr figures are unchanged. The live page now shows a precise datePublished of 2026-04-22 and dateModified of 2026-07-21 (more precise than the 2025-08-11 Wayback snapshot date originally cited, and matching EV-best-ai-detector-01's dateline for the same page). Ranking context reconfirmed: Scribbr free tied with QuillBot free at 78%, both ahead of Originality.AI (76%) and Sapling (68%) in the same table."
         },
         {
           "id": "EV-quillbot-01",
@@ -6349,9 +6865,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-turnitin-10",
@@ -6363,9 +6879,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN via r.jina.ai reader proxy of helpcenter.turnitin.com/hc/en-us/articles/46245332050317 (direct fetch 403, the documented Turnitin-domain block). Quote 'To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range... An asterisk symbol (*%) is displayed' re-confirmed. Extended to /good-ai-score as the page's ONLY Turnitin band: the under-20% bound, presented as Turnitin's own reporting mechanism (no numeric score attributed below 20%), never a precise figure, always paired with 'the institution sets the threshold, there is no universal safe number.'"
+          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-writer-ai-detector-01",
@@ -6669,9 +7185,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-15",
+          "re_verified_date": "2026-08-20",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "RE-VERIFIED LIVE THIS RUN (pmc.ncbi.nlm.nih.gov/articles/PMC10382961/, HTTP 200). The 61.3% average TOEFL false-positive quote and DOI 10.1016/j.patter.2023.100779 re-read verbatim; the paper's anonymization of its seven tested detectors re-confirmed. Extended to /good-ai-score strictly as the ESL/non-native-English false-positive science that routes reader (a) OUT (a score is a probability, not proof) -- never presented as a single-named-detector result. Written independently of the humanizemy sibling (inter-site dedup)."
+          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
