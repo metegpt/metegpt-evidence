@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-08-28",
+    "generated": "2026-09-07",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 324,
-    "page_appearances": 458,
-    "page_count": 35,
+    "unique_sources": 328,
+    "page_appearances": 462,
+    "page_count": 36,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -3310,6 +3310,88 @@
           "re_verified_date": "2026-07-18",
           "re_verified_status": "reconfirmed-live",
           "re_verified_note": "Re-confirmed for the /humanize-ai-text MEP census specifically: re-fetched grammarly.com/ai-humanizer live this run; the FAQ quote ('This tool is not intended to bypass AI detectors. Instead, it enhances clarity and coherence...') is unchanged. Used as light competitor-precedent color for this page's honest no-bypass framing (NOT a review of Grammarly -- this is a how-to guide, not a /vs page). applies_to extended to include /humanize-ai-text."
+        }
+      ]
+    },
+    {
+      "page": "/make-chatgpt-sound-human",
+      "url": "https://metegpt.com/make-chatgpt-sound-human",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 4,
+      "collection_sweep": {
+        "run_date": "2026-09-07",
+        "candidates_identified": 40,
+        "screened": 40,
+        "excluded": 37,
+        "excluded_by_reason": {
+          "no-methodology-affiliate": 20,
+          "off-topic": 8,
+          "unverifiable-this-run": 7,
+          "duplicate": 2
+        },
+        "included_this_run": 3,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-make-chatgpt-sound-human-01",
+          "claim": "A peer-reviewed ACL 2025 study (UMass Amherst; Russell, Karpinska, Iyyer) found that human annotators who frequently use LLMs for writing detect AI-generated text more accurately than most commercial and open-source automatic detectors -- including when the text has been paraphrased or run through humanization techniques -- with a majority vote of five such annotators misclassifying only 1 of 300 articles.",
+          "quote": "the majority vote among five such \"expert\" annotators misclassifies only 1 of 300 articles, significantly outperforming most commercial and open-source detectors we evaluated even in the presence of evasion tactics like paraphrasing and humanization.",
+          "source_url": "https://arxiv.org/abs/2501.15654",
+          "source_date": "2025-01-26 (v1 submission; ACL 2025 long paper, revised 2025-05-19)",
+          "platform": "peer-reviewed academic (ACL 2025 long paper / arXiv; Russell, Karpinska, Iyyer, UMass Amherst)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-07",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-make-chatgpt-sound-human-02",
+          "claim": "A dated academic preprint (Aug 2026; Karr, Khvatskii, Hua, Chawla, University of Notre Dame) testing a commercial AI detector against published academic abstracts found light manual 'refine abstract only' AI-editing (a proxy for guideline-compliant human editing of AI-assisted text) was flagged 38-80% of the time -- HIGHER than fully unmodified 2023-2025 originals, flagged 9-15% of the time -- while text additionally run through a named commercial humanizer tool (Undetectable AI) evaded detection almost completely (under 4% flagged, false-negative rate over 96%).",
+          "quote": "Light \"refine abstract only\" edits, a proxy for guideline-compliant AI assistance, are flagged at 38 to 80%. Unmodified 2023 to 2025 originals are flagged at 9 to 15%... After Undetectable AI humanization, evasion is near-total: fewer than 4% of AI-labeled rewrites remain flagged.",
+          "source_url": "https://arxiv.org/abs/2608.11256",
+          "source_date": "2026-08-06",
+          "platform": "academic preprint (arXiv, not yet peer-reviewed; Karr Jr., Khvatskii, Hua, Chawla, University of Notre Dame)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-07",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-make-chatgpt-sound-human-03",
+          "claim": "A dated academic preprint (June 2026) on test-time adaptation for AI-text detectors found a leading commercial detector (Pangram) caught only 24.1% of the authors' adversarially-humanized AI-generated test text, versus 90.5% for the authors' own proposed adaptation method -- documented evidence that a detector's catch rate on actively-evasive/humanized text can run far below its rate on unmodified AI text, and that detector researchers are actively building countermeasures rather than treating today's evasion techniques as permanent.",
+          "quote": "the commercial model Pangram detects just 24.1% of our adversarial AI-generated text, compared to 90.5% for our test-time approach.",
+          "source_url": "https://arxiv.org/abs/2606.25152",
+          "source_date": "2026-06-23",
+          "platform": "academic preprint (arXiv, not yet peer-reviewed)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-07",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-make-chatgpt-sound-human-04",
+          "claim": "META-OBSERVATION: a documented census sweep of the 'prompt to make ChatGPT sound human' / 'chatgpt prompts to avoid AI detection' query space found roughly half of identified results (20 of 40 candidate URLs logged this run) were content-marketing pages from AI-humanizer or detector-bypass tool vendors promoting their own product, with no disclosed test methodology -- rather than independent, methodology-disclosed evidence. Two representative examples verified live this run: a blog promoting 'Undetectable AI' via undisclosed affiliate links ran an informally-described 3-test comparison with no stated sample or control beyond what is shown; a second site promotes its own humanizer product with an undated, methodology-free claim to drop a Turnitin score to a near-zero percentage.",
+          "quote": "So, should you use prompt engineering or Undetectable AI? Well, it depends... tools like Undetectable AI can be incredibly effective at bypassing detection [goldpenguin.org, affiliate-linked]. / Drop Turnitin AI Score To *% Or Even 0% [turnitin0.com, own product]",
+          "source_url": "https://goldpenguin.org/blog/do-chatgpt-prompts-aimed-at-avoiding-ai-detection-work/",
+          "source_date": "capture 2026-09-07 (goldpenguin.org page states original publish 2025-01-07, updated 2026-06-17; turnitin0.com page carries no visible publish/update date)",
+          "platform": "content-marketing/affiliate blogs (pattern observed across multiple domains in this run's census)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-07",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
