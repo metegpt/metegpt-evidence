@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-09-07",
+    "generated": "2026-09-11",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 328,
-    "page_appearances": 462,
-    "page_count": 36,
+    "unique_sources": 333,
+    "page_appearances": 473,
+    "page_count": 37,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -76,9 +76,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -410,9 +410,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -669,9 +669,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-01",
@@ -928,9 +928,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -1047,9 +1047,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-02",
@@ -1298,9 +1298,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-best-ai-humanizer-02",
@@ -1459,9 +1459,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -1606,9 +1606,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-gpthuman-01",
@@ -1767,9 +1767,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -2017,9 +2017,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-copyleaks-ai-detector-01",
@@ -2268,9 +2268,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-detect-01",
@@ -2628,9 +2628,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -2781,10 +2781,10 @@
           "platform": "university teaching-center guidance (Carnegie Mellon University Eberly Center for Teaching Excellence) -- institutional third party, not a detector vendor",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-15",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched cmu.edu/teaching/technology/aitools/academicintegrity/index.html live this run for the /is-ai-writing-plagiarism MEP census; the 'expectations for plagiarism, cheating, and acceptable assistance... may vary across your courses and instructors' quote re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the core 'institutional policies differ' evidence, paired with EV-good-ai-score-02 (Missouri) and the new EV-is-ai-writing-plagiarism-03 (Touro, prohibitive) and -04 (MLA, disclosure mechanism)."
         },
         {
           "id": "EV-good-ai-score-02",
@@ -2795,10 +2795,10 @@
           "platform": "university academic-integrity office (University of Missouri Office of Academic Integrity) -- institutional third party, not a detector vendor",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-15",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/ live this run for the /is-ai-writing-plagiarism MEP census; both the permitted-use and unauthorized-use sentences re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the core institutional source for the page's central distinction: authorized/disclosed AI use is not a violation, undisclosed/unauthorized use is -- framed by Missouri as a violation of academic integrity rules generally, not specifically labeled 'plagiarism' (contrast with Touro, EV-is-ai-writing-plagiarism-03, which does label it plagiarism)."
         }
       ]
     },
@@ -2838,9 +2838,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -3060,9 +3060,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -3251,9 +3251,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -3310,6 +3310,185 @@
           "re_verified_date": "2026-07-18",
           "re_verified_status": "reconfirmed-live",
           "re_verified_note": "Re-confirmed for the /humanize-ai-text MEP census specifically: re-fetched grammarly.com/ai-humanizer live this run; the FAQ quote ('This tool is not intended to bypass AI detectors. Instead, it enhances clarity and coherence...') is unchanged. Used as light competitor-precedent color for this page's honest no-bypass framing (NOT a review of Grammarly -- this is a how-to guide, not a /vs page). applies_to extended to include /humanize-ai-text."
+        }
+      ]
+    },
+    {
+      "page": "/is-ai-writing-plagiarism",
+      "url": "https://metegpt.com/is-ai-writing-plagiarism",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 11,
+      "collection_sweep": {
+        "run_date": "2026-09-11",
+        "candidates_identified": 16,
+        "screened": 16,
+        "excluded": 5,
+        "excluded_by_reason": {
+          "unverifiable-this-run": 3,
+          "duplicate": 1,
+          "off-topic": 1
+        },
+        "included_this_run": 11,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-best-ai-humanizer-01",
+          "claim": "A peer-reviewed Stanford study found commercial GPT detectors misclassify non-native-English (TOEFL) essays as AI-written at a much higher rate than native-English essays, supporting the ESL false-positive risk warning.",
+          "quote": "they incorrectly labeled more than half of the TOEFL essays as 'AI-generated' (average false-positive rate: 61.3%)",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10382961/",
+          "source_date": "2023-07-10",
+          "platform": "peer-reviewed journal (Patterns, Cell Press; Liang et al., DOI 10.1016/j.patter.2023.100779)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
+        },
+        {
+          "id": "EV-turnitin-03",
+          "claim": "University of Pittsburgh's Teaching Center disabled Turnitin's AI-detection tool and does not endorse or support any AI-detection tool, stating current AI detection software is not reliable enough to deploy without substantial false-positive risk, and noting Turnitin itself acknowledged (June 2023) a higher false-positive rate than originally asserted.",
+          "quote": "Current AI detection software is not yet reliable enough to be deployed without a substantial risk of false positives.",
+          "source_url": "https://teaching.pitt.edu/resources/encouraging-academic-integrity/",
+          "source_date": "2026-02-09",
+          "platform": "university teaching-center guidance page (teaching.pitt.edu, primary institutional source; page carries a Feb 2026 update date)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched teaching.pitt.edu/resources/encouraging-academic-integrity/ live this run for the /is-ai-writing-plagiarism MEP census; the 'not yet reliable enough to be deployed without a substantial risk of false positives' quote re-confirmed verbatim, page last-reviewed date confirmed Feb 9, 2026. Extended to /is-ai-writing-plagiarism as a teaching-center-level false-positive caution, distinct from the OIA/ACU/Palo-Alto case-level evidence."
+        },
+        {
+          "id": "EV-turnitin-06",
+          "claim": "Australian Catholic University flagged nearly 6,000 misconduct referrals in 2024 (about 90% AI-related); around one-quarter of all referrals were dismissed after investigation, ACU's policy was to immediately dismiss any case relying solely on the Turnitin AI report, and ACU stopped using the Turnitin AI-detection tool in March 2025 after being aware of its problems for over a year.",
+          "quote": "Around one-quarter of all referrals were dismissed following investigation.",
+          "source_url": "https://futurism.com/artificial-intelligence/students-falsely-accused-cheating-with-ai",
+          "source_date": "2025-10-12",
+          "platform": "Futurism (journalism, citing ACU deputy vice-chancellor Andrew Broadley's statement to ABC News)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched futurism.com/artificial-intelligence/students-falsely-accused-cheating-with-ai live this run for the /is-ai-writing-plagiarism MEP census; the ~6,000-referrals/~90%-AI-related/~one-quarter-dismissed/March-2025-discontinuation figures re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as a defined-sample false-positive-risk data point (ACU's own dismissal rate after investigation) distinct from the Palo Alto single-case anchor (EV-turnitin-14)."
+        },
+        {
+          "id": "EV-turnitin-14",
+          "claim": "A Palo Alto High School family filed a federal civil-rights lawsuit (May 5, 2026, N.D. Cal.) after Turnitin flagged their sophomore son's essay on The Crucible as 76% likely AI-written; the school forced an in-class rewrite that dropped his grade from an A/B to a D, and the district refused to restore the grade despite 1,162 pages of Google Docs revision-history evidence submitted by the family. This is the most recent and most severe documented consequence on record — escalating from an academic dispute to federal litigation.",
+          "quote": "Our AI writing detection model may not always be accurate — it may misidentify human-written, AI-generated, and AI-paraphrased text — so it should not be used as the sole basis for adverse actions against a student.",
+          "source_url": "https://sfstandard.com/2026/05/11/ai-detection-cheating-palo-alto/",
+          "source_date": "2026-05-11",
+          "platform": "SF Standard (journalism, citing Turnitin's own guidance language and the filed federal complaint)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-07",
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched sfstandard.com/2026/05/11/ai-detection-cheating-palo-alto/ live this run for the /is-ai-writing-plagiarism MEP census; Turnitin's own guidance-language quote ('...should not be used as the sole basis for adverse actions against a student') re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the most severe documented consequence anchor for the false-positive-risk section (why a student who genuinely wrote their own work should check before submitting rather than assume a flag is correct)."
+        },
+        {
+          "id": "EV-good-ai-score-01",
+          "claim": "Carnegie Mellon University's Eberly Center for Teaching Excellence documents that acceptable-AI-use expectations vary by course and instructor and presents a range of distinct sample course policies -- from prohibiting all AI use to actively encouraging it -- an institutional teaching-center source showing there is no fixed acceptable percentage of AI content, because the permissible level is set per course by the instructor, not by any universal number.",
+          "quote": "Note that expectations for 'plagiarism, cheating, and acceptable assistance' on student work may vary across your courses and instructors.",
+          "source_url": "https://www.cmu.edu/teaching/technology/aitools/academicintegrity/index.html",
+          "source_date": "undated page (copyright 2025); live-fetched 2026-08-15",
+          "platform": "university teaching-center guidance (Carnegie Mellon University Eberly Center for Teaching Excellence) -- institutional third party, not a detector vendor",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-15",
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched cmu.edu/teaching/technology/aitools/academicintegrity/index.html live this run for the /is-ai-writing-plagiarism MEP census; the 'expectations for plagiarism, cheating, and acceptable assistance... may vary across your courses and instructors' quote re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the core 'institutional policies differ' evidence, paired with EV-good-ai-score-02 (Missouri) and the new EV-is-ai-writing-plagiarism-03 (Touro, prohibitive) and -04 (MLA, disclosure mechanism)."
+        },
+        {
+          "id": "EV-good-ai-score-02",
+          "claim": "The University of Missouri Office of Academic Integrity states that permitted AI use is determined by the instructor -- using ChatGPT as the professor allows is not academic dishonesty, while using it without permission is a violation -- a second institutional source that the acceptable level of AI is set by the course/instructor, not by any universal percentage threshold.",
+          "quote": "If your professor allows you to use ChatGPT, and you use it as permitted, then you are not committing academic dishonesty. ... Students who use ChatGPT and similar tools without permission, or who use them in improper ways, are violating the academic integrity rules.",
+          "source_url": "https://oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/",
+          "source_date": "2023-08 (page states updated August 2023 from March 2023); live-fetched 2026-08-15",
+          "platform": "university academic-integrity office (University of Missouri Office of Academic Integrity) -- institutional third party, not a detector vendor",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-15",
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/ live this run for the /is-ai-writing-plagiarism MEP census; both the permitted-use and unauthorized-use sentences re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the core institutional source for the page's central distinction: authorized/disclosed AI use is not a violation, undisclosed/unauthorized use is -- framed by Missouri as a violation of academic integrity rules generally, not specifically labeled 'plagiarism' (contrast with Touro, EV-is-ai-writing-plagiarism-03, which does label it plagiarism)."
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-01",
+          "claim": "San Jose State University's official Academic Integrity Policy (F15-7, in force since Nov 5, 2015) codifies plagiarism and cheating as two SEPARATE definitions: plagiarism is specifically \"the act of representing the work of ANOTHER as one's own without giving appropriate credit,\" while cheating is the broader \"act of obtaining credit... through the use of any dishonest, deceptive, or fraudulent means\" -- a primary institutional source for the structural distinction this page's thesis rests on (AI output has no other person's work to misrepresent, so undisclosed AI use is a poor definitional fit for \"plagiarism\" and a better fit for the broader \"cheating\"/unauthorized-assistance category).",
+          "quote": "San Jose State University defines plagiarism as the act of representing the work of another as one's own without giving appropriate credit, regardless of how that work was obtained, and submitting it to fulfill academic requirements.",
+          "source_url": "https://www.sjsu.edu/studentconduct/docs/SJSU-Academic-Integrity-Policy-F15-7.pdf",
+          "source_date": "2015-11-05 (approved/signed; still the university's current codified Academic Integrity Policy per sjsu.edu/studentconduct, captured 2026-09-11)",
+          "platform": "university policy document (San Jose State University, Office of the Academic Senate / Student Conduct and Ethical Development) -- primary institutional source, not a vendor",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-02",
+          "claim": "VENDOR SOURCE (GPTZero, a competing AI-detection company -- self-interested, labeled): GPTZero's own blog (Dec 17, 2025) frames the difference between traditional plagiarism and undisclosed AI use as a difference in the underlying question asked -- \"Traditional plagiarism asks, Where did this come from? AI-related misconduct asks, Who actually did the work?\" -- and cites San Jose State University's own definition of traditional plagiarism as its institutional anchor.",
+          "quote": "Traditional plagiarism asks, Where did this come from? AI-related misconduct asks, Who actually did the work?",
+          "source_url": "https://gptzero.me/news/plagiarism-vs-ai-plagiarism/",
+          "source_date": "2025-12-17",
+          "platform": "GPTZero company blog -- SELF-INTERESTED VENDOR SOURCE (GPTZero sells AI-detection software; has a commercial interest in AI-related misconduct being treated as a serious, named category). Cited here only for its definitional framing, not for any detector-accuracy claim.",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-03",
+          "claim": "Touro University's Artificial Intelligence Addendum to its academic integrity policy (effective Jan 1, 2026) requires every course syllabus to state the course's AI policy, and takes the PROHIBITIVE/strict position that undisclosed AI use is itself classified as plagiarism regardless of what the syllabus says -- a documented example of an institution that folds undisclosed AI use directly into its plagiarism definition, in contrast to institutions (e.g. University of Missouri, EV-good-ai-score-02) that treat unauthorized AI use as a separate 'unauthorized assistance' category.",
+          "quote": "If a student uses AI and does not acknowledge said use, regardless of any statements made or not made in the syllabus, it is considered plagiarism and subject to disciplinary proceedings and sanctions.",
+          "source_url": "https://www.touro.edu/students/policies/academic-integrity/artificial-intelligence-ai-addendum/",
+          "source_date": "2026-01-01 (effective date stated on page; captured 2026-09-11)",
+          "platform": "university policy page (Touro University, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-04",
+          "claim": "The MLA Style Center's official generative-AI citation guidance states writers must cite an AI tool whenever they paraphrase, quote, or incorporate AI-created content into their own work, and must acknowledge functional AI uses (editing, translating) in a note or in-text -- the documented basis for disclosure-based (cite-it) institutional AI policies, as distinct from prohibition-based policies.",
+          "quote": "you should acknowledge all functional uses of the tool (like editing your prose or translating words) in a note, your text, or another suitable location",
+          "source_url": "https://style.mla.org/citing-generative-ai/",
+          "source_date": "2023-03-17 (original MLA guidance; captured 2026-09-11)",
+          "platform": "Modern Language Association (MLA) Style Center -- primary style-authority source, not a university policy office, but the citation mechanism many disclosure-based university policies point to",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-05",
+          "claim": "The International Center for Academic Integrity (ICAI) -- the recognized cross-institutional authority body in this field, whose framework underlies most university academic-integrity offices' own policies -- defines academic integrity itself as a commitment to six fundamental values (honesty, trust, fairness, respect, responsibility, courage), used on-page only as the general authority anchor for 'what academic integrity means' underneath the plagiarism/AI-use distinction, not as an AI-specific definition.",
+          "quote": "A commitment, even in the face of adversity, to six fundamental values: honesty, trust, fairness, respect, responsibility, and courage.",
+          "source_url": "https://www.academicintegrity.org/aws/ICAI/pt/sp/values",
+          "source_date": "undated page (ICAI's Fundamental Values framework; live-fetched 2026-09-11)",
+          "platform": "International Center for Academic Integrity (ICAI) official site -- primary authority-body source, not a vendor",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
         }
       ]
     },
@@ -3457,9 +3636,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-detect-03",
@@ -3679,9 +3858,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-01",
@@ -3973,9 +4152,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-quetext-ai-detector-01",
@@ -4180,9 +4359,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -4485,9 +4664,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-sapling-ai-detector-01",
@@ -4679,9 +4858,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-scribbr-01",
@@ -4958,9 +5137,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -5014,9 +5193,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07",
-          "re_verified_status": "logged",
-          "re_verified_note": "re-fetched teaching.pitt.edu page live this run; quote, June-2023 Turnitin acknowledgment reference, and Feb 9 2026 update-date all unchanged."
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched teaching.pitt.edu/resources/encouraging-academic-integrity/ live this run for the /is-ai-writing-plagiarism MEP census; the 'not yet reliable enough to be deployed without a substantial risk of false positives' quote re-confirmed verbatim, page last-reviewed date confirmed Feb 9, 2026. Extended to /is-ai-writing-plagiarism as a teaching-center-level false-positive caution, distinct from the OIA/ACU/Palo-Alto case-level evidence."
         },
         {
           "id": "EV-turnitin-04",
@@ -5042,9 +5221,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-07-07",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched futurism.com page live this run; quote, ACU figures (~6,000 referrals 2024, ~90% AI-related, ~1/4 dismissed, stopped March 2025) all unchanged. Publish date confirmed 2025-10-12."
+          "re_verified_note": "Re-fetched futurism.com/artificial-intelligence/students-falsely-accused-cheating-with-ai live this run for the /is-ai-writing-plagiarism MEP census; the ~6,000-referrals/~90%-AI-related/~one-quarter-dismissed/March-2025-discontinuation figures re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as a defined-sample false-positive-risk data point (ACU's own dismissal rate after investigation) distinct from the Palo Alto single-case anchor (EV-turnitin-14)."
         },
         {
           "id": "EV-turnitin-07",
@@ -5139,10 +5318,10 @@
           "platform": "SF Standard (journalism, citing Turnitin's own guidance language and the filed federal complaint)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-07",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-11",
+          "re_verified_status": "reconfirmed-live",
+          "re_verified_note": "Re-fetched sfstandard.com/2026/05/11/ai-detection-cheating-palo-alto/ live this run for the /is-ai-writing-plagiarism MEP census; Turnitin's own guidance-language quote ('...should not be used as the sole basis for adverse actions against a student') re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the most severe documented consequence anchor for the false-positive-risk section (why a student who genuinely wrote their own work should check before submitting rather than assume a flag is correct)."
         },
         {
           "id": "EV-bypass-ai-detector-07",
@@ -5486,9 +5665,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-gpthuman-01",
@@ -5838,9 +6017,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-best-ai-humanizer-03",
@@ -6947,9 +7126,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-turnitin-10",
@@ -7267,9 +7446,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
+          "re_verified_date": "2026-09-11",
           "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run (flow how-ai-detectors-work-2026-08-20); DOI 10.1016/j.patter.2023.100779 and the 61.3% average-false-positive TOEFL quote both re-confirmed. Also re-confirmed: the PUBLISHED Patterns version states detectors 'accurately classified the US student essays' but publishes NO numeric native-English false-positive figure — the ~5.19% native baseline circulating elsewhere is preprint-only and must be framed as preprint-only or omitted. applies_to extended to /how-ai-detectors-work."
+          "re_verified_note": "Re-fetched pmc.ncbi.nlm.nih.gov/articles/PMC10382961/ live this run for the /is-ai-writing-plagiarism MEP census; DOI 10.1016/j.patter.2023.100779 and the 61.3% average TOEFL false-positive quote both re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the documented false-positive-risk evidence backing the page's honest caution that AI-detector flags are not proof of AI-generated authorship, distinct from the plagiarism/cheating definitional claims (EV-is-ai-writing-plagiarism-01/02/03)."
         },
         {
           "id": "EV-zerogpt-ai-detector-01",
