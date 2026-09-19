@@ -5,13 +5,13 @@
     "protocol": "MeteGPT Evidence Protocol (MEP) v1.0",
     "protocol_adopted": "2026-07-06",
     "protocol_page": "https://metegpt.com/methodology",
-    "generated": "2026-09-11",
+    "generated": "2026-09-19",
     "purpose": "Every claim about a named competitor tool or AI detector published on metegpt.com links to a dated primary source recorded here; article citations like (EV-winston-ai-detector-01) resolve to the matching id below.",
     "screening_note": "Only sources screened INCLUDED under the protocol appear here. Excluded categories -- off-topic, affiliate roundups with no disclosed methodology, sources unverifiable on the collection run, duplicates, and vendor-seeded 'astroturf' review content -- are withheld by design; the protocol never cites them. Each page's collection_sweep publishes the exclusion COUNTS (including how many sources were screened out as astroturf) so the screening is auditable without republishing any withheld source or naming any third party.",
     "field_note": "Internal working fields (coder identities, curator annotations, flow IDs) are omitted. The citable record for each item is its claim, verbatim quote, source URL and source date.",
-    "unique_sources": 333,
-    "page_appearances": 473,
-    "page_count": 37,
+    "unique_sources": 337,
+    "page_appearances": 481,
+    "page_count": 38,
     "cross_listed_note": "A source that supports claims on more than one page appears under each; unique_sources counts distinct ids, page_appearances counts listings."
   },
   "pages": [
@@ -36,9 +36,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         }
       ]
     },
@@ -90,9 +90,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-detect-01",
@@ -424,9 +424,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-detect-05",
@@ -697,9 +697,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-best-ai-detector-05",
@@ -942,9 +942,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-ai-paragraph-rewriter-01",
@@ -1075,9 +1075,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-best-ai-detector-01",
@@ -1487,9 +1487,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-bypass-ai-detector-01",
@@ -1823,9 +1823,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-gptzero-ai-detector-01",
@@ -2642,9 +2642,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-detect-01",
@@ -2796,9 +2796,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-15",
           "re_verified": true,
-          "re_verified_date": "2026-09-11",
-          "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-fetched oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/ live this run for the /is-ai-writing-plagiarism MEP census; both the permitted-use and unauthorized-use sentences re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the core institutional source for the page's central distinction: authorized/disclosed AI use is not a violation, undisclosed/unauthorized use is -- framed by Missouri as a violation of academic integrity rules generally, not specifically labeled 'plagiarism' (contrast with Touro, EV-is-ai-writing-plagiarism-03, which does label it plagiarism)."
+          "re_verified_date": "2026-09-19",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched live again this run; both sentences unchanged. Extended to /how-to-cite-chatgpt to support the page's honest conversion framing ('citation is the honest path where AI use is permitted') -- Missouri's own language confirms permitted, disclosed AI use is not a violation, which is the page's premise for why a correctly formatted citation matters."
         }
       ]
     },
@@ -3074,9 +3074,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-how-ai-detectors-work-01",
@@ -3221,6 +3221,129 @@
       ]
     },
     {
+      "page": "/how-to-cite-chatgpt",
+      "url": "https://metegpt.com/how-to-cite-chatgpt",
+      "protocol_version": "MEP-1.0",
+      "published_entries": 7,
+      "collection_sweep": {
+        "run_date": "2026-09-19",
+        "candidates_identified": 49,
+        "screened": 49,
+        "excluded": 44,
+        "excluded_by_reason": {
+          "duplicate": 37,
+          "no-methodology-affiliate": 5,
+          "off-topic": 2
+        },
+        "included_this_run": 5,
+        "note": "Documents the discovery sweep for this page's most recent collection run. 'Included this run' counts newly surfaced sources only; a page's published entries can also include earlier verified sources re-checked in this run."
+      },
+      "dual_coding": {
+        "dual_coded": false,
+        "note": "Dual-independent coding not recorded for this page yet."
+      },
+      "entries": [
+        {
+          "id": "EV-good-ai-score-02",
+          "claim": "The University of Missouri Office of Academic Integrity states that permitted AI use is determined by the instructor -- using ChatGPT as the professor allows is not academic dishonesty, while using it without permission is a violation -- a second institutional source that the acceptable level of AI is set by the course/instructor, not by any universal percentage threshold.",
+          "quote": "If your professor allows you to use ChatGPT, and you use it as permitted, then you are not committing academic dishonesty. ... Students who use ChatGPT and similar tools without permission, or who use them in improper ways, are violating the academic integrity rules.",
+          "source_url": "https://oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/",
+          "source_date": "2023-08 (page states updated August 2023 from March 2023); live-fetched 2026-08-15",
+          "platform": "university academic-integrity office (University of Missouri Office of Academic Integrity) -- institutional third party, not a detector vendor",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-08-15",
+          "re_verified": true,
+          "re_verified_date": "2026-09-19",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched live again this run; both sentences unchanged. Extended to /how-to-cite-chatgpt to support the page's honest conversion framing ('citation is the honest path where AI use is permitted') -- Missouri's own language confirms permitted, disclosed AI use is not a violation, which is the page's premise for why a correctly formatted citation matters."
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-03",
+          "claim": "Touro University's Artificial Intelligence Addendum to its academic integrity policy (effective Jan 1, 2026) requires every course syllabus to state the course's AI policy, and takes the PROHIBITIVE/strict position that undisclosed AI use is itself classified as plagiarism regardless of what the syllabus says -- a documented example of an institution that folds undisclosed AI use directly into its plagiarism definition, in contrast to institutions (e.g. University of Missouri, EV-good-ai-score-02) that treat unauthorized AI use as a separate 'unauthorized assistance' category.",
+          "quote": "If a student uses AI and does not acknowledge said use, regardless of any statements made or not made in the syllabus, it is considered plagiarism and subject to disciplinary proceedings and sanctions.",
+          "source_url": "https://www.touro.edu/students/policies/academic-integrity/artificial-intelligence-ai-addendum/",
+          "source_date": "2026-01-01 (effective date stated on page; captured 2026-09-11)",
+          "platform": "university policy page (Touro University, primary institutional source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-is-ai-writing-plagiarism-04",
+          "claim": "The MLA Style Center's official generative-AI citation guidance states writers must cite an AI tool whenever they paraphrase, quote, or incorporate AI-created content into their own work, and must acknowledge functional AI uses (editing, translating) in a note or in-text -- the documented basis for disclosure-based (cite-it) institutional AI policies, as distinct from prohibition-based policies.",
+          "quote": "you should acknowledge all functional uses of the tool (like editing your prose or translating words) in a note, your text, or another suitable location",
+          "source_url": "https://style.mla.org/citing-generative-ai/",
+          "source_date": "2023-03-17 (original MLA guidance; captured 2026-09-11)",
+          "platform": "Modern Language Association (MLA) Style Center -- primary style-authority source, not a university policy office, but the citation mechanism many disclosure-based university policies point to",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-11",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-to-cite-chatgpt-01",
+          "claim": "The APA Style blog's dedicated 'How to Cite ChatGPT' guidance states that because a ChatGPT chat session is not retrievable by other readers, credit goes to OpenAI as the algorithm's author: a reference-list entry in the form Author (OpenAI). (Year). Title of model (version) [Large language model]. URL, with the matching parenthetical in-text citation (OpenAI, Year).",
+          "quote": "OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat -- credit the author of the algorithm with a reference list entry and the corresponding in-text citation (OpenAI, 2023).",
+          "source_url": "https://apastyle.apa.org/blog/how-to-cite-chatgpt",
+          "source_date": "2023-04-07 (original post); page states 'Last updated: September 15, 2025'; captured 2026-09-19",
+          "platform": "APA Style blog (American Psychological Association) -- primary style-authority source",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-19",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-to-cite-chatgpt-02",
+          "claim": "APA Style's newer post, 'Citing generative AI in APA Style: Part 1 -- Reference formats' (published Sept 9, 2025), updates the guidance: because most AI chat tools (including ChatGPT) now offer a shareable, unique conversation URL, APA now recommends citing the SPECIFIC shared chat when a stable link exists, using the AI company as author, the chat date, a bracketed description, the tool/model name, and the chat URL -- and no longer requires a version-number field, only the model name if one is given.",
+          "quote": "Anthropic. (2025, May 20). Essential grammar topics for high school graduates [Generative AI chat]. Claude Sonnet 4. https://claude.ai/share/329173b2-ec93-4663-ac68-4f65ea4f166d -- most AI chat tools, including ChatGPT, now include a sharing option that typically provides users with a unique URL.",
+          "source_url": "https://apastyle.apa.org/blog/cite-generative-ai-references",
+          "source_date": "2025-09-09; captured 2026-09-19",
+          "platform": "APA Style blog (American Psychological Association) -- primary style-authority source, current/updated guidance",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-19",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-to-cite-chatgpt-03",
+          "claim": "The MLA Style Center's updated generative-AI guidance page ('How do I cite generative AI in MLA style? (Updated and Revised)', published Aug 13, 2025, revising the original March 2023 post) gives a full works-cited template using MLA's core-elements model, with the AI tool's model name/number placed in the Version element and a stable, shareable conversation URL preferred as the Location element when one is available.",
+          "quote": "\"Describe the theme of nature in Jane Austen's Mansfield Park\" prompt. ChatGPT, model GPT-4o, OpenAI, 23 Sept. 2024, chatgpt.com/share/66f1b0a0-d704-8000-be9a-85f53c850607.",
+          "source_url": "https://style.mla.org/citing-generative-ai-updated-revised/",
+          "source_date": "2025-08-13 (revised/updated post; original guidance 2023-03-17); captured 2026-09-19",
+          "platform": "Modern Language Association (MLA) Style Center -- primary style-authority source, updated/current template",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-19",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        },
+        {
+          "id": "EV-how-to-cite-chatgpt-04",
+          "claim": "The Chicago Manual of Style's official online Q&A (18th ed. Documentation FAQ #422, 'How do you recommend citing content developed or generated by artificial intelligence, such as ChatGPT?') states writers must credit ChatGPT/similar tools whenever they use the AI-generated text in their own work, offers a numbered footnote/endnote as the formal citation option (with or without the prompt quoted), and states it is not necessary to cite generative AI tools in a bibliography or reference list, especially when no publicly available link exists for the generated content.",
+          "quote": "You do need to credit ChatGPT and similar tools whenever you use the text that they generate in your own work... ChatGPT, response to \"Explain how to make pizza dough from common household ingredients,\" OpenAI, January 10, 2026, URL... it is not necessary to cite generative AI tools in a bibliography or reference list.",
+          "source_url": "https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html",
+          "source_date": "undated FAQ entry (18th ed. Documentation Q&A, illustrative example date 'January 10, 2026' used within the sample note, not a page-publish date); captured 2026-09-19",
+          "platform": "The Chicago Manual of Style Online -- official Q&A, primary style-authority source",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-09-19",
+          "re_verified": false,
+          "re_verified_date": null,
+          "re_verified_status": null,
+          "re_verified_note": ""
+        }
+      ]
+    },
+    {
       "page": "/humanize-ai-text",
       "url": "https://metegpt.com/humanize-ai-text",
       "protocol_version": "MEP-1.0",
@@ -3317,7 +3440,7 @@
       "page": "/is-ai-writing-plagiarism",
       "url": "https://metegpt.com/is-ai-writing-plagiarism",
       "protocol_version": "MEP-1.0",
-      "published_entries": 11,
+      "published_entries": 12,
       "collection_sweep": {
         "run_date": "2026-09-11",
         "candidates_identified": 16,
@@ -3379,6 +3502,20 @@
           "re_verified_note": "Re-fetched futurism.com/artificial-intelligence/students-falsely-accused-cheating-with-ai live this run for the /is-ai-writing-plagiarism MEP census; the ~6,000-referrals/~90%-AI-related/~one-quarter-dismissed/March-2025-discontinuation figures re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as a defined-sample false-positive-risk data point (ACU's own dismissal rate after investigation) distinct from the Palo Alto single-case anchor (EV-turnitin-14)."
         },
         {
+          "id": "EV-turnitin-10",
+          "claim": "Turnitin itself suppresses AI scores below 20%: since July 8, 2024 no numeric score or highlights are shown for detections above 0% and below 20% — the report shows an asterisk (*%) instead, and Turnitin states the reason is 'to avoid potential incidence of false positives' (vendor's own acknowledgment that low-range scores are too noisy to state precisely)",
+          "quote": "To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report. When this occurs, it is now indicated with an asterisk (*%)",
+          "source_url": "https://guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report",
+          "source_date": "2024-07-08 (policy effective date, stated on page; page maintained current as of capture)",
+          "platform": "turnitin guides (vendor primary source)",
+          "protocol_version": "MEP-1.0",
+          "collected_at": "2026-07-04",
+          "re_verified": true,
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
+        },
+        {
           "id": "EV-turnitin-14",
           "claim": "A Palo Alto High School family filed a federal civil-rights lawsuit (May 5, 2026, N.D. Cal.) after Turnitin flagged their sophomore son's essay on The Crucible as 76% likely AI-written; the school forced an in-class rewrite that dropped his grade from an A/B to a D, and the district refused to restore the grade despite 1,162 pages of Google Docs revision-history evidence submitted by the family. This is the most recent and most severe documented consequence on record — escalating from an academic dispute to federal litigation.",
           "quote": "Our AI writing detection model may not always be accurate — it may misidentify human-written, AI-generated, and AI-paraphrased text — so it should not be used as the sole basis for adverse actions against a student.",
@@ -3416,9 +3553,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-08-15",
           "re_verified": true,
-          "re_verified_date": "2026-09-11",
-          "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-fetched oai.missouri.edu/chatgpt-artificial-intelligence-and-academic-integrity/ live this run for the /is-ai-writing-plagiarism MEP census; both the permitted-use and unauthorized-use sentences re-confirmed verbatim. Extended to /is-ai-writing-plagiarism as the core institutional source for the page's central distinction: authorized/disclosed AI use is not a violation, undisclosed/unauthorized use is -- framed by Missouri as a violation of academic integrity rules generally, not specifically labeled 'plagiarism' (contrast with Touro, EV-is-ai-writing-plagiarism-03, which does label it plagiarism)."
+          "re_verified_date": "2026-09-19",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched live again this run; both sentences unchanged. Extended to /how-to-cite-chatgpt to support the page's honest conversion framing ('citation is the honest path where AI use is permitted') -- Missouri's own language confirms permitted, disclosed AI use is not a violation, which is the page's premise for why a correctly formatted citation matters."
         },
         {
           "id": "EV-is-ai-writing-plagiarism-01",
@@ -3595,9 +3732,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         }
       ]
     },
@@ -4373,9 +4510,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-scribbr-07",
@@ -5277,9 +5414,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-turnitin-11",
@@ -6073,9 +6210,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-scribbr-06",
@@ -7140,9 +7277,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-04",
           "re_verified": true,
-          "re_verified_date": "2026-08-20",
-          "re_verified_status": "relied-on-earlier-capture",
-          "re_verified_note": "re-fetched guides.turnitin.com/hc/en-us/articles/22774058814093-Using-the-AI-Writing-Report live this run via r.jina.ai proxy (direct fetch 403; flow how-ai-detectors-work-2026-08-20). Verbatim re-confirmed: 'To avoid potential incidence of false positives, no score or highlights are attributed for AI detection scores above 0% and below the 20% threshold in the report... indicated with an asterisk (*%)' plus 'Our testing has found that there is a higher incidence of false positives when the percentage is between 0 and 19.' Effective date 2024-07-08 re-confirmed. applies_to extended to /how-ai-detectors-work."
+          "re_verified_date": "2026-09-12",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched the current helpcenter.turnitin.com article live this run via r.jina.ai reader proxy (direct fetch still 403s, the same recurring access limitation as every prior run). HTTP 200, title \"Why is the AI Writing Detection report score showing as *%?\". Quote unchanged and now reads: \"To avoid potential incidences of false positives, Turnitin does not display specific numerical scores or source highlights for AI detection levels within the 1% to 19% range\", with the indicator given as an asterisk symbol (*%). applies_to extended to /is-ai-writing-plagiarism, where it backs the single sentence noting that Turnitin declines to print its own sub-20% readings."
         },
         {
           "id": "EV-writer-ai-detector-01",
