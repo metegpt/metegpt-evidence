@@ -3059,9 +3059,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07",
-          "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-fetched undetectable.ai/blog/gpthuman-ai-review live this run; GPTZero 100%->8%, Grammarly 62%->0%, Undetectable AI 99%->62% figures all confirmed unchanged, plus 'can fool basic detectors...better detectors can still pick up on underlying traces of AI' concluding language reconfirmed."
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched undetectable.ai/blog/gpthuman-ai-review live 2026-09-22: Grammarly AI Detector 62% AI before / 0% AI after unchanged; dated November 3, 2025."
         },
         {
           "id": "EV-grammarly-04",
@@ -3072,10 +3072,10 @@
           "platform": "vendor primary source (grammarly.com/ai-detector; self-interested -- Grammarly's own product page, describing its AI Detector, a different product from the AI Humanizer)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched grammarly.com/ai-detector live 2026-09-22: '99% detection accuracy and ranks #1 on RAID's independent benchmark' unchanged; page also carries 'No AI detector is 100% accurate' caveat."
         },
         {
           "id": "EV-grammarly-05",
@@ -3086,10 +3086,10 @@
           "platform": "vendor blog (originality.ai; self-interested -- Originality.ai sells a competing AI detector, reviewing a rival's detector, but discloses its full testing methodology)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched originality.ai/blog/grammarly-ai-detector-review live 2026-09-22: F1 0.364, recall 0.222, the paraphrasing/spellings/formatting evasion sentence, and unmodified ChatGPT scores 99%/93%/71% (blog post/research paper/promotional email) all unchanged; dated November 12, 2025."
         },
         {
           "id": "EV-grammarly-08",
@@ -3100,10 +3100,10 @@
           "platform": "independent tech journalism (makeuseof.com; not a competing AI-humanizer or AI-detector vendor -- lower self-interest than the vendor-blog sources in this set)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched makeuseof.com/grammarly-turned-into-superhuman-app live 2026-09-22: Humanizer 'I couldn't actually get this to work during my testing' unchanged; AI Detector ran on the reviewer's own article (no detection) and on copied samples. Byline Gavin Phillips, Oct 30, 2025."
         },
         {
           "id": "EV-grammarly-ai-detector-01",
@@ -6009,9 +6009,9 @@
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-05",
           "re_verified": true,
-          "re_verified_date": "2026-07-07",
-          "re_verified_status": "reconfirmed-live",
-          "re_verified_note": "Re-fetched undetectable.ai/blog/gpthuman-ai-review live this run; GPTZero 100%->8%, Grammarly 62%->0%, Undetectable AI 99%->62% figures all confirmed unchanged, plus 'can fool basic detectors...better detectors can still pick up on underlying traces of AI' concluding language reconfirmed."
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched undetectable.ai/blog/gpthuman-ai-review live 2026-09-22: Grammarly AI Detector 62% AI before / 0% AI after unchanged; dated November 3, 2025."
         },
         {
           "id": "EV-gpthuman-08",
@@ -6163,10 +6163,10 @@
           "platform": "vendor primary source (grammarly.com/ai-detector; self-interested -- Grammarly's own product page, describing its AI Detector, a different product from the AI Humanizer)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched grammarly.com/ai-detector live 2026-09-22: '99% detection accuracy and ranks #1 on RAID's independent benchmark' unchanged; page also carries 'No AI detector is 100% accurate' caveat."
         },
         {
           "id": "EV-grammarly-05",
@@ -6177,10 +6177,10 @@
           "platform": "vendor blog (originality.ai; self-interested -- Originality.ai sells a competing AI detector, reviewing a rival's detector, but discloses its full testing methodology)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched originality.ai/blog/grammarly-ai-detector-review live 2026-09-22: F1 0.364, recall 0.222, the paraphrasing/spellings/formatting evasion sentence, and unmodified ChatGPT scores 99%/93%/71% (blog post/research paper/promotional email) all unchanged; dated November 12, 2025."
         },
         {
           "id": "EV-grammarly-06",
@@ -6219,10 +6219,10 @@
           "platform": "independent tech journalism (makeuseof.com; not a competing AI-humanizer or AI-detector vendor -- lower self-interest than the vendor-blog sources in this set)",
           "protocol_version": "MEP-1.0",
           "collected_at": "2026-07-10",
-          "re_verified": false,
-          "re_verified_date": null,
-          "re_verified_status": null,
-          "re_verified_note": ""
+          "re_verified": true,
+          "re_verified_date": "2026-09-22",
+          "re_verified_status": "logged",
+          "re_verified_note": "Re-fetched makeuseof.com/grammarly-turned-into-superhuman-app live 2026-09-22: Humanizer 'I couldn't actually get this to work during my testing' unchanged; AI Detector ran on the reviewer's own article (no detection) and on copied samples. Byline Gavin Phillips, Oct 30, 2025."
         }
       ]
     },
